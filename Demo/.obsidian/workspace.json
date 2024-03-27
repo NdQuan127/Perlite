@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps/Bí thuật MOC.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maps/Bí thuật MOC.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maps/Bí thuật MOC.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maps/Bí thuật MOC.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,9 +146,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbc471d3928a7452",
+  "active": "9e3bc554e53cf0cf",
   "lastOpenFiles": [
-    "README.md",
-    "Maps/Bí thuật MOC.md"
+    "Notes/Những nhà tư bản trung thực sẽ nói gì.md",
+    "Notes/MPV.md",
+    "Notes/Lược sử phát triển của lý thuyết lượng tử.md",
+    "Notes/Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web.md",
+    "Notes/DNS là cái chi mô răng rứa.md",
+    "Notes/Chủ nghĩa Marx đô thị.md",
+    "Notes/All Tomorrows verse- C.M Kosemen (Memo Ramjet).md",
+    "Notes/THẾ GIỚI TIỀN SCI-HUB.md",
+    "Notes/Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”.md",
+    "Notes/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey.md",
+    "Notes/uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư.md",
+    "Notes/Tổng hợp các trang web tải nhạc chất lượng cao.md",
+    "Notes/Tối ưu DNS.md",
+    "Notes/Tôi sẽ tát vô mặt bạn và hét lên rằng Marxism VÔ TỘI.md",
+    "Notes/System Architecture.md",
+    "Notes/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard.md",
+    "Notes/Quy định sẽ không bao giờ kết thúc được các cuộc khủng hoảng ngân hàng..md",
+    "Notes/ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn.md",
+    "Notes/Phật Giáo – Bạo Lực – Chiến Tranh – Răng nanh và Móng vuốt của Đức Phật..md",
+    "Notes/Phần mềm vẽ sơ đồ tư duy SimpleMind.md",
+    "Notes/Phần mềm dọn dẹp Reg Organizer.md",
+    "Notes/Một chủ nghĩa Marx xanh hơn.md",
+    "Notes/Một bài viết ấn tượng về Liên Xô thời Stalin.md",
+    "Notes/Lảm nhảm về văn minh Đông Nam Á.md",
+    "Notes/Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome.md",
+    "Notes/ECH và cách thức nhà mạng chặn trang web cũng như cách vượt.md",
+    "Utilities/Images/X.drawio1.png",
+    "Utilities/Images/X.drawio.png",
+    "Utilities/Images/X.drawio 1.png",
+    "Utilities/Images/WPFGameWorld.png",
+    "Utilities/Images/WPFGameScreen.png",
+    "Utilities/Images/wolverine-tethered.jpg",
+    "Utilities/Images/whelan-space-station-1978-mod.jpg",
+    "Utilities/Images/whelan-the-wave-1994.jpg",
+    "Utilities/Images/wallpaperflare.com_wallpaper.jpg",
+    "Utilities/Images/walkator-dwigDz0t6TY-unsplash.jpg",
+    "Utilities/Templates",
+    "Utilities/Images",
+    "Utilities",
+    "Special/Excalidraw",
+    "Special",
+    "Notes/Sources/PDF/Những ý tưởng cách mạng của Karl Marx.pdf",
+    "Notes/Sources/PDF/[Konrad Schmudgen] Unbounded self-adjoint operators on Hilbert space.pdf",
+    "Notes/Sources/PDF/Networking Essentials.pdf",
+    "Notes/Sources/PDF/Learning_algos.pdf",
+    "Notes/Sources/PDF",
+    "Maps/Book library.canvas",
+    "Atlas/Maps/Book library.canvas"
   ]
 }

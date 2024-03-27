@@ -16,26 +16,26 @@ Các chủ đề tôi sẽ chia sẻ cho các bạn sẽ nằm trong thư mục 
 ### Philosophy & Politics 📚
 > [!kanban]+
 > - [Marxism MOC](Maps/Marxism%20MOC.md)
-> 	- ![Karl_Marx_001(1)](1)).jpg)
+> 	- ![Karl_Marx_001(1)](1)))))).jpg)
 > - [Nationalism MOC](Nationalism%20MOC)
-> 	- ![Imagined_Comm(1)](1)).webp)
+> 	- ![Imagined_Comm(1)](1)))))).webp)
 > - [International Relations MOC](International%20Relations%20MOC)
-> 	- ![international-relations-1160x619(1)](1)).png)
+> 	- ![international-relations-1160x619(1)](1)))))).png)
 
 ### Computer 🖥️
 > [!kanban]+ 
 > - [Firefox MOC](Maps/Firefox%20MOC.md) 
-> 	- ![1023688(1)](1)).jpg)
+> 	- ![1023688(1)](1)))))).jpg)
 > - [Bí thuật MOC](Maps/Bí%20thuật%20MOC.md)
-> 	- ![pxfuel(2)](2)).jpg)
+> 	- ![pxfuel(2)](2)))))).jpg)
 > - [Obsidian MOC](Obsidian%20MOC)
-> 	- ![NMLqtTg(1)](1)).png)
+> 	- ![NMLqtTg(1)](1)))))).png)
 
 ### Books 📔
 > [!kanban]+ 
 > - [Expose Books and Authors MOC](Expose%20Books%20and%20Authors%20MOC) 
-> 	- ![pp,840x830-pad,1000x1000,f8f8f8.u13(1)](1)).jpg)
+> 	- ![pp,840x830-pad,1000x1000,f8f8f8.u13(1)](1)))))).jpg)
 > - [Kiến thức căn bản về sách](Kiến%20thức%20căn%20bản%20về%20sách) 
-> 	- ![oldbooks(1)(2)](1)(2))(2).jpg)
+> 	- ![oldbooks(1)(2)](1)(2))(2))(2))(2))(2))(2).jpg)
 
 ### Project ⌨️
