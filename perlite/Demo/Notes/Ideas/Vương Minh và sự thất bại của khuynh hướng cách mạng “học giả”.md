@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Marxism MOC]]
+up:: [Marxism MOC](../../Maps/Marxism%20MOC.md)
 tags:: #marxism #on/history #on/china
 # Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”
 

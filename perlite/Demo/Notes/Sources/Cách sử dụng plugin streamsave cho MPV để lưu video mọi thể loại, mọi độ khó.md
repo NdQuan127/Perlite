@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
+up:: [Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp](Kết%20nối%20Firefox%20với%20ứng%20dụng%20ngoài%20để%20mở,tải%20video,playlist%20bằng%20MPV,yt-dlp.md)
 tags:: #on/firefox 
 # Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó
 

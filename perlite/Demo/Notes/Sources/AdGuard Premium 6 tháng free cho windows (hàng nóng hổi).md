@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Bí thuật MOC]]
+up:: [Bí thuật MOC](../../Maps/Bí%20thuật%20MOC.md)
 tags:: 
 
 # AdGuard Premium 6 tháng free cho windows (hàng nóng hổi)

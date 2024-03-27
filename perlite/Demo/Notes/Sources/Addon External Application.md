@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
+up:: [Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp](Kết%20nối%20Firefox%20với%20ứng%20dụng%20ngoài%20để%20mở,tải%20video,playlist%20bằng%20MPV,yt-dlp.md)
 tags:: #on/firefox 
 
 # Addon External Application
@@ -12,8 +12,8 @@ tags:: #on/firefox
     - Chọn: `Toolbar button` và `Link context`
     - Save.
 - Click vào nút EA ở toolbar, *một cửa sổ hiện ra như bên dưới, làm theo hướng dẫn tải file windows. Zip rồi chạy install. Bat để cài trình kết nối Firefox với ứng dụng bên ngoài của hệ điều hành:*
-![[../../Utilities/Images/Pasted image 20230902230709.png]]
-![[../../Utilities/Images/Pasted image 20230902230727.png]]
-![[../../Utilities/Images/Pasted image 20230902230749.png]]
-![[../../Utilities/Images/Pasted image 20230902231336.png]]
+![Pasted image 20230902230709](../../Utilities/Images/Pasted%20image%2020230902230709.png)
+![Pasted image 20230902230727](../../Utilities/Images/Pasted%20image%2020230902230727.png)
+![Pasted image 20230902230749](../../Utilities/Images/Pasted%20image%2020230902230749.png)
+![Pasted image 20230902231336](../../Utilities/Images/Pasted%20image%2020230902231336.png)
 *(Tích chọn Link Context nữa cho tiện, sau này mở Youtube thấy muốn xem video nào thì chuột phải vào link video rồi gửi thẳng qua MPV đỡ phải mở trang xem lên tốn thời gian)*

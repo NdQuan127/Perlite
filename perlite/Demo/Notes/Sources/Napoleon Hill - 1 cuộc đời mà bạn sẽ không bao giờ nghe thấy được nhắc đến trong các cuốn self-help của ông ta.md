@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Expose Books and Authors MOC]]"
+  - "[Expose Books and Authors MOC](Expose%20Books%20and%20Authors%20MOC)"
 dg-publish: true
 tags:
   - "#on/books"
@@ -198,7 +198,7 @@ Cuốn tiểu sử chính thức, ‘khách quan’ được viết bởi nhữn
 [http://chroniclingamerica.loc.gov/lccn/sn87062268/1908-10-17/ed-1/seq-3/](http://chroniclingamerica.loc.gov/lccn/sn87062268/1908-10-17/ed-1/seq-3/)
 
 - In fact, Carnegie's most notable biographer, David Nasaw, says there is no record of the two men ever having met. Yet by stating this claim with great confidence within the covers of a book, Hill virtually ensured few people would ever question it. [https://www.inc.com/michael-schein/brthe-real-reason-napoleon-hill-grew-rich-hint-its-not-what-you-think.html](https://www.inc.com/michael-schein/brthe-real-reason-napoleon-hill-grew-rich-hint-its-not-what-you-think.html)
-- [[https://www.newspapers.com/search/#lnd=1&ym=1923-12&offset=14&t=530](https://www.newspapers.com/search/#lnd=1&ym=1923-12&offset=14&t=530]]
+- [](https://www.newspapers.com/search/#lnd=1&ym=1923-12&offset=14&t=530](https://www.newspapers.com/search/#lnd=1&ym=1923-12&offset=14&t=530](https://www.newspapers.com/search/#lnd=1&ym=1923-12&offset=14&t=530)
 
 ***
 

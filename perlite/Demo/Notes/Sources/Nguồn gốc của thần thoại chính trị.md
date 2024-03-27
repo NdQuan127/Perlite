@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[Nationalism MOC]]
+up:: [Nationalism MOC](Nationalism%20MOC)
 tags:: #on/nationalism 
 
 # Nguồn gốc của thần thoại chính trị

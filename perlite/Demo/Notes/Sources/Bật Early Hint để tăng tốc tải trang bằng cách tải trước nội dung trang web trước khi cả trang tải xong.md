@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Firefox MOC]]
+up:: [Firefox MOC](../../Maps/Firefox%20MOC.md)
 tags:: #on/firefox 
 
 # Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Meta PKM]]"
+  - "[Meta PKM](Meta%20PKM)"
 related: []
 created: 2020-06-01
 ---

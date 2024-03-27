@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Marxism MOC]]
+up:: [Marxism MOC](../../Maps/Marxism%20MOC.md)
 tags:: #marxism 
 
 # Marx và Engels về sinh thái học: "Với cả xương thịt, máu mủ và đầu óc, chúng ta đều thuộc về tự nhiên"

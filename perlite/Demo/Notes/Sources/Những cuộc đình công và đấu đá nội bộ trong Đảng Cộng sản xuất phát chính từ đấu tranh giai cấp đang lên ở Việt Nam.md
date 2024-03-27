@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Marxism MOC]]
+up:: [Marxism MOC](../../Maps/Marxism%20MOC.md)
 tags:: #on/vietnam #marxism 
 
 > 1 bài viết typical của cực tả, hãy chỉ coi nó là 1 tài liệu tham khảo và giữ 1 thái độ lý trí để đọc nó.

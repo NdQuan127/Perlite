@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 up:
-  - "[[Kiến thức căn bản về sách]]"
+  - "[Kiến thức căn bản về sách](Kiến%20thức%20căn%20bản%20về%20sách)"
 tags:
   - on/books
 ---

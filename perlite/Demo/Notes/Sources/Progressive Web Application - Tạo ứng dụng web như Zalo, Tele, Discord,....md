@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Firefox MOC]]
+up:: [Firefox MOC](../../Maps/Firefox%20MOC.md)
 tags:: #on/bt_chiase 
 
 # Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...
@@ -18,7 +18,7 @@ Addon này nhìn chung giống với PWA của Chrome, cơ mà ngon hơn nhiều
 Vậy thì vào việc thôi.  
   
 Vậy đầu tiên đối tượng nào phù hợp để biến thành PWA ? Vào Settings -> Manage Cookies and SIte Data, thấy thằng nào dùng tầm 1-2GB thì nghĩa là phù hợp, ví dụ:
-![[../../Utilities/Images/Pasted image 20230901152906.png]]
+![Pasted image 20230901152906](../../Utilities/Images/Pasted%20image%2020230901152906.png)
 
 **Hướng dẫn:**
 - Cài đặt [**Progressive Web Application**](https://addons.mozilla.org/en-US/firefox/addon/pwas-for-firefox/) vào Firefox.
@@ -29,13 +29,13 @@ Vậy đầu tiên đối tượng nào phù hợp để biến thành PWA ? Và
 - Paste Shortcut vào để nó khởi động cùng hệ thống
 - Quay lại Firefox, mở [https://chat.zalo.me/](https://chat.zalo.me/) lên, đăng nhập các kiểu rồi ấn vào biểu tượng PWA đỏ đỏ bên trên -> Install current site -> Install Web App là xong thôi. Nếu muốn sửa lại tên ứng dụng thì cứ sửa.
 - Chọn Launch Web App hoặc cứ mở [https://chat.zalo.me/](https://chat.zalo.me/) là nó mở thẳng qua PWA như một ứng dụng Zalo điện thoại, kết quả:
-![[../../Utilities/Images/2dXsrKZ.png]]
+![2dXsrKZ](../../Utilities/Images/2dXsrKZ.png)
 
 ## Pin PWA vào Taskbar
 Lấy command line từ cái process `firefox.exe` sau đó New shortcut -> Paste vào (cố gắng để folder PWA càng ngắn càng tốt vì shortcut có giới hạn 256 ký tự thôi), thế là xong ez, làm tương tự với Linux/Mac:
-![[../../Utilities/Images/1691331024652.png]]
+![1691331024652](../../Utilities/Images/1691331024652.png)
 
-![[../../Utilities/Images/Pasted image 20230901153441.png]]
+![Pasted image 20230901153441](../../Utilities/Images/Pasted%20image%2020230901153441.png)
   
 Nếu muốn Pin vào Taskbar thì chuột phải vào cái Shortcut mới tạo, chọn Pin to Taskbar là xong nhé.
 
@@ -54,7 +54,7 @@ user_pref("dom.ipc.processCount", 1);
 - Từ cửa sổ Firefox/Floorp, ấn vào biểu tượng PWA
 - Ấn vào cái bánh răng
 - Dán đường dẫn tới thư mục `pwat` vừa tạo ban nãy:
-![[../../Utilities/Images/Pasted image 20230901153816.png]]
+![Pasted image 20230901153816](../../Utilities/Images/Pasted%20image%2020230901153816.png)
 
 Và thế là xong, từ nay mỗi khi bạn tạo một ứng dụng PWA mới, nó sẽ thừa hưởng file `user.js` và tắt Fission đi tiết kiệm rất nhiều RAM
 
@@ -196,7 +196,7 @@ user_pref("browser.safebrowsing.downloads.remote.enabled", false);
    // user_pref("browser.safebrowsing.allowOverride", false);
 ```
 ## Ép PWA tiết kiệm RAM ver 2.0
-*Đây là tối ưu giảm RAM cực đoan và có lẽ là hết cỡ luôn rồi ![[ https://statics.voz.tech/styles/next/xenforo/smilies/popo/biggrin.png?v=01 "Big grin    : D"|: D]]*
+*Đây là tối ưu giảm RAM cực đoan và có lẽ là hết cỡ luôn rồi ![: D](%20https://statics.voz.tech/styles/next/xenforo/smilies/popo/biggrin.png?v=01%20"Big%20grin%20%20%20%20:%20D")*
 **Chú ý một điều là cái file `user.js` trên chỉ dành cho PWA vì tính bảo mật nó thấp hơn**, không dùng cho trình duyệt chính mà có dùng phải bỏ tất những thứ liên quan tới tắt Fission đi.  
 > *Phần dưới đây chỉ nhằm giải thích chi tiết cách tối ưu còn anh em chỉ cần update lại file user.js bằng đoạn code ở cuối là được😁
 

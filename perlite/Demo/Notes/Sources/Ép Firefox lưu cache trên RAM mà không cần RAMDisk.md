@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 up:
-  - "[[../../Maps/Firefox MOC]]"
+  - "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
 tags:
   - on/bt_chiase
 ---

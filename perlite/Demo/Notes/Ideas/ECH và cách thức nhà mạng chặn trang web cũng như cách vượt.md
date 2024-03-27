@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Firefox MOC]]
+up:: [Firefox MOC](../../Maps/Firefox%20MOC.md)
 tags:: #on/firefox 
 
 # ECH và cách thức nhà mạng chặn trang web cũng như cách vượt
@@ -17,9 +17,9 @@ Thật ra để vượt DPI thì có rất nhiều thủ thuật, nhưng nhìn c
 - **Xóa SNI trong ClientHello:** Đây là một tính năng của GoodbyeDPI mà Chunk Rust không có, và khả năng lớn đây là tính năng bán ra tiền bởi một khi đã xóa SNI thì nhà mạng BÓ TAY CHỊU TRÓI, tuy nhiên có thể gây lỗi và rủi ro bảo mật lớn.
 - **Sử dụng ECH:** Đây là một nhánh của xóa SNI vì nó không xóa SNI mà mã hóa đi, kết quả là vừa có thể vào được trang web bị chặn, vừa không phải xóa SNI nên đạt hiệu quả ổn định nhất. Tuy nhiên có nhược điểm là nhiều khi cần trang web hỗ trợ TLS 1.3 và nhà mạng có thể chặn ECH hoàn toàn y như băm ClientHello bằng việc chặn béng TLS 1.3.
 - **Giả mạo Host header cho HTTP:** Ví dụ Pỏnhub.com sẽ bị biến thành PỎNHUB.CoM. Vì nhà mạng không dùng Regex cho router vì tốn cực nhiều tài nguyên nên sẽ cho qua.
-> Chi tiết hơn anh em có thể xem cách hoạt động của [[https://github.com/ValdikSS/GoodbyeDPI#active-dpi](https://github.com/ValdikSS/GoodbyeDPI#active-dpi](https://github.com/ValdikSS/GoodbyeDPI#active-dpi]]
+> Chi tiết hơn anh em có thể xem cách hoạt động của [](https://github.com/ValdikSS/GoodbyeDPI#active-dpi](https://github.com/ValdikSS/GoodbyeDPI#active-dpi](https://github.com/ValdikSS/GoodbyeDPI#active-dpi](https://github.com/ValdikSS/GoodbyeDPI#active-dpi](https://github.com/ValdikSS/GoodbyeDPI#active-dpi)
 
-> Cách vượt DPI hợp lý nhất hiện tại là [[ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn]]
+> Cách vượt DPI hợp lý nhất hiện tại là [ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn](ProxySwitchy%20-%20Fake%20IP%20cực%20đỉnh,%20vô%20Pỏnhub,%20medium,...%20ko%20cần%20fake%20vpn.md)
 
 
 ## Lạm bàn 1 chút về GoodbyeDPI

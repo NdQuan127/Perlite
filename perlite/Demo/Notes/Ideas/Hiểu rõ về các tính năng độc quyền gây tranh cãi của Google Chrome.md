@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Firefox MOC]]
+up:: [Firefox MOC](../../Maps/Firefox%20MOC.md)
 tags:: #on/firefox 
 
 # Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome
@@ -9,7 +9,7 @@ tags:: #on/firefox
 > Chrome gần đây thì thể hiện thế độc quyền thấy rõ, mà mục tiêu chính là họ muốn biến trình duyệt web thành môi trường cho quảng cáo:  
 
 ## Manifest V3 triệt hạ khả năng chặn quảng cáo của trình duyệt. 
-Tham khảo: [[Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard]]
+Tham khảo: [Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard](Sự%20khác%20biệt%20của%20uBlock%20Firefox%20vs%20Chrome%20vs%20Manifest%20V3%20vs%20Adguard.md)
 
 ## Privacy Sandbox - Quảng cáo bằng cách địa lịch sử duyệt web của người dùng.
 
@@ -22,7 +22,7 @@ Tham khảo: [[Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 v
 Đó là Privacy Sandbox, một tính năng được quảng cáo là giúp loại bỏ 3rd party cookie, cơ mà các **trình duyệt như Safari hay Firefox đều có phương pháp trị dạng cookie này** (**với Safari là tắt hoàn toàn**, còn **Firefox thì cô lập bằng Total Cookie Protection**) nên **việc Chrome vẫn còn lưu luyến với 3rd party cookie là do họ muốn Chrome hỗ trợ quảng cáo tốt hơn** (đây là mình giải thích cho hiểu tại sao hoàn toàn có thể tắt 3rd party cookie mà Chrome không làm).  
   
 Câu hỏi là liệu Google có ép Firefox phải thêm tính năng này vào vì trước Firefox đã phải thêm Widevine (WebDRM, cứ vào Netflix, Spotify bằng Floorp/Ungoogled/ Cromite sẽ hiểu) rồi ? Bởi nên nhớ tiền mua sữa cho con của các kỹ sư Mozilla 500 củ đô la / 1 năm là do Google trả.
-![[../../Utilities/Images/image.png]]
+![image](../../Utilities/Images/image.png)
 
 > Tham khảo:
 [https://arstechnica.com/gadgets/202...tform-the-privacy-sandbox-launches-in-chrome/](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)  

@@ -3,11 +3,11 @@ dg-publish: true
 cssclasses:
   - dashboard
 up:
-  - "[[Library]]"
+  - "[Library](Library)"
 tags:
   - "#map"
 related:
-  - "[[../Universe of Ideas]]"
+  - "[Universe of Ideas](../Universe%20of%20Ideas.md)"
 ---
   >[!Note]
   >Nơi lưu trữ những kiến thức về Marxism

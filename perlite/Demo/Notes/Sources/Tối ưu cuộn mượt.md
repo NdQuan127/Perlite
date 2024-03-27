@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Firefox MOC]]
+up:: [Firefox MOC](../../Maps/Firefox%20MOC.md)
 tags:: #on/firefox 
 
 # Tối ưu cuộn mượt
@@ -23,7 +23,7 @@ Khoảng thời gian từ khi cuộn mượt cho tới khi kết thúc, thay đ�
 Nghĩa là để tăng độ mượt mà thì tăng `durationMaxMS`, giảm `durationMinMS` còn nếu mượt quá gây cảm giác khó chịu thì giảm và tăng.  
   
 Tắt cuộn theo pixel, nghĩa là sẽ cuộn theo % của màn hình trang web 
-(Nguồn: [[https://bugzilla.mozilla.org/show_bug.cgi?id=736251#c19]]):  
+(Nguồn: [](https://bugzilla.mozilla.org/show_bug.cgi?id=736251#c19)):  
 
 |   |   |
 |---|---|

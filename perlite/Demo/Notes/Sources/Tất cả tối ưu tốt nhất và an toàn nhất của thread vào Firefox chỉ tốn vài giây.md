@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 up:
-  - "[[../../Maps/Firefox MOC]]"
+  - "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
 tags:
   - "#on/bt_chiase"
 ---
@@ -29,13 +29,13 @@ Và thế là xong, chỉ một file `user.js` chứa tất cả tinh hoa bao đ
 **Bước 2:** Bật Remote debugging via USB trong cài đặt của Firefox Androi. Nhớ bật cả Remote debugging via USB trong mục *Tuỳ chọn nhà phát triển* trong Settings.
 
 **Bước 3:** Trên Firefox desktop, vào `about:debugging`. Nếu mọi thứ đúng thì thiết bị Android sẽ hiện trong list. Bấm Connect.
-![[../../Utilities/Images/Pasted image 20230922234541.png]]
+![Pasted image 20230922234541](../../Utilities/Images/Pasted%20image%2020230922234541.png)
 
 **Bước 4:** Connect thành công thì bấm phát nữa vào tên thiết bị. Sẽ hiện ra một list các tabs đang được mở. Mở một tab `about:support` trên Android nếu chưa làm.
-![[../../Utilities/Images/Pasted image 20230922234707.png]]
+![Pasted image 20230922234707](../../Utilities/Images/Pasted%20image%2020230922234707.png)
 
 **Bước 5:** Bấm Inspect để làm việc với trang about:support. Tại đây bấm chọn tab Console.
-![[../../Utilities/Images/Pasted image 20230922234822.png]]
+![Pasted image 20230922234822](../../Utilities/Images/Pasted%20image%2020230922234822.png)
 
 **Bước 6:** Paste đoạn code này vào rồi Enter chạy luôn. Đoạn code này overide lại những hàm user_pref mà file user.js gọi.
 ```javascript

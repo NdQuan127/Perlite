@@ -1,20 +1,20 @@
 ---
 dg-publish: true
 up:
-  - "[[../../Maps/Firefox MOC]]"
+  - "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
 tags:
   - on/bt_chiase
 ---
 [**Sidebery**](https://addons.mozilla.org/en-US/firefox/addon/sidebery/): Addon hỗ trợ chơi tab dọc có tính tùy biến rất cao và bắt mắt.
 ## Tính năng
 - Quản lý tab theo nhóm như Tab Group của Chrome
-![[../../Utilities/Images/Pasted image 20230901155731.png]]
+![Pasted image 20230901155731](../../Utilities/Images/Pasted%20image%2020230901155731.png)
 
 - Tạo bản ghi lịch sử Tab để khôi phục khi cần thiết
-![[../../Utilities/Images/Pasted image 20230901155824.png]] 
+![Pasted image 20230901155824](../../Utilities/Images/Pasted%20image%2020230901155824.png) 
 
 - Nhiều tuỳ biến thay đổi giao diện từ cơ bản đến nâng cao
-![[../../Utilities/Images/Pasted image 20230901155940.png]]
+![Pasted image 20230901155940](../../Utilities/Images/Pasted%20image%2020230901155940.png)
 
 ## Ẩn/hiện thanh tab ngang cho gọn vì Sidebery bao tab dọc (dùng userChrome.css)
 >[!Warning]
@@ -73,17 +73,17 @@ Bật userChrome.css bằng cách vào about: config tìm `toolkit.legacyUserPro
 Vào `about:support` rồi Open Containing Folder, tạo folder `chrome`, tạo file `userChrome.css` bên trong folder vừa tạo.
 
 **Đây là kết quả khi ẩn cả tab ngang và tab dọc (tab dọc anh em có thể ẩn hiện nó bằng phím F1 để cho tiện)**
-![[../../Utilities/Images/Pasted image 20230901160906.png]]
+![Pasted image 20230901160906](../../Utilities/Images/Pasted%20image%2020230901160906.png)
 
 ## Auto Hide Sidebar như Edge
 >[!Note]
 >Vào about:support -> `Open Profile Folder` -> Vô folder `Chrome` -> Vô tiếp folder `CSS` -> Paset code dưới vào 
 >Link tải:[colorful-minimalist/hacks/sideberyModsLEFT.css at main · Redundakitties/colorful-minimalist · GitHub](https://github.com/Redundakitties/colorful-minimalist/blob/main/hacks/sideberyModsLEFT.css)
 
-Đọc thêm bài này để có thể kiếm được vài cái hay ho để tùy biến Firefox: [[Giới thiệu và một số cách sử dụng userChrome.js]]
+Đọc thêm bài này để có thể kiếm được vài cái hay ho để tùy biến Firefox: [Giới thiệu và một số cách sử dụng userChrome.js](Giới%20thiệu%20và%20một%20số%20cách%20sử%20dụng%20userChrome.js.md)
 
 >[!Warning]
->Muốn xóa cái này cho đỡ ngứa mắt ![[../../Utilities/Images/Pasted image 20240228211824.png]] thì vô `userChrome.css` dán đoạn code này vô
+>Muốn xóa cái này cho đỡ ngứa mắt ![Pasted image 20240228211824](../../Utilities/Images/Pasted%20image%2020240228211824.png) thì vô `userChrome.css` dán đoạn code này vô
 >
 
 ```css

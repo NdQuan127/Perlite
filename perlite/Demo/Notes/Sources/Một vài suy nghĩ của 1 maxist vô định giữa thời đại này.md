@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Marxism MOC]]
+up:: [Marxism MOC](../../Maps/Marxism%20MOC.md)
 tags:: #marxism 
 
 # Một vài suy nghĩ của 1 maxist vô định giữa thời đại này

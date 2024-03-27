@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Firefox MOC]]
+up:: [Firefox MOC](../../Maps/Firefox%20MOC.md)
 tags:: #on/bt_chiase 
 
 # FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế

@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
+up:: [Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp](Kết%20nối%20Firefox%20với%20ứng%20dụng%20ngoài%20để%20mở,tải%20video,playlist%20bằng%20MPV,yt-dlp.md)
 tags:: #on/firefox 
 
 # Hướng dẫn sử dụng handlers.json mà ko cần cài addon
@@ -39,7 +39,7 @@ Video demo: [https://streamable.com/o3sxe1](https://streamable.com/o3sxe1)
 - V2.0: Hỗ trợ hls, bật sẵn pipe để bản tới của protocol_hook.lua sẽ hỗ trợ luôn, thay đổi:
     - Kéo lên bây giờ sẽ là pipe để vượt bóp băng thông Youtube
     - Chéo lên trái sẽ là để mở link playlist IPTV
-- V2.1: [[+Mobile) (https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-28472328)](https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-28472328|kiến thức - Tổng hợp những addon chất cho Firefox PC (+Mobile) (https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-28472328)]]
+- V2.1: [kiến thức - Tổng hợp những addon chất cho Firefox PC (+Mobile) (https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-28472328)](+Mobile)%20(https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-28472328))
 - V2.2: Sửa lỗi IPTV không bật được
 
 > **Cài đặt:**  

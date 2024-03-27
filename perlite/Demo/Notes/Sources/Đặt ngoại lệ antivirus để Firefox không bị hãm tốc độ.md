@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 up:
-  - "[[../../Maps/Firefox MOC]]"
+  - "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
 tags:
   - on/firefox
 ---
@@ -9,7 +9,7 @@ tags:
 - Cho Firefox (cả folder chứa firefox.exe và folder profile) vào ngoại lệ của WD để nó không bao giờ động chạm vào Firefox nữa
 - Tắt tính năng thời gian thực của WD
 - Tắt hoàn toàn WD
-Nguồn đây: [https://bugzilla.mozilla.org/show_bug.cgi?id=1441918](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918) (có cái bình luận này [[https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c61](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c61]] đáng chú ý, tắt cache trên ổ đĩa đi thì CPU hạ hẳn, cũng dễ hiểu vì WD chắc chắn scan cache của Firefox, làm theo bài này mình chỉ cách tắt cache đĩa và dùng cache RAM [https://voz.vn/t/cach-ep-firefox-luu-cache-tren-ram-ma-khong-can-ramdisk.664955/](https://voz.vn/t/cach-ep-firefox-luu-cache-tren-ram-ma-khong-can-ramdisk.664955/))
+Nguồn đây: [https://bugzilla.mozilla.org/show_bug.cgi?id=1441918](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918) (có cái bình luận này [](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c61](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c61](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c61) đáng chú ý, tắt cache trên ổ đĩa đi thì CPU hạ hẳn, cũng dễ hiểu vì WD chắc chắn scan cache của Firefox, làm theo bài này mình chỉ cách tắt cache đĩa và dùng cache RAM [https://voz.vn/t/cach-ep-firefox-luu-cache-tren-ram-ma-khong-can-ramdisk.664955/](https://voz.vn/t/cach-ep-firefox-luu-cache-tren-ram-ma-khong-can-ramdisk.664955/))
 
 > Using Process Monitor to count MsMpEng events for 30 seconds after reloading youtube.com (Ctrl+F5) I get the following (numbers are very rough):  
 >   

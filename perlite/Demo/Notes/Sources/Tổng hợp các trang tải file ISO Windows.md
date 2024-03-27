@@ -1,14 +1,14 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Bí thuật MOC]]
+up:: [Bí thuật MOC](../../Maps/Bí%20thuật%20MOC.md)
 tags:: #on/bt_chiase 
 
 # Tổng hợp các trang tải file ISO Windows
 
 > Anh em nào muốn cài win dạo có thể ghé vô đây :>
 
-![[../../Utilities/Images/Pasted image 20230809002226.png]]
+![Pasted image 20230809002226](../../Utilities/Images/Pasted%20image%2020230809002226.png)
 
 > Danh sách đó đây nhé
 

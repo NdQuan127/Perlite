@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[Soviet Union History]] [[../../Maps/Marxism MOC]]
+up:: [Soviet Union History](Soviet%20Union%20History) [Marxism MOC](../../Maps/Marxism%20MOC.md)
 tags:: #on/history #marxism 
 
 # Một bài viết ấn tượng về Liên Xô thời Stalin

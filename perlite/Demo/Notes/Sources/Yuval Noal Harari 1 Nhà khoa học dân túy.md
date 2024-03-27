@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Expose Books and Authors MOC]]"
+  - "[Expose Books and Authors MOC](Expose%20Books%20and%20Authors%20MOC)"
 dg-publish: true
 tags:
   - "#on/books"

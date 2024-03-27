@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../../Maps/Firefox MOC]]"
+  - "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
 related: 
 created: 2024-02-28
 tags:

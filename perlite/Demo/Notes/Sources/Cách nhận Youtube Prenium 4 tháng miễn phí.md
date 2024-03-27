@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Bí thuật MOC]]
+up:: [Bí thuật MOC](../../Maps/Bí%20thuật%20MOC.md)
 tags:: #on/bt_chiase 
 
 # Cách nhận Youtube Prenium 4 tháng miễn phí

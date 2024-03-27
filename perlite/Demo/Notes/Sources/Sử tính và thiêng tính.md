@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Marxism MOC]]
+up:: [Marxism MOC](../../Maps/Marxism%20MOC.md)
 tags:: #marxism 
 
 # Sử tính và thiêng tính

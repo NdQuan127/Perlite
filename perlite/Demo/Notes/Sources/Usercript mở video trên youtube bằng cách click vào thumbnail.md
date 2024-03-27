@@ -1,11 +1,11 @@
 ---
 dg-publish: true
 up:
-  - "[[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]"
+  - "[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp](Kết%20nối%20Firefox%20với%20ứng%20dụng%20ngoài%20để%20mở,tải%20video,playlist%20bằng%20MPV,yt-dlp.md)"
 tags:
   - on/bt_chiase
 ---
-> Các thím vào [[Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web]] để cài Header *Disable Hovering to play of Youtube* trước.
+> Các thím vào [Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web](Head%20Editor%20-%20Đổi%20User%20-%20Agent%20Language,%20nôm%20nà%20là%20tuỳ%20ý%20thay%20đổi%20nội%20dung%20trang%20web) để cài Header *Disable Hovering to play of Youtube* trước.
 
 > Ý tưởng: Click vào thumbnail thì mở bằng MPV, click vào tên thì mở qua web
 ```javascript

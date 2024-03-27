@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Bí thuật MOC]]
+up:: [Bí thuật MOC](../../Maps/Bí%20thuật%20MOC.md)
 tags:: #on/bt_chiase 
 
 # Bí kíp xiên Google One tái bản lần thứ 2
@@ -31,7 +31,7 @@ tags:: #on/bt_chiase
 Tiếp theo bấm vào nút bên dưới để mở trang lấy khuyến mãi 2TB 1 năm từ Google One
 > [NHẬN 2TB 1 NĂM](https://lucngoc.com/2tb1year)
 
-> Dự phòng: Nếu link trên die có thể dùng giả lập để lấy 2TB/6 tháng. Xem hướng dẫn ở đây: [[Cách xiên Google One XXX Years]]
+> Dự phòng: Nếu link trên die có thể dùng giả lập để lấy 2TB/6 tháng. Xem hướng dẫn ở đây: [Cách xiên Google One XXX Years](Cách%20xiên%20Google%20One%20XXX%20Years.md)
 
 ### Bước 2: Chuyển đổi
 

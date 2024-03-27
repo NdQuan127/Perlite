@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 up:
-  - "[[../../Maps/Firefox MOC]]"
+  - "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
 tags:
   - on/bt_chiase
 ---
@@ -28,13 +28,13 @@ Mục này để chứa những  *Userscript*, lợi ích:
 [Pagetual](https://greasyfork.org/vi/scripts/438684-pagetual), [AutoPager](https://greasyfork.org/zh-CN/scripts/419215-%E8%87%AA%E5%8A%A8%E6%97%A0%E7%BC%9D%E7%BF%BB%E9%A1%B5), [Super-preloader](https://github.com/machsix/Super-preloader): Cho phép cuộn trang liên tục không cần nhấn next trang
 [Web Access Accelerator](https://greasyfork.org/en/scripts/455853-%E7%BD%91%E9%A1%B5%E8%AE%BF%E9%97%AE%E5%8A%A0%E9%80%9F%E5%99%A8): Tải trước tất cả các link trong trang , tăng tốc load web 
 [InstantPage Super Lite](https://greasyfork.org/en/scripts/483622-instantpage-super-lite): Tải trước link chuẩn bị nhấn, nhẹ hơn thằng trên
-[[Universal)](https://greasyfork.org/en/scripts/427575-selection-and-copying-restorer-universal|Selection and Copying Restorer (Universal)]]: Mở khóa web chặn nhấn chuột phải, chống copy  
+[Selection and Copying Restorer (Universal)](Universal)): Mở khóa web chặn nhấn chuột phải, chống copy  
 [TimerHooker](https://greasyfork.org/en/scripts/372673-%E8%AE%A1%E6%97%B6%E5%99%A8%E6%8E%8C%E6%8E%A7%E8%80%85-%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A%E8%B7%B3%E8%BF%87-%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A%E5%8A%A0%E9%80%9F%E5%99%A8): Tăng tốc thời gian đếm ngược các trang yêu cầu chờ  
 [PreventPageVisibilityAuto](https://greasyfork.org/en/scripts/479726-preventpagevisibilityauto): Ngăn chặn việc bị phát hiện khi đổi sang tab khác.  
 [Smoothscroll](https://greasyfork.org/en/scripts/7018-smoothscroll): Cuộn mượt dành cho chrome  -video) Xem video max khung cửa sổ trình duyệt  
 [Reject serviceWorker Auto](https://greasyfork.org/en/scripts/482724-reject-serviceworker-auto): Chặn website cài service worker  
 [PageExpand](https://greasyfork.org/en/scripts/6294-pageexpand): Tải tài nguyên của 1 web  
-[[Customized)](https://greasyfork.org/en/scripts/416688-字体渲染-自用脚本|Font Rendering (Customized)]]: Font đẹp hơn trên chrome  
+[Font Rendering (Customized)](Customized)): Font đẹp hơn trên chrome  
 [Visited Lite](https://greasyfork.org/en/scripts/15173-visited-lite): Đổi màu các trang web đã xem  
 [Anti Anti-debugger](https://greasyfork.org/en/scripts/440060-anti-anti-debugger): Mở khóa các trang web chặn ấn F12
 
@@ -47,7 +47,7 @@ Mục này để chứa những  *Userscript*, lợi ích:
 [Privacy Redirector](https://greasyfork.org/en/scripts/436359-privacy-redirector): Chuyển tiếp sang các thay thế các trang MXH để chống bị theo dõi
 
 ### Userscript cho Youtube
-[[Include Non-Skippable Ads- works)](https://greasyfork.org/en/scripts/386925-youtube-ad-cleaner-include-non-skippable-ads-works|Youtube Ad Cleaner(Include Non-Skippable Ads- works)]] , [YouTube Ads Skip](https://greasyfork.org/en/scripts/479557-youtube-ads-skip) , [YouTube AD Blocker](https://greasyfork.org/en/scripts/459541-youtube%E5%8E%BB%E5%B9%BF%E5%91%8A-youtube-ad-blocker/): Chặn quảng cáo
+[Youtube Ad Cleaner(Include Non-Skippable Ads- works)](Include%20Non-Skippable%20Ads-%20works)) , [YouTube Ads Skip](https://greasyfork.org/en/scripts/479557-youtube-ads-skip) , [YouTube AD Blocker](https://greasyfork.org/en/scripts/459541-youtube%E5%8E%BB%E5%B9%BF%E5%91%8A-youtube-ad-blocker/): Chặn quảng cáo
 [Nova youtube](https://greasyfork.org/en/scripts/433360-nova-youtube): Gồm các tiện ích như sponsorblock, hiện nút dislike
 [YouTube JS Engine Tamer](https://greasyfork.org/en/scripts/473972-youtube-js-engine-tamer): Fix lỗi youtube bóp chậm lag
 [YouTube Minimal on PC](https://greasyfork.org/en/scripts/457579-youtube-minimal-on-pc): Chuyển sang giao diện youtube mobile

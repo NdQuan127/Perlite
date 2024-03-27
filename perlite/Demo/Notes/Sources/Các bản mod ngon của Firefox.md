@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 up:
-  - "[[../../Maps/Firefox MOC]]"
+  - "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
 tags:
   - "#on/bt_chiase"
 ---
@@ -33,7 +33,7 @@ Hiện tại (14/9/2023) Tete đã chính thức lên kệ AVX2
 
 Ngoài ra một điểm mạnh nữa của tete là bản này là bản stable nhưng lại là Nightly, nên nó có thể cài được Fastforward, Multi-Threaded Download Manager và [**iMacros**](https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-25694592)
   
-**Download:** [[http://www1.plala.or.jp/tete009/en-US/software.html#FFDL](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL]] 
+**Download:** [](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL) 
 **Folder chứa các bản cũ (có cả 32 bit):** [https://drive.google.com/drive/folders/0BwJVYWis62cRalRwX2tsZklqUkk](https://drive.google.com/drive/folders/0BwJVYWis62cRalRwX2tsZklqUkk)
 
 >[!Note]
@@ -52,10 +52,10 @@ Bản Firefox mod của tác giả người Nhật mới nổi thời gian gần
 - [Hỗ trợ tab dọc](https://user-images.githubusercontent.com/73892113/256753788-6842e1a1-f0b9-4b37-b5b7-820d0fe37b84.mp4) ([**native**](https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-27057109))
 - [Hỗ trợ đổi phím tắt tùy ý](https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-27447182) (native)
 - [Workspace giống Vivaldi để quản lý tab theo từng vùng một cho gọn, ví dụ chia ra cho: Công việc, Cá nhân, Ăn chơi...](https://blog.ablaze.one/wp-content/uploads/2023/08/%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-2023-08-01-181253.mp4) (native) 
-- [[SSE2+PGO) và thậm chí Mercury (AVX)](https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-27389361|Tối ưu bằng tập lệnh PGO+LTO nên nhanh hơn cả tete (SSE2+PGO) và thậm chí Mercury (AVX)]] mà vẫn giữ nguyên tính tương thích với hệ máy cũ chứ không như AVX kén hệ máy mới
+- [Tối ưu bằng tập lệnh PGO+LTO nên nhanh hơn cả tete (SSE2+PGO) và thậm chí Mercury (AVX)](SSE2+PGO)%20và%20thậm%20chí%20Mercury%20(AVX)) mà vẫn giữ nguyên tính tương thích với hệ máy cũ chứ không như AVX kén hệ máy mới
 - Và nhiều tùy chỉnh nhỏ khác nữa rất khó liệt kê hết vì nói chung nó nằm trong Settings ấy...
 
-![[../../Utilities/Images/1691545236406.webp]]
+![1691545236406](../../Utilities/Images/1691545236406.webp)
 **Download:** [https://github.com/Floorp-Projects/Floorp/releases](https://github.com/Floorp-Projects/Floorp/releases)
 ### Firefox Mercury - AVX2 + Privacy
 Con này cực kỳ nhanh, nhưng có chút hơi ko tương thích với các máy đời cũ.
@@ -74,8 +74,8 @@ Mullvad thì mặc định chặn quảng cáo với uBlock.
 Lưu ý là khi dùng các trình duyệt thuộc họ Privacy, hạn chế cài các addon chặn quảng cáo hay Userscript vì nó khiến trang web phát hiện ra mình dùng addon gì, từ đó khiến fingerprint không còn thuộc về đám đông nữa.  
   
 **Đánh giá về mức độ ẩn danh + riêng tư:** 
-1. Mullvad [[do dùng VPN và đã chứng tỏ là không bao giờ lưu log)](https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-28299474|(do dùng VPN và đã chứng tỏ là không bao giờ lưu log)]]
-2. Tor [[bị FBI nằm vùng máy chủ và bắt như thường)](https://gizmodo.com/fbi-tor-ip-address-muhammed-momtaz-al-azhari-isis-1849975153|(bị FBI nằm vùng máy chủ và bắt như thường)]]
+1. Mullvad [(do dùng VPN và đã chứng tỏ là không bao giờ lưu log)](do%20dùng%20VPN%20và%20đã%20chứng%20tỏ%20là%20không%20bao%20giờ%20lưu%20log))
+2. Tor [(bị FBI nằm vùng máy chủ và bắt như thường)](bị%20FBI%20nằm%20vùng%20máy%20chủ%20và%20bắt%20như%20thường))
 3. LibreWolf = Firefox+Arkenfox (chỉ nên dùng cho nhu cầu riêng tư)
 
 Vậy nên VPN mà không lưu log > Tor vì Tor có nhược điểm chết người là bị FBI nằm vùng, tạo ra các máy chủ giả mạo rồi dò ra chính xác vị trí địa lý rồi bế đi.
@@ -108,7 +108,7 @@ Riêng [**Smart Cookie Web**](https://voz.vn/t/tong-hop-nhung-addon-chat-cho-fir
 [Releases · CookieJarApps/SmartCookieWeb-Preview](https://github.com/CookieJarApps/SmartCookieWeb-Preview/releases)
 
 ### Waterfox - LT0/PO+Privacy+Betterfox+Androi
-Đây cũng là một trong những bản Firefox mod lâu đời, ban đầu được sinh ra bởi Firefox hồi đó chưa có bản 64bit, nhưng sau này càng ngày càng nhiều đồ chơi và hiện tại [[https://github.com/WaterfoxCo/Waterfox/releases?page=2#fnref-1]], tiêu biểu nhất là `polyhedral optimisation` độc nhất vô nhị giúp tăng độ mượt khi cuộn chuột và các tác vụ lặp.  
+Đây cũng là một trong những bản Firefox mod lâu đời, ban đầu được sinh ra bởi Firefox hồi đó chưa có bản 64bit, nhưng sau này càng ngày càng nhiều đồ chơi và hiện tại [](https://github.com/WaterfoxCo/Waterfox/releases?page=2#fnref-1), tiêu biểu nhất là `polyhedral optimisation` độc nhất vô nhị giúp tăng độ mượt khi cuộn chuột và các tác vụ lặp.  
   
 Một trong những bản mod hiếm hoi có cả PC và Android.
 

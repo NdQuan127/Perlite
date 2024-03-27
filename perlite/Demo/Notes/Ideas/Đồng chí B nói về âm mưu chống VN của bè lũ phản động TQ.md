@@ -1,4 +1,4 @@
-up:: [[Việt Nam History MOC]]
+up:: [Việt Nam History MOC](Việt%20Nam%20History%20MOC)
 tags:: #on/history 
 
 # Đồng chí B nói về âm mưu chống VN của bè lũ phản động TQ
@@ -278,7 +278,7 @@ Bây giờ không ai còn hoài nghi gì nữa. Nhưng 5 năm trước tôi bi�
 Source: https://nghiencuuquocte.org/2016/04/17/dong-chi-b-am-muu-chong-vn-phan-dong-tq/, Thư viện Quân đội, Hà Nội. Tài liệu do Christopher E. Goscha phát hiện và dịch sang tiếng Anh, Nhóm nghiên cứu Việt Nam đương đại, Trường Khoa học Chính trị, Paris.
 Back- Created day: 31/01/2023
 - 
-- Links: [[Việt Nam]]
+- Links: [Việt Nam](Việt%20Nam)
 ***
 ![](https://nghiencuuquocte.org/wp-content/uploads/2016/04/ctvt.jpg)
 

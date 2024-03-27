@@ -1,4 +1,4 @@
-up:: [[../../Maps/Marxism MOC]]
+up:: [Marxism MOC](../../Maps/Marxism%20MOC.md)
 tags:: #marxism, #on/liberalism
 
 # Chủ nghĩa tự do và Chủ nghĩa xã hội - Hai tử thù hay Hai anh em xa cách
@@ -43,7 +43,7 @@ Tôi có xu hướng coi Trung Quốc là một quốc gia xã hội chủ nghĩ
 
 -----
 
-Nguồn: [https://www.joinexpeditions.com/exps/484](https://www.joinexpeditions.com/exps/484?fbclid=IwAR1O_lFMsr6wMndJjirB4_qutiCVkGOc8LCMIMjmik0d5bBPcpdzDhvhkkU)[[marxism]]
+Nguồn: [https://www.joinexpeditions.com/exps/484](https://www.joinexpeditions.com/exps/484?fbclid=IwAR1O_lFMsr6wMndJjirB4_qutiCVkGOc8LCMIMjmik0d5bBPcpdzDhvhkkU)[marxism](marxism)
 ***
 *Lea Ypi, Giáo sư môn Lý thuyết Chính trị tại Trường Kinh tế London, xem xét mối quan hệ giữa chủ nghĩa tự do và chủ nghĩa xã hội.*
 
@@ -85,7 +85,7 @@ Tôi có xu hướng coi Trung Quốc là một quốc gia xã hội chủ nghĩ
 
 -----
 
-Nguồn: [https://www.joinexpeditions.com/exps/484](https://www.joinexpeditions.com/exps/484?fbclid=IwAR1O_lFMsr6wMndJjirB4_qutiCVkGOc8LCMIMjmik0d5bBPcpdzDhvhkkU)[[marxism]]
+Nguồn: [https://www.joinexpeditions.com/exps/484](https://www.joinexpeditions.com/exps/484?fbclid=IwAR1O_lFMsr6wMndJjirB4_qutiCVkGOc8LCMIMjmik0d5bBPcpdzDhvhkkU)[marxism](marxism)
 ***
 *Lea Ypi, Giáo sư môn Lý thuyết Chính trị tại Trường Kinh tế London, xem xét mối quan hệ giữa chủ nghĩa tự do và chủ nghĩa xã hội.*
 

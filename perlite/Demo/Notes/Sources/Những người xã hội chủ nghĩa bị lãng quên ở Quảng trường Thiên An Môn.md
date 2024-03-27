@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Marxism MOC]]
+up:: [Marxism MOC](../../Maps/Marxism%20MOC.md)
 tags:: #on/china , #marxism , #on/history 
 
 # Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn

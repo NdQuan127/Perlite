@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up:: [[../../Maps/Bí thuật MOC]]
+up:: [Bí thuật MOC](../../Maps/Bí%20thuật%20MOC.md)
 tags:: #on/bt_chiase 
 
 # 1001 câu hỏi về Testflight của Apple
