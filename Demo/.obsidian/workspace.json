@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "791d41de870dc0ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maps/Bí thuật MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -148,32 +160,32 @@
   },
   "active": "9e3bc554e53cf0cf",
   "lastOpenFiles": [
-    "Notes/Những nhà tư bản trung thực sẽ nói gì.md",
-    "Notes/MPV.md",
-    "Notes/Lược sử phát triển của lý thuyết lượng tử.md",
-    "Notes/Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web.md",
-    "Notes/DNS là cái chi mô răng rứa.md",
-    "Notes/Chủ nghĩa Marx đô thị.md",
-    "Notes/All Tomorrows verse- C.M Kosemen (Memo Ramjet).md",
-    "Notes/THẾ GIỚI TIỀN SCI-HUB.md",
+    "Notes/Yuval Noal Harari 1 Nhà khoa học dân túy.md",
     "Notes/Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”.md",
     "Notes/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey.md",
+    "Notes/Usercript mở video trên youtube bằng cách click vào thumbnail.md",
     "Notes/uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư.md",
+    "Notes/Từ điển about config để go pro.md",
+    "Notes/Tổng hợp về khôi phục dữ liệu.md",
+    "Notes/Tridactyl - Lướt web bằng bàn phím giống Vimium.md",
+    "Notes/Tổng hợp các trang web xem phim online.md",
+    "Notes/Tổng hợp các trang web tải Wallpaper.md",
+    "Notes/Tổng hợp các trang web tải phần mềm Portable.md",
+    "Notes/Tổng hợp các trang web tải phần mềm ngon.md",
     "Notes/Tổng hợp các trang web tải nhạc chất lượng cao.md",
+    "Notes/Tổng hợp các trang tải file ISO Windows.md",
+    "Notes/Tổng hợp các trang SMS, Phone verify.md",
+    "Notes/Tổng hợp các trang giveaway phần mềm bản quyền.md",
+    "Notes/Tổng hợp các trang AI hữu ích.md",
+    "Notes/Tổng hợp các group chất trên Telegram.md",
+    "Notes/Tổng hợp các phần mềm từ Microsoft Store.md",
     "Notes/Tối ưu DNS.md",
+    "Notes/Tối ưu cuộn mượt.md",
     "Notes/Tôi sẽ tát vô mặt bạn và hét lên rằng Marxism VÔ TỘI.md",
-    "Notes/System Architecture.md",
-    "Notes/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard.md",
-    "Notes/Quy định sẽ không bao giờ kết thúc được các cuộc khủng hoảng ngân hàng..md",
-    "Notes/ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn.md",
-    "Notes/Phật Giáo – Bạo Lực – Chiến Tranh – Răng nanh và Móng vuốt của Đức Phật..md",
-    "Notes/Phần mềm vẽ sơ đồ tư duy SimpleMind.md",
-    "Notes/Phần mềm dọn dẹp Reg Organizer.md",
-    "Notes/Một chủ nghĩa Marx xanh hơn.md",
-    "Notes/Một bài viết ấn tượng về Liên Xô thời Stalin.md",
-    "Notes/Lảm nhảm về văn minh Đông Nam Á.md",
-    "Notes/Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome.md",
-    "Notes/ECH và cách thức nhà mạng chặn trang web cũng như cách vượt.md",
+    "Notes/Thư viện Udemy của Nghiện +.md",
+    "Notes/Tin trà đá.md",
+    "Notes/THẾ GIỚI TIỀN SCI-HUB.md",
+    "Notes/Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox.md",
     "Utilities/Images/X.drawio1.png",
     "Utilities/Images/X.drawio.png",
     "Utilities/Images/X.drawio 1.png",

@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_keyngon
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_keyngon  
-
-# Phần mềm dọn dẹp Reg Organizer
 App này có hai chức năng chính là **dọn dẹp** và **tối ưu**. Nói về dọn dẹp, có mấy thứ cần dọn dẹp:
 
 1. **Bloatware**: app mặc định của Windows (một số thằng bloatware rất khó chịu mà anh em không tự gỡ được)

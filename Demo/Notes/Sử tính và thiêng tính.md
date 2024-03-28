@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Firefox MOC]]"
+tags:
+  - on/firefox
 ---
-up:: [[Marxism MOC]]
-tags:: #marxism 
-
-# Sử tính và thiêng tính
 Một vài ý kiến lạm bàn liên quan đến những tranh cãi lịch sử gần đây:
 
 Thật ra kiểu chỉ trích của những người đó không mới. Nói vắn tắt là chỉ cần phủ nhận được "sử tính" thì đương nhiên cũng sẽ phủ nhận được "thiêng tính" (tính thiêng liêng) của một sự kiện lịch sử. Kiểu tư duy thô giản, cũ kỹ và đầy thiên kiến này đã kéo dài hơn 2000 năm nay và đã bị vứt vào thùng rác tư tưởng. "Sử tính" và "thiêng tính" là 2 mặt thống nhất nhưng độc lập. Giả sử có phủ nhận được hết sử tính thì cũng không có cách gì phủ nhận thiêng tính trừ khi dùng vũ lực. Thiêng tính này dù dựa trên nền tảng do việc hiểu sai hoặc ngụy tạo một sự kiện lịch sử thì ý nghĩa của nó vẫn được hình thành dựa trên kinh nghiệm tâm linh chứ không phải đối chiếu văn bản.

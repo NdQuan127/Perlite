@@ -1,11 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Firefox MOC]]"
+tags:
+  - on/firefox
 ---
-up:: [[Firefox MOC]]
-tags:: #on/firefox 
-
-# Tối ưu cuộn mượt
-
 > Anh em có thể thử thay đổi các thông số để phù hợp với bản thân mình
 
 > Phía dưới đây là trường phái cuộn mượt hơn cả edge (mượt nhất)

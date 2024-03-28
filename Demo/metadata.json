@@ -13,18 +13,8 @@
     ]
   },
   {
-    "fileName": "Universe of Ideas",
-    "relativePath": "Universe of Ideas.md",
-    "frontmatter": {
-      "up": [
-        "[Home](Home)"
-      ],
-      "related": null,
-      "created": "2023-12-10",
-      "tags": null,
-      "dg-publish": true,
-      "dg-home": true
-    },
+    "fileName": "README",
+    "relativePath": "README.md",
     "headings": [
       {
         "heading": "Philosophy & Politics 📚",
@@ -37,2344 +27,76 @@
       {
         "heading": "Books 📔",
         "level": 3
-      },
-      {
-        "heading": "Project ⌨️",
-        "level": 3
       }
     ],
     "links": [
       {
-        "link": "Marxism MOC.md",
-        "displayText": "Marxism MOC",
+        "link": "Marxism MOC",
         "relativePath": "Maps/Marxism MOC.md"
       },
       {
-        "link": "Nationalism MOC"
+        "link": "Nationalism MOC",
+        "relativePath": "Maps/Nationalism MOC.md"
       },
       {
-        "link": "International Relations MOC"
-      },
-      {
-        "link": "Firefox MOC.md",
-        "displayText": "Firefox MOC",
+        "link": "Firefox MOC",
         "relativePath": "Maps/Firefox MOC.md"
       },
       {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
+        "link": "Bí thuật MOC",
         "relativePath": "Maps/Bí thuật MOC.md"
       },
       {
-        "link": "Obsidian MOC"
+        "link": "Expose Books and Authors MOC",
+        "relativePath": "Maps/Expose Books and Authors MOC.md"
       },
       {
-        "link": "Expose Books and Authors MOC"
-      },
-      {
-        "link": "Kiến thức căn bản về sách"
-      }
-    ]
-  },
-  {
-    "fileName": "Distributed System",
-    "relativePath": "Notes/X/Distributed System.md",
-    "frontmatter": {
-      "up": [
-        "[HUST 2023-2](HUST%202023-2)"
-      ],
-      "related": null,
-      "created": "2024-02-20",
-      "tags": null
-    },
-    "links": [
-      {
-        "link": "Tổng quan về hệ thống phân tán"
-      },
-      {
-        "link": "Các vấn đề cơ bản trong hệ phân tán"
-      }
-    ]
-  },
-  {
-    "fileName": "Cách ngủ ít nhưng không mệt mỏi",
-    "relativePath": "Notes/X/Cách ngủ ít nhưng không mệt mỏi.md",
-    "frontmatter": {
-      "up": null,
-      "related": null,
-      "created": "2024-03-10",
-      "tags": null
-    }
-  },
-  {
-    "fileName": "+ About these notes",
-    "relativePath": "Notes/X/+ About these notes.md",
-    "frontmatter": {
-      "up": [
-        "[Meta PKM](Meta%20PKM)"
-      ],
-      "related": [],
-      "created": "2020-06-01"
-    }
-  },
-  {
-    "fileName": "+ About Atlas",
-    "relativePath": "Notes/X/+ About Atlas.md",
-    "frontmatter": {
-      "up": [
-        "[Meta PKM](Meta%20PKM)"
-      ],
-      "related": [],
-      "created": "2023-08-18"
-    },
-    "links": [
-      {
-        "link": "Home"
-      }
-    ]
-  },
-  {
-    "fileName": "Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ",
-    "relativePath": "Notes/Sources/Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ.md",
-    "tags": [
-      "on/firefox"
-    ],
-    "frontmatter": {
-      "dg-publish": true,
-      "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
-      ]
-    },
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ"
-      }
-    ]
-  },
-  {
-    "fileName": "Ép Firefox lưu cache trên RAM mà không cần RAMDisk",
-    "relativePath": "Notes/Sources/Ép Firefox lưu cache trên RAM mà không cần RAMDisk.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true,
-      "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
-      ]
-    },
-    "headings": [
-      {
-        "heading": "Mở rộng",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Ép Firefox lưu cache trên RAM mà không cần RAMDisk.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Ép Firefox lưu cache trên RAM mà không cần RAMDisk"
-      }
-    ]
-  },
-  {
-    "fileName": "Yuval Noal Harari 1 Nhà khoa học dân túy",
-    "relativePath": "Notes/Sources/Yuval Noal Harari 1 Nhà khoa học dân túy.md",
-    "tags": [
-      "on/books"
-    ],
-    "frontmatter": {
-      "up": [
-        "[Expose Books and Authors MOC](Expose%20Books%20and%20Authors%20MOC)"
-      ],
-      "dg-publish": true
-    }
-  },
-  {
-    "fileName": "Usercript mở video trên youtube bằng cách click vào thumbnail",
-    "relativePath": "Notes/Sources/Usercript mở video trên youtube bằng cách click vào thumbnail.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true,
-      "up": [
-        "[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp](Kết%20nối%20Firefox%20với%20ứng%20dụng%20ngoài%20để%20mở,tải%20video,playlist%20bằng%20MPV,yt-dlp.md)"
-      ]
-    },
-    "links": [
-      {
-        "link": "Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
-        "link": "Usercript mở video trên youtube bằng cách click vào thumbnail.md",
-        "relativePath": "Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md",
-        "displayText": "Usercript mở video trên youtube bằng cách click vào thumbnail"
-      }
-    ]
-  },
-  {
-    "fileName": "Từ điển about config để go pro",
-    "relativePath": "Notes/Sources/Từ điển about config để go pro.md",
-    "tags": [
-      "on/firefox"
-    ],
-    "frontmatter": {
-      "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
-      ],
-      "related": null,
-      "created": "2024-02-28",
-      "dg-publish": true
-    },
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Từ điển about config để go pro.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Từ điển about config để go pro"
-      }
-    ]
-  },
-  {
-    "fileName": "Từ YouTube sang TikTok - Sự sụp đổ của những giá trị mạng xã hội kiểu mẫu",
-    "relativePath": "Notes/Sources/Từ YouTube sang TikTok - Sự sụp đổ của những giá trị mạng xã hội kiểu mẫu.md",
-    "tags": [
-      "on/socialmedia"
-    ],
-    "headings": [
-      {
-        "heading": "Từ YouTube sang TikTok - Sự sụp đổ của những giá trị mạng xã hội kiểu mẫu",
-        "level": 1
-      },
-      {
-        "heading": "Nguồn tham khảo:",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "Vinh Vật Vờ",
-        "displayText": "Trần Xuân Vinh (Vinh Vật Vờ)"
-      }
-    ]
-  },
-  {
-    "fileName": "Tổng hợp về khôi phục dữ liệu",
-    "relativePath": "Notes/Sources/Tổng hợp về khôi phục dữ liệu.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Tổng hợp về khôi phục dữ liệu",
-        "level": 1
-      },
-      {
-        "heading": "Nguyên lý khôi phục HDD",
-        "level": 2
-      },
-      {
-        "heading": "Nguyên lý đọc/ghi/xoá của ổ cứng",
-        "level": 3
-      },
-      {
-        "heading": "Vậy khôi phục dữ liệu thế nào ?",
-        "level": 3
-      },
-      {
-        "heading": "Yếu tố nào ảnh hưởng đến xác suất khôi phục",
-        "level": 4
-      },
-      {
-        "heading": "Cần làm gì khi dữ liệu bị xoá nhầm",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Tổng hợp về khôi phục dữ liệu.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Tổng hợp về khôi phục dữ liệu"
-      }
-    ]
-  },
-  {
-    "fileName": "Tổng hợp các trang web xem phim online",
-    "relativePath": "Notes/Sources/Tổng hợp các trang web xem phim online.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Tổng hợp các trang web xem phim online",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Tổng hợp các trang web xem phim online.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Tổng hợp các trang web xem phim online"
-      }
-    ]
-  },
-  {
-    "fileName": "Tổng hợp các trang web tải Wallpaper",
-    "relativePath": "Notes/Sources/Tổng hợp các trang web tải Wallpaper.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Tổng hợp các trang web tải Wallpaper",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Tổng hợp các trang web tải Wallpaper.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Tổng hợp các trang web tải Wallpaper"
-      }
-    ]
-  },
-  {
-    "fileName": "Tổng hợp các trang web tải phần mềm Portable",
-    "relativePath": "Notes/Sources/Tổng hợp các trang web tải phần mềm Portable.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Tổng hợp các trang web tải phần mềm Portable",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Tổng hợp các trang web tải phần mềm Portable.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Tổng hợp các trang web tải phần mềm Portable"
-      }
-    ]
-  },
-  {
-    "fileName": "Tổng hợp các trang web tải phần mềm ngon",
-    "relativePath": "Notes/Sources/Tổng hợp các trang web tải phần mềm ngon.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Tổng hợp các trang web tải phần mềm ngon",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Tổng hợp các trang web tải phần mềm ngon.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Tổng hợp các trang web tải phần mềm ngon"
-      }
-    ]
-  },
-  {
-    "fileName": "Tổng hợp các trang tải file ISO Windows",
-    "relativePath": "Notes/Sources/Tổng hợp các trang tải file ISO Windows.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Tổng hợp các trang tải file ISO Windows",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Tổng hợp các trang tải file ISO Windows.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Tổng hợp các trang tải file ISO Windows"
-      }
-    ]
-  },
-  {
-    "fileName": "Tổng hợp các trang SMS, Phone verify",
-    "relativePath": "Notes/Sources/Tổng hợp các trang SMS, Phone verify.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Tổng hợp các trang SMS, Phone verify",
-        "level": 1
-      },
-      {
-        "heading": "Miễn phí",
-        "level": 3
-      },
-      {
-        "heading": "Trả phí",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Tổng hợp các trang SMS, Phone verify.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Tổng hợp các trang SMS, Phone verify"
-      }
-    ]
-  },
-  {
-    "fileName": "Tổng hợp các trang giveaway phần mềm bản quyền",
-    "relativePath": "Notes/Sources/Tổng hợp các trang giveaway phần mềm bản quyền.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Tổng hợp các trang giveaway phần mềm bản quyền",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Tổng hợp các trang giveaway phần mềm bản quyền.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Tổng hợp các trang giveaway phần mềm bản quyền"
-      }
-    ]
-  },
-  {
-    "fileName": "Tổng hợp các trang AI hữu ích",
-    "relativePath": "Notes/Sources/Tổng hợp các trang AI hữu ích.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "headings": [
-      {
-        "heading": "Tổng hợp các trang AI hữu ích",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Tổng hợp các phần mềm từ Microsoft Store",
-    "relativePath": "Notes/Sources/Tổng hợp các phần mềm từ Microsoft Store.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Tổng hợp các phần mềm từ Microsoft Store",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Tổng hợp các phần mềm từ Microsoft Store.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Tổng hợp các phần mềm từ Microsoft Store"
-      }
-    ]
-  },
-  {
-    "fileName": "Tổng hợp các group chất trên Telegram",
-    "relativePath": "Notes/Sources/Tổng hợp các group chất trên Telegram.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Tổng hợp các group chất trên Telegram",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Tổng hợp các group chất trên Telegram.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Tổng hợp các group chất trên Telegram"
-      }
-    ]
-  },
-  {
-    "fileName": "Tối ưu cuộn mượt",
-    "relativePath": "Notes/Sources/Tối ưu cuộn mượt.md",
-    "tags": [
-      "on/firefox"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Tối ưu cuộn mượt",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Firefox MOC.md",
-        "displayText": "Firefox MOC",
-        "relativePath": "Maps/Firefox MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Tối ưu cuộn mượt.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Tối ưu cuộn mượt"
-      }
-    ]
-  },
-  {
-    "fileName": "Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox",
-    "relativePath": "Notes/Sources/Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox.md",
-    "tags": [
-      "on/firefox"
-    ],
-    "frontmatter": {
-      "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
-      ],
-      "dg-publish": true
-    },
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox"
-      }
-    ]
-  },
-  {
-    "fileName": "Tắt OCSP để tăng tốc kết nối tới trang web",
-    "relativePath": "Notes/Sources/Tắt OCSP để tăng tốc kết nối tới trang web.md",
-    "tags": [
-      "on/firefox"
-    ],
-    "frontmatter": {
-      "dg-publish": true,
-      "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
-      ]
-    },
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Tắt OCSP để tăng tốc kết nối tới trang web.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Tắt OCSP để tăng tốc kết nối tới trang web"
-      }
-    ]
-  },
-  {
-    "fileName": "Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây",
-    "relativePath": "Notes/Sources/Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true,
-      "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
-      ]
-    },
-    "headings": [
-      {
-        "heading": "Hướng dẫn dùng file user.js để sửa nhanh một loạt cấu hình about:config trên Firefox Android không cần root.",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây"
-      }
-    ]
-  },
-  {
-    "fileName": "Tridactyl - Lướt web bằng bàn phím giống Vimium",
-    "relativePath": "Notes/Sources/Tridactyl - Lướt web bằng bàn phím giống Vimium.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "headings": [
-      {
-        "heading": "Tridactyl - Lướt web bằng bàn phím giống Vimium",
-        "level": 1
-      },
-      {
-        "heading": "Highlighted features:​",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Firefox MOC.md",
-        "displayText": "Firefox MOC",
-        "relativePath": "Maps/Firefox MOC.md"
-      },
-      {
-        "link": "",
-        "displayText": "/"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Tridactyl - Lướt web bằng bàn phím giống Vimium.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Tridactyl - Lướt web bằng bàn phím giống Vimium"
-      }
-    ]
-  },
-  {
-    "fileName": "Tin trà đá",
-    "relativePath": "Notes/Sources/Tin trà đá.md",
-    "tags": [
-      "note/boat🚤"
-    ],
-    "frontmatter": {
-      "up": null
-    }
-  },
-  {
-    "fileName": "Thư viện Udemy của Nghiện +",
-    "relativePath": "Notes/Sources/Thư viện Udemy của Nghiện +.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "headings": [
-      {
-        "heading": "Thư viện Udemy của Nghiện +",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Thư viện Udemy của Nghiện +.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Thư viện Udemy của Nghiện +"
-      }
-    ]
-  },
-  {
-    "fileName": "Sử tính và thiêng tính",
-    "relativePath": "Notes/Sources/Sử tính và thiêng tính.md",
-    "tags": [
-      "marxism"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Sử tính và thiêng tính",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Marxism MOC.md",
-        "displayText": "Marxism MOC",
-        "relativePath": "Maps/Marxism MOC.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Sidebery - Quản lý tab dọc với tính tuỳ biến cao",
-    "relativePath": "Notes/Sources/Sidebery - Quản lý tab dọc với tính tuỳ biến cao.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true,
-      "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
-      ]
-    },
-    "headings": [
-      {
-        "heading": "Tính năng",
-        "level": 2
-      },
-      {
-        "heading": "Ẩn/hiện thanh tab ngang cho gọn vì Sidebery bao tab dọc (dùng userChrome.css)",
-        "level": 2
-      },
-      {
-        "heading": "Auto Hide Sidebar như Edge",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Giới thiệu và một số cách sử dụng userChrome.js.md",
-        "displayText": "Giới thiệu và một số cách sử dụng userChrome.js",
-        "relativePath": "Notes/Sources/Giới thiệu và một số cách sử dụng userChrome.js.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Sidebery - Quản lý tab dọc với tính tuỳ biến cao.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Sidebery - Quản lý tab dọc với tính tuỳ biến cao"
-      }
-    ]
-  },
-  {
-    "fileName": "Search in Sidebar - Search qua sidebar mà ko cần mở tab mới",
-    "relativePath": "Notes/Sources/Search in Sidebar - Search qua sidebar mà ko cần mở tab mới.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Search in Sidebar - Search qua sidebar mà ko cần mở tab mới",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Firefox MOC.md",
-        "displayText": "Firefox MOC",
-        "relativePath": "Maps/Firefox MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Search in Sidebar - Search qua sidebar mà ko cần mở tab mới.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Search in Sidebar - Search qua sidebar mà ko cần mở tab mới"
-      }
-    ]
-  },
-  {
-    "fileName": "Search by Image - Tìm kiếm ảnh, dịch trong ảnh",
-    "relativePath": "Notes/Sources/Search by Image - Tìm kiếm ảnh, dịch trong ảnh.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Search by Image - Tìm kiếm ảnh, dịch trong ảnh",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Firefox MOC.md",
-        "displayText": "Firefox MOC",
-        "relativePath": "Maps/Firefox MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Search by Image - Tìm kiếm ảnh, dịch trong ảnh.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Search by Image - Tìm kiếm ảnh, dịch trong ảnh"
-      }
-    ]
-  },
-  {
-    "fileName": "Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...",
-    "relativePath": "Notes/Sources/Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,....md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...",
-        "level": 1
-      },
-      {
-        "heading": "Pin PWA vào Taskbar",
-        "level": 2
-      },
-      {
-        "heading": "-~~Ép cho PWA tiết kiệm RAM bằng cách tắt Fission~~-",
-        "level": 2
-      },
-      {
-        "heading": "Ép PWA tiết kiệm RAM ver 2.0",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Firefox MOC.md",
-        "displayText": "Firefox MOC",
-        "relativePath": "Maps/Firefox MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,....md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,..."
-      }
-    ]
-  },
-  {
-    "fileName": "Phần mềm IDM - Internet Download Manager",
-    "relativePath": "Notes/Sources/Phần mềm IDM - Internet Download Manager.md",
-    "tags": [
-      "on/bt_keyngon"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Phần mềm IDM - Internet Download Manager",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Phần mềm IDM - Internet Download Manager.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Phần mềm IDM - Internet Download Manager"
-      }
-    ]
-  },
-  {
-    "fileName": "Phần mềm dịch Mate Translate Pro",
-    "relativePath": "Notes/Sources/Phần mềm dịch Mate Translate Pro.md",
-    "tags": [
-      "on/bt_keyngon"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Phần mềm dịch Mate Translate Pro",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Phần mềm dịch Mate Translate Pro.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Phần mềm dịch Mate Translate Pro"
-      }
-    ]
-  },
-  {
-    "fileName": "Phần mềm diệt virus ESET",
-    "relativePath": "Notes/Sources/Phần mềm diệt virus ESET.md",
-    "tags": [
-      "on/bt_keyngon"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Phần mềm diệt virus ESET",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Phần mềm diệt virus ESET.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Phần mềm diệt virus ESET"
-      }
-    ]
-  },
-  {
-    "fileName": "Phần mềm chụp màn hình Snagit",
-    "relativePath": "Notes/Sources/Phần mềm chụp màn hình Snagit.md",
-    "tags": [
-      "on/bt_keyngon"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Phần mềm chụp màn hình Snagit",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Phần mềm chụp màn hình Snagit.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Phần mềm chụp màn hình Snagit"
-      }
-    ]
-  },
-  {
-    "fileName": "Phần mềm chuyên trị mất mạng Internet",
-    "relativePath": "Notes/Sources/Phần mềm chuyên trị mất mạng Internet.md",
-    "tags": [
-      "on/bt_keyngon"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Phần mềm chuyên trị mất mạng Internet",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Phần mềm chuyên trị mất mạng Internet.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Phần mềm chuyên trị mất mạng Internet"
-      }
-    ]
-  },
-  {
-    "fileName": "Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn",
-    "relativePath": "Notes/Sources/Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn.md",
-    "tags": [
-      "on/china",
-      "marxism",
-      "on/history"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn",
-        "level": 1
-      },
-      {
-        "heading": "Mở đầu",
-        "level": 2
-      },
-      {
-        "heading": "I. Một phong trào công nhân",
-        "level": 2
-      },
-      {
-        "heading": "II. Dân chủ như thế nào?",
-        "level": 2
-      },
-      {
-        "heading": "III. Sự bất hòa giữa sinh viên và công nhân",
-        "level": 2
-      },
-      {
-        "heading": "IV. Sự trỗi dậy và suy tàn của nền dân trị xã hội chủ nghĩa",
-        "level": 2
-      },
-      {
-        "heading": "V. Sau năm 89",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Marxism MOC.md",
-        "displayText": "Marxism MOC",
-        "relativePath": "Maps/Marxism MOC.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Những cuộc đình công và đấu đá nội bộ trong Đảng Cộng sản xuất phát chính từ đấu tranh giai cấp đang lên ở Việt Nam",
-    "relativePath": "Notes/Sources/Những cuộc đình công và đấu đá nội bộ trong Đảng Cộng sản xuất phát chính từ đấu tranh giai cấp đang lên ở Việt Nam.md",
-    "tags": [
-      "on/vietnam",
-      "marxism"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Những cuộc đình công và đấu đá nội bộ trong Đảng Cộng sản xuất phát chính từ đấu tranh giai cấp đang lên ở Việt Nam",
-        "level": 1
-      },
-      {
-        "heading": "1) Làn sóng đình công",
-        "level": 2
-      },
-      {
-        "heading": "2) Giai cấp thống trị chuẩn bị đối phó những cuộc đấu tranh từ dưới lên",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Marxism MOC.md",
-        "displayText": "Marxism MOC",
-        "relativePath": "Maps/Marxism MOC.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Nguồn gốc của thần thoại chính trị",
-    "relativePath": "Notes/Sources/Nguồn gốc của thần thoại chính trị.md",
-    "tags": [
-      "on/nationalism"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Nguồn gốc của thần thoại chính trị",
-        "level": 1
-      },
-      {
-        "heading": "Mở đầu",
-        "level": 2
-      },
-      {
-        "heading": "Tầng lớp trí tuệ của con người",
-        "level": 2
-      },
-      {
-        "heading": "Tầng lớp bình thường",
-        "level": 2
-      },
-      {
-        "heading": "Tầng lớp trung lưu và tầng lớp đỉnh cao",
-        "level": 2
-      },
-      {
-        "heading": "Tác dụng của thần thoại",
-        "level": 2
-      },
-      {
-        "heading": "Tình huống trung quốc",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Nationalism MOC"
-      }
-    ]
-  },
-  {
-    "fileName": "nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU",
-    "relativePath": "Notes/Sources/nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true,
-      "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
-      ]
-    },
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU"
-      }
-    ]
-  },
-  {
-    "fileName": "Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta",
-    "relativePath": "Notes/Sources/Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta.md",
-    "tags": [
-      "on/books"
-    ],
-    "frontmatter": {
-      "up": [
-        "[Expose Books and Authors MOC](Expose%20Books%20and%20Authors%20MOC)"
-      ],
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Những thành công đầu đời.",
-        "level": 2
-      },
-      {
-        "heading": "Hiệu trưởng Automobile College of Washington",
-        "level": 2
-      },
-      {
-        "heading": "Nghệ thuật ứng xử với những lời chỉ trích",
-        "level": 2
-      },
-      {
-        "heading": "Sáng lập tạp chí “Hill’s Golden Rule”",
-        "level": 2
-      },
-      {
-        "heading": "Napoleon Hill và Edison",
-        "level": 2
-      },
-      {
-        "heading": "Tại sao những hồi ức của Hill chỉ nằm trong đầu ông?",
-        "level": 2
-      },
-      {
-        "heading": "Bắt đầu viết sách",
-        "level": 2
-      },
-      {
-        "heading": "Những năm 30: Hill và FDR",
-        "level": 2
-      },
-      {
-        "heading": "Những năm sau đó",
-        "level": 2
-      },
-      {
-        "heading": "Tạm kết",
-        "level": 2
-      },
-      {
-        "heading": "Bí quyết Giả Kim Chân Truyền",
-        "level": 2
-      },
-      {
-        "heading": "Tài liệu tham khảo",
-        "level": 2
-      },
-      {
-        "heading": "Footnotes",
-        "level": 4
-      }
-    ]
-  },
-  {
-    "fileName": "Một vài suy nghĩ của 1 maxist vô định giữa thời đại này",
-    "relativePath": "Notes/Sources/Một vài suy nghĩ của 1 maxist vô định giữa thời đại này.md",
-    "tags": [
-      "marxism"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Một vài suy nghĩ của 1 maxist vô định giữa thời đại này",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Marxism MOC.md",
-        "displayText": "Marxism MOC",
-        "relativePath": "Maps/Marxism MOC.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM",
-    "relativePath": "Notes/Sources/Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true,
-      "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
-      ]
-    },
-    "headings": [
-      {
-        "heading": "~~Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM~~",
-        "level": 1
-      },
-      {
-        "heading": "Hướng dẫn cài MDM",
-        "level": 2
-      },
-      {
-        "heading": "Tổng kết lại tính năng so với IDM:",
-        "level": 2
-      },
-      {
-        "heading": "Tối ưu cho MDM thay đổi thuật toán tải chia luồng hiệu quả hơn để tránh bị máy chủ chặn",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM"
-      }
-    ]
-  },
-  {
-    "fileName": "Marx và Engels về sinh thái học",
-    "relativePath": "Notes/Sources/Marx và Engels về sinh thái học.md",
-    "tags": [
-      "marxism"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Marx và Engels về sinh thái học: \"Với cả xương thịt, máu mủ và đầu óc, chúng ta đều thuộc về tự nhiên\"",
-        "level": 1
-      },
-      {
-        "heading": "Sự đồng nhất của nhân loại và tự nhiên",
-        "level": 4
-      },
-      {
-        "heading": "Đất đai như hàng hóa",
-        "level": 4
-      },
-      {
-        "heading": "Sự xói mòn đất",
-        "level": 4
-      },
-      {
-        "heading": "Tàn phá rừng",
-        "level": 4
-      },
-      {
-        "heading": "Bất công môi trường",
-        "level": 4
-      },
-      {
-        "heading": "Sự tàn phá của chủ nghĩa tư bản và giải pháp từ chủ nghĩa xã hội",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "Marxism MOC.md",
-        "displayText": "Marxism MOC",
-        "relativePath": "Maps/Marxism MOC.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
-    "relativePath": "Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true,
-      "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
-      ]
-    },
-    "headings": [
-      {
-        "heading": "Cài đặt MPV",
-        "level": 2
-      },
-      {
-        "heading": "Cài đặt trên Firefox",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "MPV"
-      },
-      {
-        "link": "File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0.md",
-        "displayText": "File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0",
-        "relativePath": "Notes/Sources/File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0.md"
-      },
-      {
-        "link": "chuyển chất lượng video, playlist, subtitle..",
-        "displayText": "Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..)"
-      },
-      {
-        "link": "Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó.md",
-        "displayText": "Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó",
-        "relativePath": "Notes/Sources/Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó.md"
-      },
-      {
-        "link": "Hướng dẫn sử dụng handlers.json mà ko cần cài addon.md",
-        "displayText": "Hướng dẫn sử dụng handlers.json mà ko cần cài addon",
-        "relativePath": "Notes/Sources/Hướng dẫn sử dụng handlers.json mà ko cần cài addon.md"
-      },
-      {
-        "link": "Addon External Application.md",
-        "displayText": "Addon External Application",
-        "relativePath": "Notes/Sources/Addon External Application.md"
-      },
-      {
-        "link": "Usercript mở video trên youtube bằng cách click vào thumbnail.md",
-        "displayText": "Usercript mở video trên youtube bằng cách click vào thumbnail",
-        "relativePath": "Notes/Sources/Usercript mở video trên youtube bằng cách click vào thumbnail.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Hướng dẫn sử dụng handlers.json mà ko cần cài addon",
-        "link": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md",
-        "relativePath": "Notes/Sources/Hướng dẫn sử dụng handlers.json mà ko cần cài addon.md",
-        "displayText": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp"
-      },
-      {
-        "fileName": "Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó",
-        "link": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md",
-        "relativePath": "Notes/Sources/Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó.md",
-        "displayText": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp"
-      },
-      {
-        "fileName": "Addon External Application",
-        "link": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md",
-        "relativePath": "Notes/Sources/Addon External Application.md",
-        "displayText": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp"
-      },
-      {
-        "fileName": "Firefox MOC",
-        "link": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp"
-      }
-    ]
-  },
-  {
-    "fileName": "Hướng dẫn sử dụng handlers.json mà ko cần cài addon",
-    "relativePath": "Notes/Sources/Hướng dẫn sử dụng handlers.json mà ko cần cài addon.md",
-    "tags": [
-      "on/firefox"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Hướng dẫn sử dụng handlers.json mà ko cần cài addon",
-        "level": 1
-      },
-      {
-        "heading": "Chỉnh sửa handlers.json Firefox",
-        "level": 2
-      },
-      {
-        "heading": "Userscript Handlers",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md",
-        "displayText": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
-        "relativePath": "Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md"
-      },
-      {
-        "link": "+Mobile",
-        "displayText": "kiến thức - Tổng hợp những addon chất cho Firefox PC (+Mobile) (https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-28472328)"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
-        "link": "Hướng dẫn sử dụng handlers.json mà ko cần cài addon.md",
-        "relativePath": "Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md",
-        "displayText": "Hướng dẫn sử dụng handlers.json mà ko cần cài addon"
-      }
-    ]
-  },
-  {
-    "fileName": "Giới thiệu và một số cách sử dụng userChrome.js",
-    "relativePath": "Notes/Sources/Giới thiệu và một số cách sử dụng userChrome.js.md",
-    "tags": [
-      "on/firefox"
-    ],
-    "frontmatter": {
-      "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
-      ],
-      "related": null,
-      "created": "28-02-2024",
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Giải thích ngắn gọn",
-        "level": 1
-      },
-      {
-        "heading": "Một vài cách sử dụng userChrome",
-        "level": 1
-      },
-      {
-        "heading": "Nút tắt/bật quản lý addon",
-        "level": 2
-      },
-      {
-        "heading": "MouseGesture",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Sidebery - Quản lý tab dọc với tính tuỳ biến cao",
-        "link": "Giới thiệu và một số cách sử dụng userChrome.js.md",
-        "relativePath": "Notes/Sources/Sidebery - Quản lý tab dọc với tính tuỳ biến cao.md",
-        "displayText": "Giới thiệu và một số cách sử dụng userChrome.js"
-      },
-      {
-        "fileName": "Firefox MOC",
-        "link": "Giới thiệu và một số cách sử dụng userChrome.js.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Giới thiệu và một số cách sử dụng userChrome.js"
-      }
-    ]
-  },
-  {
-    "fileName": "FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế",
-    "relativePath": "Notes/Sources/FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế",
-        "level": 1
-      },
-      {
-        "heading": "Hướng dẫn cách để con vịt hết pede",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Firefox MOC.md",
-        "displayText": "Firefox MOC",
-        "relativePath": "Maps/Firefox MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế"
-      }
-    ]
-  },
-  {
-    "fileName": "File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0",
-    "relativePath": "Notes/Sources/File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true,
-      "up": [
-        "[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp](Kết%20nối%20Firefox%20với%20ứng%20dụng%20ngoài%20để%20mở,tải%20video,playlist%20bằng%20MPV,yt-dlp.md)"
-      ]
-    },
-    "backlinks": [
-      {
-        "fileName": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
-        "link": "File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0.md",
-        "relativePath": "Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md",
-        "displayText": "File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0"
-      }
-    ]
-  },
-  {
-    "fileName": "Cách xiên Google One XXX Years",
-    "relativePath": "Notes/Sources/Cách xiên Google One XXX Years.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Cách xiên Google One XXX Years",
-        "level": 1
-      },
-      {
-        "heading": "PHẦN I: TẠO GOOGLE FAMILY",
-        "level": 2
-      },
-      {
-        "heading": "PHẦN II: TIẾN HÀNH REG 2TB GOOGLE ONE",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí kíp xiên Google One tái bản lần thứ 2",
-        "link": "Cách xiên Google One XXX Years.md",
-        "relativePath": "Notes/Sources/Bí kíp xiên Google One tái bản lần thứ 2.md",
-        "displayText": "Cách xiên Google One XXX Years"
-      },
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Cách xiên Google One XXX Years.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Cách xiên Google One XXX Years"
-      }
-    ]
-  },
-  {
-    "fileName": "Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó",
-    "relativePath": "Notes/Sources/Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó.md",
-    "tags": [
-      "on/firefox"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md",
-        "displayText": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
-        "relativePath": "Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
-        "link": "Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó.md",
-        "relativePath": "Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md",
-        "displayText": "Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó"
-      }
-    ]
-  },
-  {
-    "fileName": "Cách nhận Youtube Prenium 4 tháng miễn phí",
-    "relativePath": "Notes/Sources/Cách nhận Youtube Prenium 4 tháng miễn phí.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Cách nhận Youtube Prenium 4 tháng miễn phí",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Cách nhận Youtube Prenium 4 tháng miễn phí.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Cách nhận Youtube Prenium 4 tháng miễn phí"
-      }
-    ]
-  },
-  {
-    "fileName": "Các thể loại quan trọng của Sci-Fi",
-    "relativePath": "Notes/Sources/Các thể loại quan trọng của Sci-Fi.md",
-    "tags": [
-      "on/books"
-    ],
-    "frontmatter": {
-      "dg-publish": true,
-      "up": [
-        "[Kiến thức căn bản về sách](Kiến%20thức%20căn%20bản%20về%20sách)"
-      ]
-    },
-    "headings": [
-      {
-        "heading": "Hard Sci Fi và Soft Sci Fi",
-        "level": 2
-      },
-      {
-        "heading": "Space Opera",
-        "level": 2
-      },
-      {
-        "heading": "Military Sci Fi",
-        "level": 2
-      },
-      {
-        "heading": "Apocalypse và Post-Apocalypse",
-        "level": 2
-      },
-      {
-        "heading": "Cyberpunk",
-        "level": 2
-      },
-      {
-        "heading": "Post-Cyberpunk",
-        "level": 2
-      },
-      {
-        "heading": "Steampunk",
-        "level": 2
-      },
-      {
-        "heading": "Teslapunk, Hopepunk và Capepunk",
-        "level": 2
-      },
-      {
-        "heading": "Một số dạng punk phái sinh",
-        "level": 2
-      },
-      {
-        "heading": "Social Sci Fi",
-        "level": 2
-      },
-      {
-        "heading": "Mundane Sci Fi",
-        "level": 2
-      },
-      {
-        "heading": "Sci Fi Fantasy",
-        "level": 2
-      },
-      {
-        "heading": "Kết",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Các bản mod ngon của Firefox",
-    "relativePath": "Notes/Sources/Các bản mod ngon của Firefox.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true,
-      "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
-      ]
-    },
-    "headings": [
-      {
-        "heading": "Cách nhảy các bản mod Firefox không lo mất dữ liệu",
-        "level": 2
-      },
-      {
-        "heading": "Các bản mod phổ biến của Firefox",
-        "level": 2
-      },
-      {
-        "heading": "Firefox Tete 009 - SSE2/AVX2 + Portable",
-        "level": 3
-      },
-      {
-        "heading": "Floorp - LTO + Portable + Workspace + Sidebar + Unloadtab +...",
-        "level": 3
-      },
-      {
-        "heading": "Firefox Mercury - AVX2 + Privacy",
-        "level": 3
-      },
-      {
-        "heading": "LibreWolf & Tor & Mullvad - Privacy",
-        "level": 3
-      },
-      {
-        "heading": "r3dfox - Windows 7",
-        "level": 3
-      },
-      {
-        "heading": "Hellfire",
-        "level": 3
-      },
-      {
-        "heading": "Ice Raven/Smart Cookie Web - Privacy+SideloadXPI+Androi",
-        "level": 3
-      },
-      {
-        "heading": "Waterfox - LT0/PO+Privacy+Betterfox+Androi",
-        "level": 3
-      },
-      {
-        "heading": "Slimbrowser - Adbloc+DownloadManager+Portable",
-        "level": 3
-      },
-      {
-        "heading": "Pulse Browser - Sidebar",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "SSE2+PGO",
-        "displayText": "Tối ưu bằng tập lệnh PGO+LTO nên nhanh hơn cả tete (SSE2+PGO) và thậm chí Mercury (AVX)"
-      },
-      {
-        "link": "do dùng VPN và đã chứng tỏ là không bao giờ lưu log",
-        "displayText": "(do dùng VPN và đã chứng tỏ là không bao giờ lưu log)"
-      },
-      {
-        "link": "bị FBI nằm vùng máy chủ và bắt như thường",
-        "displayText": "(bị FBI nằm vùng máy chủ và bắt như thường)"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Các bản mod ngon của Firefox.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Các bản mod ngon của Firefox"
-      }
-    ]
-  },
-  {
-    "fileName": "Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..)",
-    "relativePath": "Notes/Sources/Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..).md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true,
-      "up": [
-        "[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp](Kết%20nối%20Firefox%20với%20ứng%20dụng%20ngoài%20để%20mở,tải%20video,playlist%20bằng%20MPV,yt-dlp.md)"
-      ]
-    }
-  },
-  {
-    "fileName": "Cuộc đối thoại triết học kinh điển giữa Einstein và Tagore",
-    "relativePath": "Notes/Sources/Cuộc đối thoại triết học kinh điển giữa Einstein và Tagore.md",
-    "tags": [
-      "note/boat🚤"
-    ],
-    "frontmatter": {
-      "up": null
-    }
-  },
-  {
-    "fileName": "Chủ nghĩa tự do và Chủ nghĩa xã hội - Hai tử thù hay Hai anh em xa cách",
-    "relativePath": "Notes/Sources/Chủ nghĩa tự do và Chủ nghĩa xã hội - Hai tử thù hay Hai anh em xa cách.md",
-    "tags": [
-      "marxism",
-      "on/liberalism"
-    ],
-    "headings": [
-      {
-        "heading": "Chủ nghĩa tự do và Chủ nghĩa xã hội - Hai tử thù hay Hai anh em xa cách",
-        "level": 1
-      },
-      {
-        "heading": "Cốt lõi chung",
-        "level": 4
-      },
-      {
-        "heading": "Tầm quan trọng của cá nhân",
-        "level": 4
-      },
-      {
-        "heading": "Các xã hội tự do thất bại trên chính tiêu chuẩn mà nó đề ra",
-        "level": 4
-      },
-      {
-        "heading": "Hai kinh nghiệm lịch sử",
-        "level": 4
-      },
-      {
-        "heading": "Chủ nghĩa xã hội có khả thi không?",
-        "level": 4
-      },
-      {
-        "heading": "Lý tưởng xã hội chủ nghĩa có tầm nhìn quốc tế",
-        "level": 4
-      },
-      {
-        "heading": "Xây dựng sự đồng thuận với sự tham gia chính trị",
-        "level": 4
-      },
-      {
-        "heading": "Ví dụ Trung Quốc",
-        "level": 4
-      },
-      {
-        "heading": "Cốt lõi chung",
-        "level": 4
-      },
-      {
-        "heading": "Tầm quan trọng của cá nhân",
-        "level": 4
-      },
-      {
-        "heading": "Các xã hội tự do thất bại trên chính tiêu chuẩn mà nó đề ra",
-        "level": 4
-      },
-      {
-        "heading": "Hai kinh nghiệm lịch sử",
-        "level": 4
-      },
-      {
-        "heading": "Chủ nghĩa xã hội có khả thi không?",
-        "level": 4
-      },
-      {
-        "heading": "Lý tưởng xã hội chủ nghĩa có tầm nhìn quốc tế",
-        "level": 4
-      },
-      {
-        "heading": "Xây dựng sự đồng thuận với sự tham gia chính trị",
-        "level": 4
-      },
-      {
-        "heading": "Ví dụ Trung Quốc",
-        "level": 4
-      },
-      {
-        "heading": "Cốt lõi chung",
-        "level": 4
-      },
-      {
-        "heading": "Tầm quan trọng của cá nhân",
-        "level": 4
-      },
-      {
-        "heading": "Các xã hội tự do thất bại trên chính tiêu chuẩn mà nó đề ra",
-        "level": 4
-      },
-      {
-        "heading": "Hai kinh nghiệm lịch sử",
-        "level": 4
-      },
-      {
-        "heading": "Chủ nghĩa xã hội có khả thi không?",
-        "level": 4
-      },
-      {
-        "heading": "Lý tưởng xã hội chủ nghĩa có tầm nhìn quốc tế",
-        "level": 4
-      },
-      {
-        "heading": "Xây dựng sự đồng thuận với sự tham gia chính trị",
-        "level": 4
-      },
-      {
-        "heading": "Ví dụ Trung Quốc",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "Marxism MOC.md",
-        "displayText": "Marxism MOC",
-        "relativePath": "Maps/Marxism MOC.md"
-      },
-      {
-        "link": "marxism"
-      },
-      {
-        "link": "marxism"
-      }
-    ]
-  },
-  {
-    "fileName": "Bật punycode để miễn nhiễm với tên miền giả mạo",
-    "relativePath": "Notes/Sources/Bật punycode để miễn nhiễm với tên miền giả mạo.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Bật punycode để miễn nhiễm với tên miền giả mạo",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Firefox MOC.md",
-        "displayText": "Firefox MOC",
-        "relativePath": "Maps/Firefox MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Bật punycode để miễn nhiễm với tên miền giả mạo.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Bật punycode để miễn nhiễm với tên miền giả mạo"
-      }
-    ]
-  },
-  {
-    "fileName": "CHỦ NGHĨA MARX ĐI VỀ ĐÂU",
-    "relativePath": "Notes/Sources/CHỦ NGHĨA MARX ĐI VỀ ĐÂU.md",
-    "tags": [
-      "marxism"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "CHỦ NGHĨA MARX ĐI VỀ ĐÂU?",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Marxism MOC.md",
-        "displayText": "Marxism MOC",
-        "relativePath": "Maps/Marxism MOC.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong",
-    "relativePath": "Notes/Sources/Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong.md",
-    "tags": [
-      "on/firefox"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Firefox MOC.md",
-        "displayText": "Firefox MOC",
-        "relativePath": "Maps/Firefox MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong"
-      }
-    ]
-  },
-  {
-    "fileName": "Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU",
-    "relativePath": "Notes/Sources/Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU.md",
-    "tags": [
-      "on/firefox"
-    ],
-    "frontmatter": {
-      "dg-publish": true,
-      "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
-      ]
-    },
-    "headings": [
-      {
-        "heading": "Cách unload tab super ultra vip pro 😀",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Firefox MOC",
-        "link": "Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU"
-      }
-    ]
-  },
-  {
-    "fileName": "Bí kíp xiên Google One tái bản lần thứ 2",
-    "relativePath": "Notes/Sources/Bí kíp xiên Google One tái bản lần thứ 2.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Bí kíp xiên Google One tái bản lần thứ 2",
-        "level": 1
-      },
-      {
-        "heading": "CHUẨN BỊ",
-        "level": 2
-      },
-      {
-        "heading": "Thao tác xiên",
-        "level": 2
-      },
-      {
-        "heading": "Bước 1: Lấy dùng thử miễn phí 2TB 1 năm",
-        "level": 3
-      },
-      {
-        "heading": "Bước 2: Chuyển đổi",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      },
-      {
-        "link": "Cách xiên Google One XXX Years.md",
-        "displayText": "Cách xiên Google One XXX Years",
-        "relativePath": "Notes/Sources/Cách xiên Google One XXX Years.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Bí kíp xiên Google One tái bản lần thứ 2.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Bí kíp xiên Google One tái bản lần thứ 2"
-      }
-    ]
-  },
-  {
-    "fileName": "Adobe Photoshop + Remove Tool",
-    "relativePath": "Notes/Sources/Adobe Photoshop + Remove Tool.md",
-    "tags": [
-      "on/bt_keyngon"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Adobe Photoshop + Remove Tool",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Bí thuật MOC",
-        "link": "Adobe Photoshop + Remove Tool.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Adobe Photoshop + Remove Tool"
-      }
-    ]
-  },
-  {
-    "fileName": "AdGuard Premium 6 tháng free cho windows (hàng nóng hổi)",
-    "relativePath": "Notes/Sources/AdGuard Premium 6 tháng free cho windows (hàng nóng hổi).md",
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "AdGuard Premium 6 tháng free cho windows (hàng nóng hổi)",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Addon External Application",
-    "relativePath": "Notes/Sources/Addon External Application.md",
-    "tags": [
-      "on/firefox"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "Addon External Application",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md",
-        "displayText": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
-        "relativePath": "Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
-        "link": "Addon External Application.md",
-        "relativePath": "Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md",
-        "displayText": "Addon External Application"
-      }
-    ]
-  },
-  {
-    "fileName": "1001 câu hỏi về Testflight của Apple",
-    "relativePath": "Notes/Sources/1001 câu hỏi về Testflight của Apple.md",
-    "tags": [
-      "on/bt_chiase"
-    ],
-    "frontmatter": {
-      "dg-publish": true
-    },
-    "headings": [
-      {
-        "heading": "1001 câu hỏi về Testflight của Apple",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
+        "link": "Kiến thức căn bản về sách",
+        "relativePath": "Maps/Kiến thức căn bản về sách.md"
       }
     ]
   },
   {
     "fileName": "Đồng chí B nói về âm mưu chống VN của bè lũ phản động TQ",
-    "relativePath": "Notes/Ideas/Đồng chí B nói về âm mưu chống VN của bè lũ phản động TQ.md",
+    "relativePath": "Notes/Đồng chí B nói về âm mưu chống VN của bè lũ phản động TQ.md",
     "tags": [
-      "on/history"
+      "on/vietnam"
     ],
-    "headings": [
-      {
-        "heading": "Đồng chí B nói về âm mưu chống VN của bè lũ phản động TQ",
-        "level": 1
-      }
-    ],
+    "frontmatter": {
+      "up": null
+    },
     "links": [
-      {
-        "link": "Việt Nam History MOC"
-      },
       {
         "link": "Việt Nam"
       }
     ]
   },
   {
-    "fileName": "Đôi điều về Trường phái ngoại giao Hồ Chí Minh",
-    "relativePath": "Notes/Ideas/Đôi điều về Trường phái ngoại giao Hồ Chí Minh.md",
+    "fileName": "Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ",
+    "relativePath": "Notes/Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ.md",
     "tags": [
-      "note/boat🚤"
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Đôi điều về Trường phái ngoại giao Hồ Chí Minh",
+    "relativePath": "Notes/Đôi điều về Trường phái ngoại giao Hồ Chí Minh.md",
+    "tags": [
+      "note/boat🚤",
+      "on/vietnam"
     ],
     "frontmatter": {
       "up": null
@@ -2399,21 +121,64 @@
     ]
   },
   {
-    "fileName": "Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”",
-    "relativePath": "Notes/Ideas/Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”.md",
+    "fileName": "Yuval Noal Harari 1 Nhà khoa học dân túy",
+    "relativePath": "Notes/Yuval Noal Harari 1 Nhà khoa học dân túy.md",
     "tags": [
-      "marxism",
-      "on/history",
-      "on/china"
+      "on/books"
     ],
     "frontmatter": {
+      "up": [
+        "[[Expose Books and Authors MOC]]"
+      ],
       "dg-publish": true
+    },
+    "backlinks": [
+      {
+        "fileName": "Expose Books and Authors MOC",
+        "link": "Yuval Noal Harari 1 Nhà khoa học dân túy",
+        "relativePath": "Maps/Expose Books and Authors MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Ép Firefox lưu cache trên RAM mà không cần RAMDisk",
+    "relativePath": "Notes/Ép Firefox lưu cache trên RAM mà không cần RAMDisk.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
     },
     "headings": [
       {
-        "heading": "Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”",
-        "level": 1
-      },
+        "heading": "Mở rộng",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "Ép Firefox lưu cache trên RAM mà không cần RAMDisk",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”",
+    "relativePath": "Notes/Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”.md",
+    "tags": [
+      "marxism"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Marxism MOC]]"
+      ]
+    },
+    "headings": [
       {
         "heading": "Conclusion:",
         "level": 2
@@ -2422,25 +187,18 @@
         "heading": "Quan Điểm Cá Nhân Của *Bàn về mọi thứ* Về Vương Minh 王明",
         "level": 2
       }
-    ],
-    "links": [
-      {
-        "link": "Marxism MOC.md",
-        "displayText": "Marxism MOC",
-        "relativePath": "Maps/Marxism MOC.md"
-      }
     ]
   },
   {
     "fileName": "Userscript cho Violentmonkey-Greasymonkey-Tampermonkey",
-    "relativePath": "Notes/Ideas/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey.md",
+    "relativePath": "Notes/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey.md",
     "tags": [
       "on/bt_chiase"
     ],
     "frontmatter": {
       "dg-publish": true,
       "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
+        "[[Firefox MOC]]"
       ]
     },
     "headings": [
@@ -2473,39 +231,50 @@
         "level": 3
       }
     ],
-    "links": [
-      {
-        "link": "Universal",
-        "displayText": "Selection and Copying Restorer (Universal)"
-      },
-      {
-        "link": "Customized",
-        "displayText": "Font Rendering (Customized)"
-      },
-      {
-        "link": "Include Non-Skippable Ads- works",
-        "displayText": "Youtube Ad Cleaner(Include Non-Skippable Ads- works)"
-      }
-    ],
     "backlinks": [
       {
         "fileName": "Firefox MOC",
-        "link": "Userscript cho Violentmonkey-Greasymonkey-Tampermonkey.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Userscript cho Violentmonkey-Greasymonkey-Tampermonkey"
+        "link": "Userscript cho Violentmonkey-Greasymonkey-Tampermonkey",
+        "relativePath": "Maps/Firefox MOC.md"
       }
     ]
   },
   {
-    "fileName": "uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư",
-    "relativePath": "Notes/Ideas/uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư.md",
+    "fileName": "Usercript mở video trên youtube bằng cách click vào thumbnail",
+    "relativePath": "Notes/Usercript mở video trên youtube bằng cách click vào thumbnail.md",
     "tags": [
       "on/bt_chiase"
     ],
     "frontmatter": {
       "dg-publish": true,
       "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
+        "[[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]"
+      ]
+    },
+    "links": [
+      {
+        "link": "Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web",
+        "relativePath": "Notes/Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
+        "link": "Usercript mở video trên youtube bằng cách click vào thumbnail",
+        "relativePath": "Notes/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md"
+      }
+    ]
+  },
+  {
+    "fileName": "uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư",
+    "relativePath": "Notes/uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
       ]
     },
     "headings": [
@@ -2521,96 +290,306 @@
     "backlinks": [
       {
         "fileName": "Firefox MOC",
-        "link": "uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư"
+        "link": "uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Từ điển about config để go pro",
+    "relativePath": "Notes/Từ điển about config để go pro.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "up": [
+        "[[Firefox MOC]]"
+      ],
+      "related": null,
+      "created": "2024-02-28",
+      "dg-publish": true
+    },
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "Từ điển about config để go pro",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Từ YouTube sang TikTok - Sự sụp đổ của những giá trị mạng xã hội kiểu mẫu",
+    "relativePath": "Notes/Từ YouTube sang TikTok - Sự sụp đổ của những giá trị mạng xã hội kiểu mẫu.md",
+    "tags": [
+      "on/socialmedia"
+    ],
+    "headings": [
+      {
+        "heading": "Từ YouTube sang TikTok - Sự sụp đổ của những giá trị mạng xã hội kiểu mẫu",
+        "level": 1
+      },
+      {
+        "heading": "Nguồn tham khảo:",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Tổng hợp về khôi phục dữ liệu",
+    "relativePath": "Notes/Tổng hợp về khôi phục dữ liệu.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "Nguyên lý khôi phục HDD",
+        "level": 2
+      },
+      {
+        "heading": "Nguyên lý đọc/ghi/xoá của ổ cứng",
+        "level": 3
+      },
+      {
+        "heading": "Vậy khôi phục dữ liệu thế nào ?",
+        "level": 3
+      },
+      {
+        "heading": "Yếu tố nào ảnh hưởng đến xác suất khôi phục",
+        "level": 4
+      },
+      {
+        "heading": "Cần làm gì khi dữ liệu bị xoá nhầm",
+        "level": 4
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Tổng hợp về khôi phục dữ liệu",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Tổng hợp các trang web xem phim online",
+    "relativePath": "Notes/Tổng hợp các trang web xem phim online.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Tổng hợp các trang web xem phim online",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Tổng hợp các trang web tải Wallpaper",
+    "relativePath": "Notes/Tổng hợp các trang web tải Wallpaper.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Tổng hợp các trang web tải Wallpaper",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Tổng hợp các trang web tải phần mềm Portable",
+    "relativePath": "Notes/Tổng hợp các trang web tải phần mềm Portable.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Tổng hợp các trang web tải phần mềm Portable",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Tổng hợp các trang web tải phần mềm ngon",
+    "relativePath": "Notes/Tổng hợp các trang web tải phần mềm ngon.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Tổng hợp các trang web tải phần mềm ngon",
+        "relativePath": "Maps/Bí thuật MOC.md"
       }
     ]
   },
   {
     "fileName": "Tổng hợp các trang web tải nhạc chất lượng cao",
-    "relativePath": "Notes/Ideas/Tổng hợp các trang web tải nhạc chất lượng cao.md",
+    "relativePath": "Notes/Tổng hợp các trang web tải nhạc chất lượng cao.md",
     "tags": [
       "on/bt_chiase"
     ],
-    "headings": [
-      {
-        "heading": "Tổng hợp các trang web tải nhạc chất lượng cao",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
+    "frontmatter": {
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
     "backlinks": [
       {
         "fileName": "Bí thuật MOC",
-        "link": "Tổng hợp các trang web tải nhạc chất lượng cao.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Tổng hợp các trang web tải nhạc chất lượng cao"
+        "link": "Tổng hợp các trang web tải nhạc chất lượng cao",
+        "relativePath": "Maps/Bí thuật MOC.md"
       }
     ]
   },
   {
-    "fileName": "Tổng hợp các Github Repositories",
-    "relativePath": "Notes/Ideas/Tổng hợp các Github Repositories.md",
+    "fileName": "Tổng hợp các trang tải file ISO Windows",
+    "relativePath": "Notes/Tổng hợp các trang tải file ISO Windows.md",
     "tags": [
-      "on/bt_chiase",
-      "note/develop🍃"
+      "on/bt_chiase"
     ],
     "frontmatter": {
       "dg-publish": true,
-      "up": "[Bí thuật MOC](../../Maps/Bí%20thuật%20MOC.md)"
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Tổng hợp các trang tải file ISO Windows",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Tổng hợp các trang SMS, Phone verify",
+    "relativePath": "Notes/Tổng hợp các trang SMS, Phone verify.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
     },
     "headings": [
       {
-        "heading": "Tools",
-        "level": 2
+        "heading": "Miễn phí",
+        "level": 3
       },
       {
-        "heading": "IT resource",
-        "level": 2
-      },
-      {
-        "heading": "Awesome List",
-        "level": 2
-      },
-      {
-        "heading": "App  Androi",
-        "level": 2
-      },
-      {
-        "heading": "App iOS",
-        "level": 2
+        "heading": "Trả phí",
+        "level": 3
       }
     ],
     "backlinks": [
       {
         "fileName": "Bí thuật MOC",
-        "link": "Tổng hợp các Github Repositories.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Tổng hợp các Github Repositories"
+        "link": "Tổng hợp các trang SMS, Phone verify",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Tổng hợp các trang giveaway phần mềm bản quyền",
+    "relativePath": "Notes/Tổng hợp các trang giveaway phần mềm bản quyền.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Tổng hợp các trang giveaway phần mềm bản quyền",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Tổng hợp các trang AI hữu ích",
+    "relativePath": "Notes/Tổng hợp các trang AI hữu ích.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    }
+  },
+  {
+    "fileName": "Tổng hợp các group chất trên Telegram",
+    "relativePath": "Notes/Tổng hợp các group chất trên Telegram.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Tổng hợp các group chất trên Telegram",
+        "relativePath": "Maps/Bí thuật MOC.md"
       }
     ]
   },
   {
     "fileName": "Tối ưu DNS",
-    "relativePath": "Notes/Ideas/Tối ưu DNS.md",
+    "relativePath": "Notes/Tối ưu DNS.md",
     "tags": [
-      "on/bt_chiase"
+      "on/firefox"
     ],
     "frontmatter": {
-      "dg-publish": true
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
     },
     "headings": [
-      {
-        "heading": "Tối ưu DNS",
-        "level": 1
-      },
       {
         "heading": "Tối ưu ẩn danh bằng cách bật ECH (Encrypted ClientHello) để nhà mạng không nhìn thấy, vào web bị chặn DPI",
         "level": 2
@@ -2620,31 +599,109 @@
         "level": 2
       }
     ],
-    "links": [
+    "backlinks": [
       {
-        "link": "Firefox MOC.md",
-        "displayText": "Firefox MOC",
+        "fileName": "Firefox MOC",
+        "link": "Tối ưu DNS",
         "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Tối ưu cuộn mượt",
+    "relativePath": "Notes/Tối ưu cuộn mượt.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "Tối ưu cuộn mượt",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Tắt OCSP để tăng tốc kết nối tới trang web",
+    "relativePath": "Notes/Tắt OCSP để tăng tốc kết nối tới trang web.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "Tắt OCSP để tăng tốc kết nối tới trang web",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox",
+    "relativePath": "Notes/Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "up": [
+        "[[Firefox MOC]]"
+      ],
+      "dg-publish": true
+    },
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây",
+    "relativePath": "Notes/Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "Hướng dẫn dùng file user.js để sửa nhanh một loạt cấu hình about:config trên Firefox Android không cần root.",
+        "level": 2
       }
     ],
     "backlinks": [
       {
         "fileName": "Firefox MOC",
-        "link": "Tối ưu DNS.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Tối ưu DNS"
+        "link": "Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây",
+        "relativePath": "Maps/Firefox MOC.md"
       }
     ]
   },
   {
     "fileName": "Tôi sẽ tát vô mặt bạn và hét lên rằng Marxism VÔ TỘI",
-    "relativePath": "Notes/Ideas/Tôi sẽ tát vô mặt bạn và hét lên rằng Marxism VÔ TỘI.md",
+    "relativePath": "Notes/Tôi sẽ tát vô mặt bạn và hét lên rằng Marxism VÔ TỘI.md",
     "tags": [
       "marxism"
     ],
     "frontmatter": {
       "up": [
-        "[Marxism MOC](../../Maps/Marxism%20MOC.md)"
+        "[[Marxism MOC]]"
       ],
       "related": null,
       "created": "22-03-2024"
@@ -2705,19 +762,45 @@
     ]
   },
   {
+    "fileName": "THẾ GIỚI TIỀN SCI-HUB",
+    "relativePath": "Notes/THẾ GIỚI TIỀN SCI-HUB.md",
+    "frontmatter": {
+      "up": null,
+      "tags": null
+    }
+  },
+  {
+    "fileName": "Thư viện Udemy của Nghiện +",
+    "relativePath": "Notes/Thư viện Udemy của Nghiện +.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Thư viện Udemy của Nghiện +",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
     "fileName": "Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard",
-    "relativePath": "Notes/Ideas/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard.md",
+    "relativePath": "Notes/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard.md",
     "tags": [
       "on/firefox"
     ],
     "frontmatter": {
-      "dg-publish": true
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
     },
     "headings": [
-      {
-        "heading": "Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard",
-        "level": 1
-      },
       {
         "heading": "1. uBlock của Firefox và uBlock của Chrome",
         "level": 2
@@ -2731,55 +814,134 @@
         "level": 2
       }
     ],
-    "links": [
-      {
-        "link": "Firefox MOC.md",
-        "displayText": "Firefox MOC",
-        "relativePath": "Maps/Firefox MOC.md"
-      },
-      {
-        "link": "thường là lừa bịp, virus",
-        "displayText": "Cách chặn các tên miền mới tạo (thường là lừa bịp, virus) bằng uBlock"
-      }
-    ],
     "backlinks": [
       {
         "fileName": "Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome",
-        "link": "Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard.md",
-        "relativePath": "Notes/Ideas/Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome.md",
-        "displayText": "Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard"
+        "link": "Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard",
+        "relativePath": "Notes/Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome.md"
       },
       {
         "fileName": "Firefox MOC",
-        "link": "Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard"
+        "link": "Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard",
+        "relativePath": "Maps/Firefox MOC.md"
       }
     ]
   },
   {
-    "fileName": "Quy định sẽ không bao giờ kết thúc được các cuộc khủng hoảng ngân hàng.",
-    "relativePath": "Notes/Ideas/Quy định sẽ không bao giờ kết thúc được các cuộc khủng hoảng ngân hàng..md",
-    "tags": [
-      "on/economic"
-    ],
-    "headings": [
-      {
-        "heading": "Quy định sẽ không bao giờ kết thúc được các cuộc khủng hoảng ngân hàng.",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn",
-    "relativePath": "Notes/Ideas/ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn.md",
+    "fileName": "Sử tính và thiêng tính",
+    "relativePath": "Notes/Sử tính và thiêng tính.md",
     "tags": [
       "on/firefox"
     ],
     "frontmatter": {
       "dg-publish": true,
       "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
+        "[[Firefox MOC]]"
+      ]
+    }
+  },
+  {
+    "fileName": "Sidebery - Quản lý tab dọc với tính tuỳ biến cao",
+    "relativePath": "Notes/Sidebery - Quản lý tab dọc với tính tuỳ biến cao.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "Tính năng",
+        "level": 2
+      },
+      {
+        "heading": "Ẩn/hiện thanh tab ngang cho gọn vì Sidebery bao tab dọc (dùng userChrome.css)",
+        "level": 2
+      },
+      {
+        "heading": "Auto Hide Sidebar như Edge",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Giới thiệu và một số cách sử dụng userChrome.js",
+        "relativePath": "Notes/Giới thiệu và một số cách sử dụng userChrome.js.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "Sidebery - Quản lý tab dọc với tính tuỳ biến cao",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Search in Sidebar - Search qua sidebar mà ko cần mở tab mới",
+    "relativePath": "Notes/Search in Sidebar - Search qua sidebar mà ko cần mở tab mới.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "Search in Sidebar - Search qua sidebar mà ko cần mở tab mới",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Search by Image - Tìm kiếm ảnh, dịch trong ảnh",
+    "relativePath": "Notes/Search by Image - Tìm kiếm ảnh, dịch trong ảnh.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "Search by Image - Tìm kiếm ảnh, dịch trong ảnh",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Quy định sẽ không bao giờ kết thúc được các cuộc khủng hoảng ngân hàng.",
+    "relativePath": "Notes/Quy định sẽ không bao giờ kết thúc được các cuộc khủng hoảng ngân hàng..md",
+    "tags": [
+      "marxism"
+    ],
+    "frontmatter": {
+      "up": [
+        "[[Marxism MOC]]"
+      ]
+    }
+  },
+  {
+    "fileName": "ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn",
+    "relativePath": "Notes/ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
       ]
     },
     "headings": [
@@ -2791,21 +953,53 @@
     "backlinks": [
       {
         "fileName": "ECH và cách thức nhà mạng chặn trang web cũng như cách vượt",
-        "link": "ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn.md",
-        "relativePath": "Notes/Ideas/ECH và cách thức nhà mạng chặn trang web cũng như cách vượt.md",
-        "displayText": "ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn"
+        "link": "ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn",
+        "relativePath": "Notes/ECH và cách thức nhà mạng chặn trang web cũng như cách vượt.md"
       },
       {
         "fileName": "Firefox MOC",
-        "link": "ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn"
+        "link": "ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...",
+    "relativePath": "Notes/Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,....md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "Pin PWA vào Taskbar",
+        "level": 2
+      },
+      {
+        "heading": "-~~Ép cho PWA tiết kiệm RAM bằng cách tắt Fission~~-",
+        "level": 2
+      },
+      {
+        "heading": "Ép PWA tiết kiệm RAM ver 2.0",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...",
+        "relativePath": "Maps/Firefox MOC.md"
       }
     ]
   },
   {
     "fileName": "Phật Giáo – Bạo Lực – Chiến Tranh – Răng nanh và Móng vuốt của Đức Phật.",
-    "relativePath": "Notes/Ideas/Phật Giáo – Bạo Lực – Chiến Tranh – Răng nanh và Móng vuốt của Đức Phật..md",
+    "relativePath": "Notes/Phật Giáo – Bạo Lực – Chiến Tranh – Răng nanh và Móng vuốt của Đức Phật..md",
     "tags": [
       "note/boat🚤"
     ],
@@ -2841,140 +1035,652 @@
   },
   {
     "fileName": "Phần mềm vẽ sơ đồ tư duy SimpleMind",
-    "relativePath": "Notes/Ideas/Phần mềm vẽ sơ đồ tư duy SimpleMind.md",
+    "relativePath": "Notes/Phần mềm vẽ sơ đồ tư duy SimpleMind.md",
     "tags": [
       "on/bt_keyngon"
     ],
     "frontmatter": {
-      "dg-publish": true
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
     },
-    "headings": [
-      {
-        "heading": "Phần mềm vẽ sơ đồ tư duy SimpleMind",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
-      }
-    ],
     "backlinks": [
       {
         "fileName": "Bí thuật MOC",
-        "link": "Phần mềm vẽ sơ đồ tư duy SimpleMind.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Phần mềm vẽ sơ đồ tư duy SimpleMind"
+        "link": "Phần mềm vẽ sơ đồ tư duy SimpleMind",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Phần mềm IDM - Internet Download Manager",
+    "relativePath": "Notes/Phần mềm IDM - Internet Download Manager.md",
+    "tags": [
+      "on/bt_keyngon"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Phần mềm IDM - Internet Download Manager",
+        "relativePath": "Maps/Bí thuật MOC.md"
       }
     ]
   },
   {
     "fileName": "Phần mềm dọn dẹp Reg Organizer",
-    "relativePath": "Notes/Ideas/Phần mềm dọn dẹp Reg Organizer.md",
+    "relativePath": "Notes/Phần mềm dọn dẹp Reg Organizer.md",
     "tags": [
       "on/bt_keyngon"
     ],
     "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Phần mềm dọn dẹp Reg Organizer",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Phần mềm dịch Mate Translate Pro",
+    "relativePath": "Notes/Phần mềm dịch Mate Translate Pro.md",
+    "tags": [
+      "on/bt_keyngon"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Phần mềm dịch Mate Translate Pro",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Phần mềm diệt virus ESET",
+    "relativePath": "Notes/Phần mềm diệt virus ESET.md",
+    "tags": [
+      "on/bt_keyngon"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Phần mềm diệt virus ESET",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Phần mềm chụp màn hình Snagit",
+    "relativePath": "Notes/Phần mềm chụp màn hình Snagit.md",
+    "tags": [
+      "on/bt_keyngon"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Phần mềm chụp màn hình Snagit",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Phần mềm chuyên trị mất mạng Internet",
+    "relativePath": "Notes/Phần mềm chuyên trị mất mạng Internet.md",
+    "tags": [
+      "on/bt_keyngon"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Phần mềm chuyên trị mất mạng Internet",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Những nhà tư bản trung thực sẽ nói gì",
+    "relativePath": "Notes/Những nhà tư bản trung thực sẽ nói gì.md",
+    "tags": [
+      "marxism"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Marxism MOC]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "Louis Althusser",
+        "level": 2
+      },
+      {
+        "heading": "Những nhà tư bản trung thực sẽ nói gì ?",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn",
+    "relativePath": "Notes/Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn.md",
+    "tags": [
+      "marxism"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Marxism MOC]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "Mở đầu",
+        "level": 2
+      },
+      {
+        "heading": "I. Một phong trào công nhân",
+        "level": 2
+      },
+      {
+        "heading": "II. Dân chủ như thế nào?",
+        "level": 2
+      },
+      {
+        "heading": "III. Sự bất hòa giữa sinh viên và công nhân",
+        "level": 2
+      },
+      {
+        "heading": "IV. Sự trỗi dậy và suy tàn của nền dân trị xã hội chủ nghĩa",
+        "level": 2
+      },
+      {
+        "heading": "V. Sau năm 89",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Những cuộc đình công và đấu đá nội bộ trong Đảng Cộng sản xuất phát chính từ đấu tranh giai cấp đang lên ở Việt Nam",
+    "relativePath": "Notes/Những cuộc đình công và đấu đá nội bộ trong Đảng Cộng sản xuất phát chính từ đấu tranh giai cấp đang lên ở Việt Nam.md",
+    "tags": [
+      "marxism",
+      "on/vietnam"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Marxism MOC]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "Những cuộc đình công và đấu đá nội bộ trong Đảng Cộng sản xuất phát chính từ đấu tranh giai cấp đang lên ở Việt Nam",
+        "level": 1
+      },
+      {
+        "heading": "1) Làn sóng đình công",
+        "level": 2
+      },
+      {
+        "heading": "2) Giai cấp thống trị chuẩn bị đối phó những cuộc đấu tranh từ dưới lên",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Nguồn gốc của thần thoại chính trị",
+    "relativePath": "Notes/Nguồn gốc của thần thoại chính trị.md",
+    "tags": [
+      "on/nationalism"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Nationalism MOC|Nationalism MOC]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "Mở đầu",
+        "level": 2
+      },
+      {
+        "heading": "Tầng lớp trí tuệ của con người",
+        "level": 2
+      },
+      {
+        "heading": "Tầng lớp bình thường",
+        "level": 2
+      },
+      {
+        "heading": "Tầng lớp trung lưu và tầng lớp đỉnh cao",
+        "level": 2
+      },
+      {
+        "heading": "Tác dụng của thần thoại",
+        "level": 2
+      },
+      {
+        "heading": "Tình huống trung quốc",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU",
+    "relativePath": "Notes/nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta",
+    "relativePath": "Notes/Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta.md",
+    "tags": [
+      "on/books"
+    ],
+    "frontmatter": {
+      "up": [
+        "[[Expose Books and Authors MOC]]"
+      ],
       "dg-publish": true
     },
     "headings": [
       {
-        "heading": "Phần mềm dọn dẹp Reg Organizer",
-        "level": 1
-      }
-    ],
-    "links": [
+        "heading": "Những thành công đầu đời.",
+        "level": 2
+      },
       {
-        "link": "Bí thuật MOC.md",
-        "displayText": "Bí thuật MOC",
-        "relativePath": "Maps/Bí thuật MOC.md"
+        "heading": "Hiệu trưởng Automobile College of Washington",
+        "level": 2
+      },
+      {
+        "heading": "Nghệ thuật ứng xử với những lời chỉ trích",
+        "level": 2
+      },
+      {
+        "heading": "Sáng lập tạp chí “Hill’s Golden Rule”",
+        "level": 2
+      },
+      {
+        "heading": "Napoleon Hill và Edison",
+        "level": 2
+      },
+      {
+        "heading": "Tại sao những hồi ức của Hill chỉ nằm trong đầu ông?",
+        "level": 2
+      },
+      {
+        "heading": "Bắt đầu viết sách",
+        "level": 2
+      },
+      {
+        "heading": "Những năm 30: Hill và FDR",
+        "level": 2
+      },
+      {
+        "heading": "Những năm sau đó",
+        "level": 2
+      },
+      {
+        "heading": "Tạm kết",
+        "level": 2
+      },
+      {
+        "heading": "Bí quyết Giả Kim Chân Truyền",
+        "level": 2
+      },
+      {
+        "heading": "Tài liệu tham khảo",
+        "level": 2
+      },
+      {
+        "heading": "Footnotes",
+        "level": 4
       }
     ],
     "backlinks": [
       {
-        "fileName": "Bí thuật MOC",
-        "link": "Phần mềm dọn dẹp Reg Organizer.md",
-        "relativePath": "Maps/Bí thuật MOC.md",
-        "displayText": "Phần mềm dọn dẹp Reg Organizer"
+        "fileName": "Expose Books and Authors MOC",
+        "link": "Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta",
+        "relativePath": "Maps/Expose Books and Authors MOC.md"
       }
     ]
+  },
+  {
+    "fileName": "Một vài suy nghĩ của 1 maxist vô định giữa thời đại này",
+    "relativePath": "Notes/Một vài suy nghĩ của 1 maxist vô định giữa thời đại này.md",
+    "tags": [
+      "marxism"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Marxism MOC]]"
+      ]
+    }
   },
   {
     "fileName": "Một chủ nghĩa Marx xanh hơn",
-    "relativePath": "Notes/Ideas/Một chủ nghĩa Marx xanh hơn.md",
+    "relativePath": "Notes/Một chủ nghĩa Marx xanh hơn.md",
     "tags": [
       "marxism"
     ],
     "frontmatter": {
-      "dg-publish": true
+      "dg-publish": true,
+      "up": [
+        "[[Marxism MOC]]"
+      ]
+    }
+  },
+  {
+    "fileName": "Một bài viết ấn tượng về Liên Xô thời Stalin",
+    "relativePath": "Notes/Một bài viết ấn tượng về Liên Xô thời Stalin.md",
+    "tags": [
+      "marxism"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Marxism MOC]]"
+      ]
+    }
+  },
+  {
+    "fileName": "Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM",
+    "relativePath": "Notes/Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
     },
     "headings": [
       {
-        "heading": "Một chủ nghĩa Marx xanh hơn",
-        "level": 1
+        "heading": "~~Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM~~",
+        "level": 2
+      },
+      {
+        "heading": "Hướng dẫn cài MDM",
+        "level": 2
+      },
+      {
+        "heading": "Tổng kết lại tính năng so với IDM:",
+        "level": 2
+      },
+      {
+        "heading": "Tối ưu cho MDM thay đổi thuật toán tải chia luồng hiệu quả hơn để tránh bị máy chủ chặn",
+        "level": 2
       }
     ],
-    "links": [
+    "backlinks": [
       {
-        "link": "Marxism MOC.md",
-        "displayText": "Marxism MOC",
-        "relativePath": "Maps/Marxism MOC.md"
+        "fileName": "Firefox MOC",
+        "link": "Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM",
+        "relativePath": "Maps/Firefox MOC.md"
       }
     ]
   },
   {
-    "fileName": "Một bài viết ấn tượng về Liên Xô thời Stalin",
-    "relativePath": "Notes/Ideas/Một bài viết ấn tượng về Liên Xô thời Stalin.md",
+    "fileName": "MPV",
+    "relativePath": "Notes/MPV.md",
     "tags": [
-      "on/history",
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
+        "link": "MPV",
+        "relativePath": "Notes/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Marx và Engels về sinh thái học",
+    "relativePath": "Notes/Marx và Engels về sinh thái học.md",
+    "tags": [
       "marxism"
     ],
     "frontmatter": {
-      "dg-publish": true
+      "dg-publish": true,
+      "up": [
+        "[[Marxism MOC]]"
+      ]
     },
     "headings": [
       {
-        "heading": "Một bài viết ấn tượng về Liên Xô thời Stalin",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Soviet Union History"
+        "heading": "Sự đồng nhất của nhân loại và tự nhiên",
+        "level": 4
       },
       {
-        "link": "Marxism MOC.md",
-        "displayText": "Marxism MOC",
-        "relativePath": "Maps/Marxism MOC.md"
+        "heading": "Đất đai như hàng hóa",
+        "level": 4
+      },
+      {
+        "heading": "Sự xói mòn đất",
+        "level": 4
+      },
+      {
+        "heading": "Tàn phá rừng",
+        "level": 4
+      },
+      {
+        "heading": "Bất công môi trường",
+        "level": 4
+      },
+      {
+        "heading": "Sự tàn phá của chủ nghĩa tư bản và giải pháp từ chủ nghĩa xã hội",
+        "level": 4
       }
     ]
   },
   {
     "fileName": "Lảm nhảm về văn minh Đông Nam Á",
-    "relativePath": "Notes/Ideas/Lảm nhảm về văn minh Đông Nam Á.md",
+    "relativePath": "Notes/Lảm nhảm về văn minh Đông Nam Á.md",
+    "frontmatter": {
+      "up": [],
+      "tags": null
+    }
+  },
+  {
+    "fileName": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
+    "relativePath": "Notes/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
+    },
     "headings": [
       {
-        "heading": "Lảm nhảm về văn minh Đông Nam Á",
-        "level": 1
+        "heading": "Cài đặt MPV",
+        "level": 2
+      },
+      {
+        "heading": "Cài đặt trên Firefox",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "MPV",
+        "relativePath": "Notes/MPV.md"
+      },
+      {
+        "link": "File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0",
+        "relativePath": "Notes/File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0.md"
+      },
+      {
+        "link": "Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..)",
+        "relativePath": "Notes/Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..).md"
+      },
+      {
+        "link": "Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó",
+        "relativePath": "Notes/Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó.md"
+      },
+      {
+        "link": "Hướng dẫn sử dụng handlers.json mà ko cần cài addon",
+        "relativePath": "Notes/Hướng dẫn sử dụng handlers.json mà ko cần cài addon.md"
+      },
+      {
+        "link": "Addon External Application",
+        "relativePath": "Notes/Addon External Application.md"
+      },
+      {
+        "link": "Usercript mở video trên youtube bằng cách click vào thumbnail",
+        "relativePath": "Notes/Usercript mở video trên youtube bằng cách click vào thumbnail.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Lược sử phát triển của lý thuyết lượng tử",
+    "relativePath": "Notes/Lược sử phát triển của lý thuyết lượng tử.md",
+    "frontmatter": {
+      "up": [
+        "[[Quantum Computer]]"
+      ],
+      "related": null,
+      "created": "2024-01-01",
+      "tags": null
+    },
+    "headings": [
+      {
+        "heading": "Trụ cột thứ nhất của thuyết lượng tử - Được phát hiện bởi Max Planck và Einstein đã chứng minh nó",
+        "level": 2
+      },
+      {
+        "heading": "Làm sao giải thích hiện tượng này?",
+        "level": 3
+      },
+      {
+        "heading": "Trụ cột thứ 2 của thuyết lượng tử: Nguyên lí bất định của Heisenberg",
+        "level": 2
+      },
+      {
+        "heading": "Trụ cột thứ ba của thuyết lượng tử: Bản chất \"bóng ma\" của electron và các hạt nguyên tử",
+        "level": 2
+      },
+      {
+        "heading": "Đóng góp vĩ đại của Erwin Schrodinger",
+        "level": 2
+      },
+      {
+        "heading": "Đề xuất điên rồ của Hugh Everett - Thuyết đa vũ trụ, lời giải cho \"Con mèo của Schrodinger\"",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Hướng dẫn sử dụng handlers.json mà ko cần cài addon",
+    "relativePath": "Notes/Hướng dẫn sử dụng handlers.json mà ko cần cài addon.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "Chỉnh sửa handlers.json Firefox",
+        "level": 2
+      },
+      {
+        "heading": "Userscript Handlers",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
+        "link": "Hướng dẫn sử dụng handlers.json mà ko cần cài addon",
+        "relativePath": "Notes/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md"
       }
     ]
   },
   {
     "fileName": "Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome",
-    "relativePath": "Notes/Ideas/Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome.md",
+    "relativePath": "Notes/Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome.md",
     "tags": [
       "on/firefox"
     ],
     "frontmatter": {
-      "dg-publish": true
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
     },
     "headings": [
-      {
-        "heading": "Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome",
-        "level": 1
-      },
       {
         "heading": "Manifest V3 triệt hạ khả năng chặn quảng cáo của trình duyệt.",
         "level": 2
@@ -2994,39 +1700,161 @@
     ],
     "links": [
       {
-        "link": "Firefox MOC.md",
-        "displayText": "Firefox MOC",
-        "relativePath": "Maps/Firefox MOC.md"
-      },
-      {
-        "link": "Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard.md",
-        "displayText": "Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard",
-        "relativePath": "Notes/Ideas/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard.md"
+        "link": "Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard",
+        "relativePath": "Notes/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard.md"
       }
     ],
     "backlinks": [
       {
         "fileName": "Firefox MOC",
-        "link": "Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome"
+        "link": "Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web",
+    "relativePath": "Notes/Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "Cách ép Youtube Mobile chạy trên Firefox",
+        "level": 2
+      },
+      {
+        "heading": "Disable Hovering to play of Youtube",
+        "level": 2
+      },
+      {
+        "heading": "Cách ép *trang web nào đó* phải lòi link ra cho MPV thịt",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Usercript mở video trên youtube bằng cách click vào thumbnail",
+        "link": "Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web",
+        "relativePath": "Notes/Usercript mở video trên youtube bằng cách click vào thumbnail.md"
+      },
+      {
+        "fileName": "Firefox MOC",
+        "link": "Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Giới thiệu và một số cách sử dụng userChrome.js",
+    "relativePath": "Notes/Giới thiệu và một số cách sử dụng userChrome.js.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "up": [
+        "[[Firefox MOC]]"
+      ],
+      "related": null,
+      "created": "28-02-2024",
+      "dg-publish": true
+    },
+    "headings": [
+      {
+        "heading": "Giải thích ngắn gọn",
+        "level": 1
+      },
+      {
+        "heading": "Một vài cách sử dụng userChrome",
+        "level": 1
+      },
+      {
+        "heading": "Nút tắt/bật quản lý addon",
+        "level": 2
+      },
+      {
+        "heading": "MouseGesture",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sidebery - Quản lý tab dọc với tính tuỳ biến cao",
+        "link": "Giới thiệu và một số cách sử dụng userChrome.js",
+        "relativePath": "Notes/Sidebery - Quản lý tab dọc với tính tuỳ biến cao.md"
+      },
+      {
+        "fileName": "Firefox MOC",
+        "link": "Giới thiệu và một số cách sử dụng userChrome.js",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế",
+    "relativePath": "Notes/FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "Hướng dẫn cách để con vịt hết pede",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0",
+    "relativePath": "Notes/File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
+        "link": "File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0",
+        "relativePath": "Notes/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md"
       }
     ]
   },
   {
     "fileName": "ECH và cách thức nhà mạng chặn trang web cũng như cách vượt",
-    "relativePath": "Notes/Ideas/ECH và cách thức nhà mạng chặn trang web cũng như cách vượt.md",
+    "relativePath": "Notes/ECH và cách thức nhà mạng chặn trang web cũng như cách vượt.md",
     "tags": [
       "on/firefox"
     ],
     "frontmatter": {
-      "dg-publish": true
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
     },
     "headings": [
-      {
-        "heading": "ECH và cách thức nhà mạng chặn trang web cũng như cách vượt",
-        "level": 1
-      },
       {
         "heading": "DPI là gì?",
         "level": 2
@@ -3042,35 +1870,132 @@
     ],
     "links": [
       {
-        "link": "Firefox MOC.md",
-        "displayText": "Firefox MOC",
-        "relativePath": "Maps/Firefox MOC.md"
-      },
-      {
-        "link": "ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn.md",
-        "displayText": "ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn",
-        "relativePath": "Notes/Ideas/ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn.md"
+        "link": "ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn",
+        "relativePath": "Notes/ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn.md"
       }
     ],
     "backlinks": [
       {
         "fileName": "Firefox MOC",
-        "link": "ECH và cách thức nhà mạng chặn trang web cũng như cách vượt.md",
-        "relativePath": "Maps/Firefox MOC.md",
-        "displayText": "ECH và cách thức nhà mạng chặn trang web cũng như cách vượt"
+        "link": "ECH và cách thức nhà mạng chặn trang web cũng như cách vượt",
+        "relativePath": "Maps/Firefox MOC.md"
       }
     ]
   },
   {
-    "fileName": "Các ông lớn Google-Facebook-Cloudflare fingerprint (đóng dấu vân tay) các bạn như thế nào",
-    "relativePath": "Notes/Ideas/Các ông lớn Google-Facebook-Cloudflare fingerprint (đóng dấu vân tay) các bạn như thế nào.md",
+    "fileName": "DNS là cái chi mô răng rứa",
+    "relativePath": "Notes/DNS là cái chi mô răng rứa.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "up": [
+        "[[Firefox MOC]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "DNS là gì?",
+        "level": 2
+      },
+      {
+        "heading": "Các loại bản ghi DNS",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "DNS là cái chi mô răng rứa",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Cách xiên Google One XXX Years",
+    "relativePath": "Notes/Cách xiên Google One XXX Years.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "PHẦN I: TẠO GOOGLE FAMILY",
+        "level": 2
+      },
+      {
+        "heading": "PHẦN II: TIẾN HÀNH REG 2TB GOOGLE ONE",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Bí kíp xiên Google One tái bản lần thứ 2",
+        "link": "Cách xiên Google One XXX Years",
+        "relativePath": "Notes/Bí kíp xiên Google One tái bản lần thứ 2.md"
+      },
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Cách xiên Google One XXX Years",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó",
+    "relativePath": "Notes/Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó.md",
     "tags": [
       "on/firefox"
     ],
     "frontmatter": {
       "dg-publish": true,
       "up": [
-        "[Firefox MOC](../../Maps/Firefox%20MOC.md)"
+        "[[Firefox MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
+        "link": "Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó",
+        "relativePath": "Notes/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Cách nhận Youtube Prenium 4 tháng miễn phí",
+    "relativePath": "Notes/Cách nhận Youtube Prenium 4 tháng miễn phí.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Cách nhận Youtube Prenium 4 tháng miễn phí",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Các ông lớn Google-Facebook-Cloudflare fingerprint (đóng dấu vân tay) các bạn như thế nào",
+    "relativePath": "Notes/Các ông lớn Google-Facebook-Cloudflare fingerprint (đóng dấu vân tay) các bạn như thế nào.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
       ]
     },
     "headings": [
@@ -3082,43 +2007,363 @@
         "heading": "Cách xác định Fingerprint",
         "level": 2
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "Các ông lớn Google-Facebook-Cloudflare fingerprint (đóng dấu vân tay) các bạn như thế nào",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Các thể loại quan trọng của Sci-Fi",
+    "relativePath": "Notes/Các thể loại quan trọng của Sci-Fi.md",
+    "tags": [
+      "on/books"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Kiến thức căn bản về sách]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "Hard Sci Fi và Soft Sci Fi",
+        "level": 2
+      },
+      {
+        "heading": "Space Opera",
+        "level": 2
+      },
+      {
+        "heading": "Military Sci Fi",
+        "level": 2
+      },
+      {
+        "heading": "Apocalypse và Post-Apocalypse",
+        "level": 2
+      },
+      {
+        "heading": "Cyberpunk",
+        "level": 2
+      },
+      {
+        "heading": "Post-Cyberpunk",
+        "level": 2
+      },
+      {
+        "heading": "Steampunk",
+        "level": 2
+      },
+      {
+        "heading": "Teslapunk, Hopepunk và Capepunk",
+        "level": 2
+      },
+      {
+        "heading": "Một số dạng punk phái sinh",
+        "level": 2
+      },
+      {
+        "heading": "Social Sci Fi",
+        "level": 2
+      },
+      {
+        "heading": "Mundane Sci Fi",
+        "level": 2
+      },
+      {
+        "heading": "Sci Fi Fantasy",
+        "level": 2
+      },
+      {
+        "heading": "Kết",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Kiến thức căn bản về sách",
+        "link": "Các thể loại quan trọng của Sci-Fi",
+        "relativePath": "Maps/Kiến thức căn bản về sách.md"
+      }
     ]
   },
   {
     "fileName": "Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844",
-    "relativePath": "Notes/Ideas/Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844.md",
+    "relativePath": "Notes/Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844.md",
     "tags": [
       "marxism"
     ],
     "frontmatter": {
       "dg-publish": true,
       "up": [
-        "[Marxism MOC](../../Maps/Marxism%20MOC.md)"
+        "[[Marxism MOC]]"
       ]
     },
     "links": [
       {
-        "link": "Marxism MOC.md",
-        "displayText": "Marxism MOC",
+        "link": "Marxism MOC",
         "relativePath": "Maps/Marxism MOC.md"
       }
     ]
   },
   {
-    "fileName": "Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô",
-    "relativePath": "Notes/Ideas/Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô.md",
+    "fileName": "Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..)",
+    "relativePath": "Notes/Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..).md",
     "tags": [
-      "marxism",
-      "on/soviet"
+      "on/bt_chiase"
     ],
     "frontmatter": {
-      "dg-publish": true
+      "dg-publish": true,
+      "up": [
+        "[[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
+        "link": "Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..)",
+        "relativePath": "Notes/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Các bản mod ngon của Firefox",
+    "relativePath": "Notes/Các bản mod ngon của Firefox.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
     },
     "headings": [
       {
-        "heading": "Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô",
-        "level": 1
+        "heading": "Cách nhảy các bản mod Firefox không lo mất dữ liệu",
+        "level": 2
       },
+      {
+        "heading": "Các bản mod phổ biến của Firefox",
+        "level": 2
+      },
+      {
+        "heading": "Firefox Tete 009 - SSE2/AVX2 + Portable",
+        "level": 3
+      },
+      {
+        "heading": "Floorp - LTO + Portable + Workspace + Sidebar + Unloadtab +...",
+        "level": 3
+      },
+      {
+        "heading": "Firefox Mercury - AVX2 + Privacy",
+        "level": 3
+      },
+      {
+        "heading": "LibreWolf & Tor & Mullvad - Privacy",
+        "level": 3
+      },
+      {
+        "heading": "r3dfox - Windows 7",
+        "level": 3
+      },
+      {
+        "heading": "Hellfire",
+        "level": 3
+      },
+      {
+        "heading": "Ice Raven/Smart Cookie Web - Privacy+SideloadXPI+Androi",
+        "level": 3
+      },
+      {
+        "heading": "Waterfox - LT0/PO+Privacy+Betterfox+Androi",
+        "level": 3
+      },
+      {
+        "heading": "Slimbrowser - Adbloc+DownloadManager+Portable",
+        "level": 3
+      },
+      {
+        "heading": "Pulse Browser - Sidebar",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "Các bản mod ngon của Firefox",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Cuộc đối thoại triết học kinh điển giữa Einstein và Tagore",
+    "relativePath": "Notes/Cuộc đối thoại triết học kinh điển giữa Einstein và Tagore.md",
+    "tags": [
+      "note/boat🚤"
+    ],
+    "frontmatter": {
+      "up": null
+    }
+  },
+  {
+    "fileName": "Chủ nghĩa tự do và Chủ nghĩa xã hội - Hai tử thù hay Hai anh em xa cách",
+    "relativePath": "Notes/Chủ nghĩa tự do và Chủ nghĩa xã hội - Hai tử thù hay Hai anh em xa cách.md",
+    "tags": [
+      "marxism"
+    ],
+    "frontmatter": {
+      "up": [
+        "[[Marxism MOC]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "Cốt lõi chung",
+        "level": 4
+      },
+      {
+        "heading": "Tầm quan trọng của cá nhân",
+        "level": 4
+      },
+      {
+        "heading": "Các xã hội tự do thất bại trên chính tiêu chuẩn mà nó đề ra",
+        "level": 4
+      },
+      {
+        "heading": "Hai kinh nghiệm lịch sử",
+        "level": 4
+      },
+      {
+        "heading": "Chủ nghĩa xã hội có khả thi không?",
+        "level": 4
+      },
+      {
+        "heading": "Lý tưởng xã hội chủ nghĩa có tầm nhìn quốc tế",
+        "level": 4
+      },
+      {
+        "heading": "Xây dựng sự đồng thuận với sự tham gia chính trị",
+        "level": 4
+      },
+      {
+        "heading": "Ví dụ Trung Quốc",
+        "level": 4
+      },
+      {
+        "heading": "Cốt lõi chung",
+        "level": 4
+      },
+      {
+        "heading": "Tầm quan trọng của cá nhân",
+        "level": 4
+      },
+      {
+        "heading": "Các xã hội tự do thất bại trên chính tiêu chuẩn mà nó đề ra",
+        "level": 4
+      },
+      {
+        "heading": "Hai kinh nghiệm lịch sử",
+        "level": 4
+      },
+      {
+        "heading": "Chủ nghĩa xã hội có khả thi không?",
+        "level": 4
+      },
+      {
+        "heading": "Lý tưởng xã hội chủ nghĩa có tầm nhìn quốc tế",
+        "level": 4
+      },
+      {
+        "heading": "Xây dựng sự đồng thuận với sự tham gia chính trị",
+        "level": 4
+      },
+      {
+        "heading": "Ví dụ Trung Quốc",
+        "level": 4
+      },
+      {
+        "heading": "Cốt lõi chung",
+        "level": 4
+      },
+      {
+        "heading": "Tầm quan trọng của cá nhân",
+        "level": 4
+      },
+      {
+        "heading": "Các xã hội tự do thất bại trên chính tiêu chuẩn mà nó đề ra",
+        "level": 4
+      },
+      {
+        "heading": "Hai kinh nghiệm lịch sử",
+        "level": 4
+      },
+      {
+        "heading": "Chủ nghĩa xã hội có khả thi không?",
+        "level": 4
+      },
+      {
+        "heading": "Lý tưởng xã hội chủ nghĩa có tầm nhìn quốc tế",
+        "level": 4
+      },
+      {
+        "heading": "Xây dựng sự đồng thuận với sự tham gia chính trị",
+        "level": 4
+      },
+      {
+        "heading": "Ví dụ Trung Quốc",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "marxism"
+      },
+      {
+        "link": "marxism"
+      }
+    ]
+  },
+  {
+    "fileName": "Chủ nghĩa Marx đô thị",
+    "relativePath": "Notes/Chủ nghĩa Marx đô thị.md",
+    "tags": [
+      "marxism",
+      "note/develop🍃"
+    ],
+    "frontmatter": {
+      "up": "[[Marxism MOC]]"
+    }
+  },
+  {
+    "fileName": "CHỦ NGHĨA MARX ĐI VỀ ĐÂU",
+    "relativePath": "Notes/CHỦ NGHĨA MARX ĐI VỀ ĐÂU.md",
+    "tags": [
+      "marxism"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Marxism MOC]]"
+      ]
+    }
+  },
+  {
+    "fileName": "Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô",
+    "relativePath": "Notes/Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô.md",
+    "tags": [
+      "marxism"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Marxism MOC]]"
+      ]
+    },
+    "headings": [
       {
         "heading": "**Appendix:**",
         "level": 3
@@ -3130,13 +2375,407 @@
     ],
     "links": [
       {
-        "link": "Marxism MOC.md",
-        "displayText": "Marxism MOC",
-        "relativePath": "Maps/Marxism MOC.md"
+        "link": "chủ nghĩa tư bản nhà nước (state capitalism)"
+      }
+    ]
+  },
+  {
+    "fileName": "Bật punycode để miễn nhiễm với tên miền giả mạo",
+    "relativePath": "Notes/Bật punycode để miễn nhiễm với tên miền giả mạo.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "Bật punycode để miễn nhiễm với tên miền giả mạo",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong",
+    "relativePath": "Notes/Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Bí kíp xiên Google One tái bản lần thứ 2",
+    "relativePath": "Notes/Bí kíp xiên Google One tái bản lần thứ 2.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "CHUẨN BỊ",
+        "level": 2
       },
       {
-        "link": "state capitalism",
-        "displayText": "chủ nghĩa tư bản nhà nước (state capitalism)"
+        "heading": "Thao tác xiên",
+        "level": 2
+      },
+      {
+        "heading": "Bước 1: Lấy dùng thử miễn phí 2TB 1 năm",
+        "level": 3
+      },
+      {
+        "heading": "Bước 2: Chuyển đổi",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Cách xiên Google One XXX Years",
+        "relativePath": "Notes/Cách xiên Google One XXX Years.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Bí kíp xiên Google One tái bản lần thứ 2",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU",
+    "relativePath": "Notes/Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Firefox MOC]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "Cách unload tab super ultra vip pro 😀",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Firefox MOC",
+        "link": "Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU",
+        "relativePath": "Maps/Firefox MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "All Tomorrows verse- C.M Kosemen (Memo Ramjet)",
+    "relativePath": "Notes/All Tomorrows verse- C.M Kosemen (Memo Ramjet).md",
+    "tags": [
+      "note/boat🚤"
+    ],
+    "frontmatter": {
+      "up": null,
+      "related": null,
+      "created": [
+        "25-11-2023"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "Introduce",
+        "level": 2
+      },
+      {
+        "heading": "Lịch sử chung của vũ trụ All Tomorrows",
+        "level": 2
+      },
+      {
+        "heading": "Thời đại khai phá, Fermi Paradox và những sự kiện kỳ quái.",
+        "level": 3
+      },
+      {
+        "heading": "![⬛](https://static.xx.fbcdn.net/images/emoji.php/v9/tf1/1.5/16/2b1b.png) Hội chứng Oedipus và tình yêu với những cỗ máy:",
+        "level": 4
+      },
+      {
+        "heading": "![⬛](https://static.xx.fbcdn.net/images/emoji.php/v9/tf1/1.5/16/2b1b.png) Tại sao không ai tìm thấy \"họ\"?",
+        "level": 4
+      },
+      {
+        "heading": "![⬛](https://static.xx.fbcdn.net/images/emoji.php/v9/tf1/1.5/16/2b1b.png) Những dấu hiệu đầu tiên:",
+        "level": 4
+      },
+      {
+        "heading": "Qu, cuộc chiến tử thủ Milky way và sự sụp đổ của loài người.",
+        "level": 3
+      },
+      {
+        "heading": "Câu chuyện về các Post Human trước thời kỳ chuyển giao",
+        "level": 2
+      },
+      {
+        "heading": "![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Mantelopes - 1 câu chuyện buồn",
+        "level": 3
+      },
+      {
+        "heading": "![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png) Colonial, câu chuyện của những con người kiên cường nhất",
+        "level": 3
+      },
+      {
+        "heading": "![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png) Ruin Haunter, câu chuyện của những kẻ kế thừa Nhân loại",
+        "level": 3
+      },
+      {
+        "heading": "![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png) Spacer, câu chuyện kỳ lạ về cuộc sống của những thế hệ du mục",
+        "level": 3
+      },
+      {
+        "heading": "![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Insectophagi",
+        "level": 3
+      },
+      {
+        "heading": "![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Lopsider",
+        "level": 3
+      },
+      {
+        "heading": "![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Swimmer.",
+        "level": 3
+      },
+      {
+        "heading": "![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Worm",
+        "level": 3
+      },
+      {
+        "heading": "![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png) Lizard Herder",
+        "level": 3
+      },
+      {
+        "heading": "![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Predator",
+        "level": 3
+      },
+      {
+        "heading": "![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Hedonist",
+        "level": 3
+      },
+      {
+        "heading": "![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Finger Fisher",
+        "level": 3
+      },
+      {
+        "heading": "![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Parasite",
+        "level": 3
+      },
+      {
+        "heading": "![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Flyer",
+        "level": 3
+      },
+      {
+        "heading": "![🔵](https://static.xx.fbcdn.net/images/emoji.php/v9/t48/1.5/16/1f535.png)Strider",
+        "level": 3
+      },
+      {
+        "heading": "![🔵](https://static.xx.fbcdn.net/images/emoji.php/v9/t48/1.5/16/1f535.png)Temptor",
+        "level": 3
+      },
+      {
+        "heading": "![🔵](https://static.xx.fbcdn.net/images/emoji.php/v9/t48/1.5/16/1f535.png)Titan",
+        "level": 3
+      },
+      {
+        "heading": "![🔵](https://static.xx.fbcdn.net/images/emoji.php/v9/t48/1.5/16/1f535.png)Bone Crusher",
+        "level": 3
+      },
+      {
+        "heading": "![🔵](https://static.xx.fbcdn.net/images/emoji.php/v9/t48/1.5/16/1f535.png)Hand Flappers",
+        "level": 3
+      },
+      {
+        "heading": "![🔵](https://static.xx.fbcdn.net/images/emoji.php/v9/t48/1.5/16/1f535.png)Blind Folk",
+        "level": 3
+      },
+      {
+        "heading": "Lời kết",
+        "level": 3
+      },
+      {
+        "heading": "Những chủng hậu nhân cuối cùng sau thời kỳ chuyển giao",
+        "level": 2
+      },
+      {
+        "heading": "K.iller Folk, những thế hệ lãnh đạo mới",
+        "level": 3
+      },
+      {
+        "heading": "Bug Facer, những kẻ bài ngoại đáng thương của vòng xoay thời thế .",
+        "level": 3
+      },
+      {
+        "heading": "Module Person",
+        "level": 3
+      },
+      {
+        "heading": "Asymmetric people",
+        "level": 3
+      },
+      {
+        "heading": "Saurosapiens",
+        "level": 3
+      },
+      {
+        "heading": "Snake people",
+        "level": 3
+      },
+      {
+        "heading": "Tool breeders",
+        "level": 3
+      },
+      {
+        "heading": "Pterosapiens",
+        "level": 3
+      },
+      {
+        "heading": "Symbiotes",
+        "level": 3
+      },
+      {
+        "heading": "Sail People",
+        "level": 3
+      },
+      {
+        "heading": "Satyriacs",
+        "level": 3
+      },
+      {
+        "heading": "Asteromorphs - Những vị thần, họ thật sự có tồn tại",
+        "level": 3
+      },
+      {
+        "heading": "Liên minh Đế chế Ngân hà và Gravital, những thế hệ tội đồ của nhân loại",
+        "level": 2
+      },
+      {
+        "heading": "Đệ nhị Đế chế Ngân hà (Second Galatic Empire)",
+        "level": 3
+      },
+      {
+        "heading": "Gravital",
+        "level": 3
+      },
+      {
+        "heading": "Cuộc đại diệt chủng bắt đầu, Đế chế Ngân hà sụp đổ",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Adobe Photoshop + Remove Tool",
+    "relativePath": "Notes/Adobe Photoshop + Remove Tool.md",
+    "tags": [
+      "on/bt_keyngon"
+    ],
+    "frontmatter": {
+      "dg-publish": true
+    },
+    "headings": [
+      {
+        "heading": "Adobe Photoshop + Remove Tool",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Bí thuật MOC",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Bí thuật MOC",
+        "link": "Adobe Photoshop + Remove Tool",
+        "relativePath": "Maps/Bí thuật MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Addon External Application",
+    "relativePath": "Notes/Addon External Application.md",
+    "tags": [
+      "on/firefox"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
+        "link": "Addon External Application",
+        "relativePath": "Notes/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md"
+      }
+    ]
+  },
+  {
+    "fileName": "1001 câu hỏi về Testflight của Apple",
+    "relativePath": "Notes/1001 câu hỏi về Testflight của Apple.md",
+    "tags": [
+      "on/bt_chiase"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+      ]
+    }
+  },
+  {
+    "fileName": "Nationalism MOC",
+    "relativePath": "Maps/Nationalism MOC.md",
+    "tags": [
+      "map"
+    ],
+    "frontmatter": {
+      "dg-publish": true
+    },
+    "headings": [
+      {
+        "heading": "Nationalism MOC",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Home"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "README",
+        "link": "Nationalism MOC",
+        "relativePath": "README.md"
       }
     ]
   },
@@ -3152,90 +2791,66 @@
         "dashboard"
       ],
       "up": [
-        "[Library](Library)"
+        "[[Library]]"
       ],
       "related": [
-        "[Universe of Ideas](../Universe%20of%20Ideas.md)"
+        "[[Universe of Ideas]]"
       ]
     },
     "backlinks": [
       {
-        "fileName": "Universe of Ideas",
-        "link": "Marxism MOC.md",
-        "relativePath": "Universe of Ideas.md",
-        "displayText": "Marxism MOC"
-      },
-      {
-        "fileName": "Sử tính và thiêng tính",
-        "link": "Marxism MOC.md",
-        "relativePath": "Notes/Sources/Sử tính và thiêng tính.md",
-        "displayText": "Marxism MOC"
-      },
-      {
-        "fileName": "Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn",
-        "link": "Marxism MOC.md",
-        "relativePath": "Notes/Sources/Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn.md",
-        "displayText": "Marxism MOC"
-      },
-      {
-        "fileName": "Những cuộc đình công và đấu đá nội bộ trong Đảng Cộng sản xuất phát chính từ đấu tranh giai cấp đang lên ở Việt Nam",
-        "link": "Marxism MOC.md",
-        "relativePath": "Notes/Sources/Những cuộc đình công và đấu đá nội bộ trong Đảng Cộng sản xuất phát chính từ đấu tranh giai cấp đang lên ở Việt Nam.md",
-        "displayText": "Marxism MOC"
-      },
-      {
-        "fileName": "Một vài suy nghĩ của 1 maxist vô định giữa thời đại này",
-        "link": "Marxism MOC.md",
-        "relativePath": "Notes/Sources/Một vài suy nghĩ của 1 maxist vô định giữa thời đại này.md",
-        "displayText": "Marxism MOC"
-      },
-      {
-        "fileName": "Marx và Engels về sinh thái học",
-        "link": "Marxism MOC.md",
-        "relativePath": "Notes/Sources/Marx và Engels về sinh thái học.md",
-        "displayText": "Marxism MOC"
-      },
-      {
-        "fileName": "Chủ nghĩa tự do và Chủ nghĩa xã hội - Hai tử thù hay Hai anh em xa cách",
-        "link": "Marxism MOC.md",
-        "relativePath": "Notes/Sources/Chủ nghĩa tự do và Chủ nghĩa xã hội - Hai tử thù hay Hai anh em xa cách.md",
-        "displayText": "Marxism MOC"
-      },
-      {
-        "fileName": "CHỦ NGHĨA MARX ĐI VỀ ĐÂU",
-        "link": "Marxism MOC.md",
-        "relativePath": "Notes/Sources/CHỦ NGHĨA MARX ĐI VỀ ĐÂU.md",
-        "displayText": "Marxism MOC"
-      },
-      {
-        "fileName": "Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”",
-        "link": "Marxism MOC.md",
-        "relativePath": "Notes/Ideas/Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”.md",
-        "displayText": "Marxism MOC"
-      },
-      {
-        "fileName": "Một chủ nghĩa Marx xanh hơn",
-        "link": "Marxism MOC.md",
-        "relativePath": "Notes/Ideas/Một chủ nghĩa Marx xanh hơn.md",
-        "displayText": "Marxism MOC"
-      },
-      {
-        "fileName": "Một bài viết ấn tượng về Liên Xô thời Stalin",
-        "link": "Marxism MOC.md",
-        "relativePath": "Notes/Ideas/Một bài viết ấn tượng về Liên Xô thời Stalin.md",
-        "displayText": "Marxism MOC"
+        "fileName": "README",
+        "link": "Marxism MOC",
+        "relativePath": "README.md"
       },
       {
         "fileName": "Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844",
-        "link": "Marxism MOC.md",
-        "relativePath": "Notes/Ideas/Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844.md",
-        "displayText": "Marxism MOC"
-      },
+        "link": "Marxism MOC",
+        "relativePath": "Notes/Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Kiến thức căn bản về sách",
+    "relativePath": "Maps/Kiến thức căn bản về sách.md",
+    "tags": [
+      "on/books"
+    ],
+    "frontmatter": {
+      "up": [
+        "[[Library]]"
+      ],
+      "dg-publish": true
+    },
+    "links": [
       {
-        "fileName": "Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô",
-        "link": "Marxism MOC.md",
-        "relativePath": "Notes/Ideas/Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô.md",
-        "displayText": "Marxism MOC"
+        "link": "Các thể loại quan trọng của Sci-Fi",
+        "relativePath": "Notes/Các thể loại quan trọng của Sci-Fi.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "README",
+        "link": "Kiến thức căn bản về sách",
+        "relativePath": "README.md"
+      }
+    ]
+  },
+  {
+    "fileName": "International Relations MOC",
+    "relativePath": "Maps/International Relations MOC.md",
+    "tags": [
+      "map"
+    ],
+    "headings": [
+      {
+        "heading": "International Relations MOC",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Home"
       }
     ]
   },
@@ -3248,10 +2863,10 @@
     "frontmatter": {
       "dg-publish": true,
       "up": [
-        "[Library](Library)"
+        "[[Library]]"
       ],
       "related": [
-        "[Universe of Ideas](../Universe%20of%20Ideas.md)"
+        "[[Universe of Ideas]]"
       ]
     },
     "headings": [
@@ -3277,149 +2892,123 @@
         "link": "Tại sao lại là Firefox"
       },
       {
-        "link": "Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây.md",
-        "displayText": "Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây",
-        "relativePath": "Notes/Sources/Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây.md"
+        "link": "Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây",
+        "relativePath": "Notes/Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây.md"
       },
       {
-        "link": "Các bản mod ngon của Firefox.md",
-        "displayText": "Các bản mod ngon của Firefox",
-        "relativePath": "Notes/Sources/Các bản mod ngon của Firefox.md"
+        "link": "Các bản mod ngon của Firefox",
+        "relativePath": "Notes/Các bản mod ngon của Firefox.md"
       },
       {
-        "link": "Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU.md",
-        "displayText": "Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU",
-        "relativePath": "Notes/Sources/Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU.md"
+        "link": "Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU",
+        "relativePath": "Notes/Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU.md"
       },
       {
-        "link": "Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ.md",
-        "displayText": "Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ",
-        "relativePath": "Notes/Sources/Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ.md"
+        "link": "Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ",
+        "relativePath": "Notes/Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ.md"
       },
       {
-        "link": "nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU.md",
-        "displayText": "nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU",
-        "relativePath": "Notes/Sources/nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU.md"
+        "link": "nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU",
+        "relativePath": "Notes/nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU.md"
       },
       {
-        "link": "Ép Firefox lưu cache trên RAM mà không cần RAMDisk.md",
-        "displayText": "Ép Firefox lưu cache trên RAM mà không cần RAMDisk",
-        "relativePath": "Notes/Sources/Ép Firefox lưu cache trên RAM mà không cần RAMDisk.md"
+        "link": "Ép Firefox lưu cache trên RAM mà không cần RAMDisk",
+        "relativePath": "Notes/Ép Firefox lưu cache trên RAM mà không cần RAMDisk.md"
       },
       {
-        "link": "Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox.md",
-        "displayText": "Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox",
-        "relativePath": "Notes/Sources/Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox.md"
+        "link": "Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox",
+        "relativePath": "Notes/Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox.md"
       },
       {
-        "link": "Tắt OCSP để tăng tốc kết nối tới trang web.md",
-        "displayText": "Tắt OCSP để tăng tốc kết nối tới trang web",
-        "relativePath": "Notes/Sources/Tắt OCSP để tăng tốc kết nối tới trang web.md"
+        "link": "Tắt OCSP để tăng tốc kết nối tới trang web",
+        "relativePath": "Notes/Tắt OCSP để tăng tốc kết nối tới trang web.md"
       },
       {
-        "link": "Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong.md",
-        "displayText": "Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong",
-        "relativePath": "Notes/Sources/Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong.md"
+        "link": "Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong",
+        "relativePath": "Notes/Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong.md"
       },
       {
-        "link": "Bật punycode để miễn nhiễm với tên miền giả mạo.md",
-        "displayText": "Bật punycode để miễn nhiễm với tên miền giả mạo",
-        "relativePath": "Notes/Sources/Bật punycode để miễn nhiễm với tên miền giả mạo.md"
+        "link": "Bật punycode để miễn nhiễm với tên miền giả mạo",
+        "relativePath": "Notes/Bật punycode để miễn nhiễm với tên miền giả mạo.md"
       },
       {
-        "link": "Tối ưu cuộn mượt.md",
-        "displayText": "Tối ưu cuộn mượt",
-        "relativePath": "Notes/Sources/Tối ưu cuộn mượt.md"
+        "link": "Tối ưu cuộn mượt",
+        "relativePath": "Notes/Tối ưu cuộn mượt.md"
       },
       {
-        "link": "Tối ưu DNS.md",
-        "displayText": "Tối ưu DNS",
-        "relativePath": "Notes/Ideas/Tối ưu DNS.md"
+        "link": "Tối ưu DNS",
+        "relativePath": "Notes/Tối ưu DNS.md"
       },
       {
-        "link": "uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư.md",
-        "displayText": "uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư",
-        "relativePath": "Notes/Ideas/uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư.md"
+        "link": "uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư",
+        "relativePath": "Notes/uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư.md"
       },
       {
-        "link": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md",
-        "displayText": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
-        "relativePath": "Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md"
+        "link": "Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp",
+        "relativePath": "Notes/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md"
       },
       {
-        "link": "Userscript cho Violentmonkey-Greasymonkey-Tampermonkey.md",
-        "displayText": "Userscript cho Violentmonkey-Greasymonkey-Tampermonkey",
-        "relativePath": "Notes/Ideas/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey.md"
+        "link": "Userscript cho Violentmonkey-Greasymonkey-Tampermonkey",
+        "relativePath": "Notes/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey.md"
       },
       {
-        "link": "Sidebery - Quản lý tab dọc với tính tuỳ biến cao.md",
-        "displayText": "Sidebery - Quản lý tab dọc với tính tuỳ biến cao",
-        "relativePath": "Notes/Sources/Sidebery - Quản lý tab dọc với tính tuỳ biến cao.md"
+        "link": "Sidebery - Quản lý tab dọc với tính tuỳ biến cao",
+        "relativePath": "Notes/Sidebery - Quản lý tab dọc với tính tuỳ biến cao.md"
       },
       {
-        "link": "Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM.md",
-        "displayText": "Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM",
-        "relativePath": "Notes/Sources/Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM.md"
+        "link": "Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM",
+        "relativePath": "Notes/Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM.md"
       },
       {
-        "link": "Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,....md",
-        "displayText": "Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...",
-        "relativePath": "Notes/Sources/Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,....md"
+        "link": "Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...",
+        "relativePath": "Notes/Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,....md"
       },
       {
-        "link": "Search in Sidebar - Search qua sidebar mà ko cần mở tab mới.md",
-        "displayText": "Search in Sidebar - Search qua sidebar mà ko cần mở tab mới",
-        "relativePath": "Notes/Sources/Search in Sidebar - Search qua sidebar mà ko cần mở tab mới.md"
+        "link": "Search in Sidebar - Search qua sidebar mà ko cần mở tab mới",
+        "relativePath": "Notes/Search in Sidebar - Search qua sidebar mà ko cần mở tab mới.md"
       },
       {
-        "link": "Search by Image - Tìm kiếm ảnh, dịch trong ảnh.md",
-        "displayText": "Search by Image - Tìm kiếm ảnh, dịch trong ảnh",
-        "relativePath": "Notes/Sources/Search by Image - Tìm kiếm ảnh, dịch trong ảnh.md"
+        "link": "Search by Image - Tìm kiếm ảnh, dịch trong ảnh",
+        "relativePath": "Notes/Search by Image - Tìm kiếm ảnh, dịch trong ảnh.md"
       },
       {
-        "link": "Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web"
+        "link": "Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web",
+        "relativePath": "Notes/Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web.md"
       },
       {
-        "link": "ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn.md",
-        "displayText": "ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn",
-        "relativePath": "Notes/Ideas/ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn.md"
+        "link": "ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn",
+        "relativePath": "Notes/ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn.md"
       },
       {
-        "link": "Tridactyl - Lướt web bằng bàn phím giống Vimium.md",
-        "displayText": "Tridactyl - Lướt web bằng bàn phím giống Vimium",
-        "relativePath": "Notes/Sources/Tridactyl - Lướt web bằng bàn phím giống Vimium.md"
+        "link": "Tridactyl - Lướt web bằng bàn phím giống Vimium"
       },
       {
-        "link": "FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế.md",
-        "displayText": "FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế",
-        "relativePath": "Notes/Sources/FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế.md"
+        "link": "FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế",
+        "relativePath": "Notes/FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế.md"
       },
       {
-        "link": "Giới thiệu và một số cách sử dụng userChrome.js.md",
-        "displayText": "Giới thiệu và một số cách sử dụng userChrome.js",
-        "relativePath": "Notes/Sources/Giới thiệu và một số cách sử dụng userChrome.js.md"
+        "link": "Giới thiệu và một số cách sử dụng userChrome.js",
+        "relativePath": "Notes/Giới thiệu và một số cách sử dụng userChrome.js.md"
       },
       {
-        "link": "ECH và cách thức nhà mạng chặn trang web cũng như cách vượt.md",
-        "displayText": "ECH và cách thức nhà mạng chặn trang web cũng như cách vượt",
-        "relativePath": "Notes/Ideas/ECH và cách thức nhà mạng chặn trang web cũng như cách vượt.md"
+        "link": "ECH và cách thức nhà mạng chặn trang web cũng như cách vượt",
+        "relativePath": "Notes/ECH và cách thức nhà mạng chặn trang web cũng như cách vượt.md"
       },
       {
-        "link": "Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome.md",
-        "displayText": "Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome",
-        "relativePath": "Notes/Ideas/Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome.md"
+        "link": "Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome",
+        "relativePath": "Notes/Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome.md"
       },
       {
-        "link": "Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard.md",
-        "displayText": "Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard",
-        "relativePath": "Notes/Ideas/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard.md"
+        "link": "Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard",
+        "relativePath": "Notes/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard.md"
       },
       {
-        "link": "đóng dấu vân tay",
-        "displayText": "Các ông lớn Google-Facebook-Cloudflare fingerprint (đóng dấu vân tay) các bạn như thế nào"
+        "link": "Các ông lớn Google-Facebook-Cloudflare fingerprint (đóng dấu vân tay) các bạn như thế nào",
+        "relativePath": "Notes/Các ông lớn Google-Facebook-Cloudflare fingerprint (đóng dấu vân tay) các bạn như thế nào.md"
       },
       {
-        "link": "DNS là cái chi mô răng rứa"
+        "link": "DNS là cái chi mô răng rứa",
+        "relativePath": "Notes/DNS là cái chi mô răng rứa.md"
       },
       {
         "link": "Hướng dẫn tự fix bug Firefox"
@@ -3428,89 +3017,45 @@
         "link": "Alternative Front Ends - Cuộc cách mạng sẽ thay đổi đống web ngu học như Youtube, FB,... mãi mãi"
       },
       {
-        "link": "Từ điển about config để go pro.md",
-        "displayText": "Từ điển about config để go pro",
-        "relativePath": "Notes/Sources/Từ điển about config để go pro.md"
+        "link": "Từ điển about config để go pro",
+        "relativePath": "Notes/Từ điển about config để go pro.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Universe of Ideas",
-        "link": "Firefox MOC.md",
-        "relativePath": "Universe of Ideas.md",
-        "displayText": "Firefox MOC"
+        "fileName": "README",
+        "link": "Firefox MOC",
+        "relativePath": "README.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Expose Books and Authors MOC",
+    "relativePath": "Maps/Expose Books and Authors MOC.md",
+    "tags": [
+      "map"
+    ],
+    "frontmatter": {
+      "dg-publish": true,
+      "up": [
+        "[[Library]]"
+      ]
+    },
+    "links": [
+      {
+        "link": "Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta",
+        "relativePath": "Notes/Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta.md"
       },
       {
-        "fileName": "Tối ưu cuộn mượt",
-        "link": "Firefox MOC.md",
-        "relativePath": "Notes/Sources/Tối ưu cuộn mượt.md",
-        "displayText": "Firefox MOC"
-      },
+        "link": "Yuval Noal Harari 1 Nhà khoa học dân túy",
+        "relativePath": "Notes/Yuval Noal Harari 1 Nhà khoa học dân túy.md"
+      }
+    ],
+    "backlinks": [
       {
-        "fileName": "Tridactyl - Lướt web bằng bàn phím giống Vimium",
-        "link": "Firefox MOC.md",
-        "relativePath": "Notes/Sources/Tridactyl - Lướt web bằng bàn phím giống Vimium.md",
-        "displayText": "Firefox MOC"
-      },
-      {
-        "fileName": "Search in Sidebar - Search qua sidebar mà ko cần mở tab mới",
-        "link": "Firefox MOC.md",
-        "relativePath": "Notes/Sources/Search in Sidebar - Search qua sidebar mà ko cần mở tab mới.md",
-        "displayText": "Firefox MOC"
-      },
-      {
-        "fileName": "Search by Image - Tìm kiếm ảnh, dịch trong ảnh",
-        "link": "Firefox MOC.md",
-        "relativePath": "Notes/Sources/Search by Image - Tìm kiếm ảnh, dịch trong ảnh.md",
-        "displayText": "Firefox MOC"
-      },
-      {
-        "fileName": "Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...",
-        "link": "Firefox MOC.md",
-        "relativePath": "Notes/Sources/Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,....md",
-        "displayText": "Firefox MOC"
-      },
-      {
-        "fileName": "FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế",
-        "link": "Firefox MOC.md",
-        "relativePath": "Notes/Sources/FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế.md",
-        "displayText": "Firefox MOC"
-      },
-      {
-        "fileName": "Bật punycode để miễn nhiễm với tên miền giả mạo",
-        "link": "Firefox MOC.md",
-        "relativePath": "Notes/Sources/Bật punycode để miễn nhiễm với tên miền giả mạo.md",
-        "displayText": "Firefox MOC"
-      },
-      {
-        "fileName": "Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong",
-        "link": "Firefox MOC.md",
-        "relativePath": "Notes/Sources/Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong.md",
-        "displayText": "Firefox MOC"
-      },
-      {
-        "fileName": "Tối ưu DNS",
-        "link": "Firefox MOC.md",
-        "relativePath": "Notes/Ideas/Tối ưu DNS.md",
-        "displayText": "Firefox MOC"
-      },
-      {
-        "fileName": "Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard",
-        "link": "Firefox MOC.md",
-        "relativePath": "Notes/Ideas/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard.md",
-        "displayText": "Firefox MOC"
-      },
-      {
-        "fileName": "Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome",
-        "link": "Firefox MOC.md",
-        "relativePath": "Notes/Ideas/Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome.md",
-        "displayText": "Firefox MOC"
-      },
-      {
-        "fileName": "ECH và cách thức nhà mạng chặn trang web cũng như cách vượt",
-        "link": "Firefox MOC.md",
-        "relativePath": "Notes/Ideas/ECH và cách thức nhà mạng chặn trang web cũng như cách vượt.md",
-        "displayText": "Firefox MOC"
+        "fileName": "README",
+        "link": "Expose Books and Authors MOC",
+        "relativePath": "README.md"
       }
     ]
   },
@@ -3522,7 +3067,7 @@
     ],
     "frontmatter": {
       "up": [
-        "[Library](Library)"
+        "[[Library]]"
       ],
       "dg-publish": true
     },
@@ -3546,292 +3091,110 @@
     ],
     "links": [
       {
-        "link": "Tổng hợp các phần mềm từ Microsoft Store.md",
-        "displayText": "Tổng hợp các phần mềm từ Microsoft Store",
-        "relativePath": "Notes/Sources/Tổng hợp các phần mềm từ Microsoft Store.md"
+        "link": "Tổng hợp các phần mềm từ Microsoft Store"
       },
       {
-        "link": "Tổng hợp các trang web tải phần mềm ngon.md",
-        "displayText": "Tổng hợp các trang web tải phần mềm ngon",
-        "relativePath": "Notes/Sources/Tổng hợp các trang web tải phần mềm ngon.md"
+        "link": "Tổng hợp các trang web tải phần mềm ngon",
+        "relativePath": "Notes/Tổng hợp các trang web tải phần mềm ngon.md"
       },
       {
-        "link": "Tổng hợp các group chất trên Telegram.md",
-        "displayText": "Tổng hợp các group chất trên Telegram",
-        "relativePath": "Notes/Sources/Tổng hợp các group chất trên Telegram.md"
+        "link": "Tổng hợp các group chất trên Telegram",
+        "relativePath": "Notes/Tổng hợp các group chất trên Telegram.md"
       },
       {
-        "link": "Tổng hợp các trang giveaway phần mềm bản quyền.md",
-        "displayText": "Tổng hợp các trang giveaway phần mềm bản quyền",
-        "relativePath": "Notes/Sources/Tổng hợp các trang giveaway phần mềm bản quyền.md"
+        "link": "Tổng hợp các trang giveaway phần mềm bản quyền",
+        "relativePath": "Notes/Tổng hợp các trang giveaway phần mềm bản quyền.md"
       },
       {
-        "link": "Tổng hợp các trang web tải Wallpaper.md",
-        "displayText": "Tổng hợp các trang web tải Wallpaper",
-        "relativePath": "Notes/Sources/Tổng hợp các trang web tải Wallpaper.md"
+        "link": "Tổng hợp các trang web tải Wallpaper",
+        "relativePath": "Notes/Tổng hợp các trang web tải Wallpaper.md"
       },
       {
-        "link": "Tổng hợp các trang web xem phim online.md",
-        "displayText": "Tổng hợp các trang web xem phim online",
-        "relativePath": "Notes/Sources/Tổng hợp các trang web xem phim online.md"
+        "link": "Tổng hợp các trang web xem phim online",
+        "relativePath": "Notes/Tổng hợp các trang web xem phim online.md"
       },
       {
-        "link": "Tổng hợp các trang web tải phần mềm Portable.md",
-        "displayText": "Tổng hợp các trang web tải phần mềm Portable",
-        "relativePath": "Notes/Sources/Tổng hợp các trang web tải phần mềm Portable.md"
+        "link": "Tổng hợp các trang web tải phần mềm Portable",
+        "relativePath": "Notes/Tổng hợp các trang web tải phần mềm Portable.md"
       },
       {
-        "link": "Tổng hợp các trang tải file ISO Windows.md",
-        "displayText": "Tổng hợp các trang tải file ISO Windows",
-        "relativePath": "Notes/Sources/Tổng hợp các trang tải file ISO Windows.md"
+        "link": "Tổng hợp các trang tải file ISO Windows",
+        "relativePath": "Notes/Tổng hợp các trang tải file ISO Windows.md"
       },
       {
-        "link": "Thư viện Udemy của Nghiện +.md",
-        "displayText": "Thư viện Udemy của Nghiện +",
-        "relativePath": "Notes/Sources/Thư viện Udemy của Nghiện +.md"
+        "link": "Thư viện Udemy của Nghiện +",
+        "relativePath": "Notes/Thư viện Udemy của Nghiện +.md"
       },
       {
-        "link": "Tổng hợp các trang web tải nhạc chất lượng cao.md",
-        "displayText": "Tổng hợp các trang web tải nhạc chất lượng cao",
-        "relativePath": "Notes/Ideas/Tổng hợp các trang web tải nhạc chất lượng cao.md"
+        "link": "Tổng hợp các trang web tải nhạc chất lượng cao",
+        "relativePath": "Notes/Tổng hợp các trang web tải nhạc chất lượng cao.md"
       },
       {
-        "link": "Tổng hợp các trang SMS, Phone verify.md",
-        "displayText": "Tổng hợp các trang SMS, Phone verify",
-        "relativePath": "Notes/Sources/Tổng hợp các trang SMS, Phone verify.md"
+        "link": "Tổng hợp các trang SMS, Phone verify",
+        "relativePath": "Notes/Tổng hợp các trang SMS, Phone verify.md"
       },
       {
-        "link": "hàng nóng hổi",
-        "displayText": "AdGuard Premium 6 tháng free cho windows (hàng nóng hổi)"
+        "link": "Phần mềm diệt virus ESET",
+        "relativePath": "Notes/Phần mềm diệt virus ESET.md"
       },
       {
-        "link": "Phần mềm diệt virus ESET.md",
-        "displayText": "Phần mềm diệt virus ESET",
-        "relativePath": "Notes/Sources/Phần mềm diệt virus ESET.md"
+        "link": "Phần mềm chụp màn hình Snagit",
+        "relativePath": "Notes/Phần mềm chụp màn hình Snagit.md"
       },
       {
-        "link": "Phần mềm chụp màn hình Snagit.md",
-        "displayText": "Phần mềm chụp màn hình Snagit",
-        "relativePath": "Notes/Sources/Phần mềm chụp màn hình Snagit.md"
+        "link": "Phần mềm IDM - Internet Download Manager",
+        "relativePath": "Notes/Phần mềm IDM - Internet Download Manager.md"
       },
       {
-        "link": "Phần mềm IDM - Internet Download Manager.md",
-        "displayText": "Phần mềm IDM - Internet Download Manager",
-        "relativePath": "Notes/Sources/Phần mềm IDM - Internet Download Manager.md"
+        "link": "Phần mềm dịch Mate Translate Pro",
+        "relativePath": "Notes/Phần mềm dịch Mate Translate Pro.md"
       },
       {
-        "link": "Phần mềm dịch Mate Translate Pro.md",
-        "displayText": "Phần mềm dịch Mate Translate Pro",
-        "relativePath": "Notes/Sources/Phần mềm dịch Mate Translate Pro.md"
+        "link": "Phần mềm chuyên trị mất mạng Internet",
+        "relativePath": "Notes/Phần mềm chuyên trị mất mạng Internet.md"
       },
       {
-        "link": "Phần mềm chuyên trị mất mạng Internet.md",
-        "displayText": "Phần mềm chuyên trị mất mạng Internet",
-        "relativePath": "Notes/Sources/Phần mềm chuyên trị mất mạng Internet.md"
+        "link": "Adobe Photoshop + Remove Tool",
+        "relativePath": "Notes/Adobe Photoshop + Remove Tool.md"
       },
       {
-        "link": "Adobe Photoshop + Remove Tool.md",
-        "displayText": "Adobe Photoshop + Remove Tool",
-        "relativePath": "Notes/Sources/Adobe Photoshop + Remove Tool.md"
+        "link": "Tổng hợp về khôi phục dữ liệu",
+        "relativePath": "Notes/Tổng hợp về khôi phục dữ liệu.md"
       },
       {
-        "link": "Tổng hợp về khôi phục dữ liệu.md",
-        "displayText": "Tổng hợp về khôi phục dữ liệu",
-        "relativePath": "Notes/Sources/Tổng hợp về khôi phục dữ liệu.md"
+        "link": "Phần mềm dọn dẹp Reg Organizer",
+        "relativePath": "Notes/Phần mềm dọn dẹp Reg Organizer.md"
       },
       {
-        "link": "Phần mềm dọn dẹp Reg Organizer.md",
-        "displayText": "Phần mềm dọn dẹp Reg Organizer",
-        "relativePath": "Notes/Ideas/Phần mềm dọn dẹp Reg Organizer.md"
+        "link": "Phần mềm vẽ sơ đồ tư duy SimpleMind",
+        "relativePath": "Notes/Phần mềm vẽ sơ đồ tư duy SimpleMind.md"
       },
       {
-        "link": "Phần mềm vẽ sơ đồ tư duy SimpleMind.md",
-        "displayText": "Phần mềm vẽ sơ đồ tư duy SimpleMind",
-        "relativePath": "Notes/Ideas/Phần mềm vẽ sơ đồ tư duy SimpleMind.md"
+        "link": "Cách nhận Youtube Prenium 4 tháng miễn phí",
+        "relativePath": "Notes/Cách nhận Youtube Prenium 4 tháng miễn phí.md"
       },
       {
-        "link": "Cách nhận Youtube Prenium 4 tháng miễn phí.md",
-        "displayText": "Cách nhận Youtube Prenium 4 tháng miễn phí",
-        "relativePath": "Notes/Sources/Cách nhận Youtube Prenium 4 tháng miễn phí.md"
+        "link": "Cách xiên Google One XXX Years",
+        "relativePath": "Notes/Cách xiên Google One XXX Years.md"
       },
       {
-        "link": "Cách xiên Google One XXX Years.md",
-        "displayText": "Cách xiên Google One XXX Years",
-        "relativePath": "Notes/Sources/Cách xiên Google One XXX Years.md"
+        "link": "Bí kíp xiên Google One tái bản lần thứ 2",
+        "relativePath": "Notes/Bí kíp xiên Google One tái bản lần thứ 2.md"
       },
       {
-        "link": "Bí kíp xiên Google One tái bản lần thứ 2.md",
-        "displayText": "Bí kíp xiên Google One tái bản lần thứ 2",
-        "relativePath": "Notes/Sources/Bí kíp xiên Google One tái bản lần thứ 2.md"
-      },
-      {
-        "link": "Tổng hợp các Github Repositories.md",
-        "displayText": "Tổng hợp các Github Repositories",
-        "relativePath": "Notes/Ideas/Tổng hợp các Github Repositories.md"
+        "link": "Tổng hợp các Github Repositories"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Universe of Ideas",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Universe of Ideas.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Tổng hợp về khôi phục dữ liệu",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Tổng hợp về khôi phục dữ liệu.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Tổng hợp các trang web xem phim online",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Tổng hợp các trang web xem phim online.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Tổng hợp các trang web tải Wallpaper",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Tổng hợp các trang web tải Wallpaper.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Tổng hợp các trang web tải phần mềm Portable",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Tổng hợp các trang web tải phần mềm Portable.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Tổng hợp các trang web tải phần mềm ngon",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Tổng hợp các trang web tải phần mềm ngon.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Tổng hợp các trang tải file ISO Windows",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Tổng hợp các trang tải file ISO Windows.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Tổng hợp các trang SMS, Phone verify",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Tổng hợp các trang SMS, Phone verify.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Tổng hợp các trang giveaway phần mềm bản quyền",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Tổng hợp các trang giveaway phần mềm bản quyền.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Tổng hợp các trang AI hữu ích",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Tổng hợp các trang AI hữu ích.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Tổng hợp các phần mềm từ Microsoft Store",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Tổng hợp các phần mềm từ Microsoft Store.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Tổng hợp các group chất trên Telegram",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Tổng hợp các group chất trên Telegram.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Thư viện Udemy của Nghiện +",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Thư viện Udemy của Nghiện +.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Phần mềm IDM - Internet Download Manager",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Phần mềm IDM - Internet Download Manager.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Phần mềm dịch Mate Translate Pro",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Phần mềm dịch Mate Translate Pro.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Phần mềm diệt virus ESET",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Phần mềm diệt virus ESET.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Phần mềm chụp màn hình Snagit",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Phần mềm chụp màn hình Snagit.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Phần mềm chuyên trị mất mạng Internet",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Phần mềm chuyên trị mất mạng Internet.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Cách xiên Google One XXX Years",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Cách xiên Google One XXX Years.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Cách nhận Youtube Prenium 4 tháng miễn phí",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Cách nhận Youtube Prenium 4 tháng miễn phí.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Bí kíp xiên Google One tái bản lần thứ 2",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Bí kíp xiên Google One tái bản lần thứ 2.md",
-        "displayText": "Bí thuật MOC"
+        "fileName": "README",
+        "link": "Bí thuật MOC",
+        "relativePath": "README.md"
       },
       {
         "fileName": "Adobe Photoshop + Remove Tool",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/Adobe Photoshop + Remove Tool.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "AdGuard Premium 6 tháng free cho windows (hàng nóng hổi)",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/AdGuard Premium 6 tháng free cho windows (hàng nóng hổi).md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "1001 câu hỏi về Testflight của Apple",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Sources/1001 câu hỏi về Testflight của Apple.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Tổng hợp các trang web tải nhạc chất lượng cao",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Ideas/Tổng hợp các trang web tải nhạc chất lượng cao.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Phần mềm vẽ sơ đồ tư duy SimpleMind",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Ideas/Phần mềm vẽ sơ đồ tư duy SimpleMind.md",
-        "displayText": "Bí thuật MOC"
-      },
-      {
-        "fileName": "Phần mềm dọn dẹp Reg Organizer",
-        "link": "Bí thuật MOC.md",
-        "relativePath": "Notes/Ideas/Phần mềm dọn dẹp Reg Organizer.md",
-        "displayText": "Bí thuật MOC"
+        "link": "Bí thuật MOC",
+        "relativePath": "Notes/Adobe Photoshop + Remove Tool.md"
       }
     ]
   }

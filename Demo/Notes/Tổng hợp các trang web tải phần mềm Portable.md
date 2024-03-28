@@ -1,11 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_chiase
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_chiase
-
-# Tổng hợp các trang web tải phần mềm Portable
-
 > Lảm nhảm 1 chút về kiểu phần mềm này
 
 - Nôm na là các app bình thường trên Window được đóng gói lại để chỉ mở ra là chạy luôn, không cần cài đặt gì cả, anh em có thể ném nó vô usb và vác nó theo để chạy trên bất kỳ máy tính nào mà ko phải cài đặt gì hết

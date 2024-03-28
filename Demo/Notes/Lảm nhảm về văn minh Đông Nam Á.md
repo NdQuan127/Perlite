@@ -1,7 +1,8 @@
-up:: 
-tags:: 
+---
+up: []
+tags:
+---
 
-# Lảm nhảm về văn minh Đông Nam Á
 
 Nhìn chung với điều kiện nóng ẩm, rừng thiêng nước độc và phổ biến là các đảo nhỏ dẫn đến hình thái bộ lạc phổ biến và khó tiếp cận các tiến bộ văn minh so với các khu vực như châu Âu,...  dẫn đến chưa kịp trải qua 1 quá trình từ hình thái thành bang -> hình thái quốc gia tôn giáo  -> mà bị cưỡng ép trở thành hình thái quốc gia dân tộc do sự du nhập từ văn minh bên ngoài hơn là 1 quá trình tiến lên do nội lực.
 

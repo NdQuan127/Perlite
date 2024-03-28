@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Marxism MOC]]"
+tags:
+  - marxism
 ---
-up:: [[Marxism MOC]]
-tags:: #marxism , #on/soviet 
-
-# Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô
 ***
  Hôm nay là buổi học đầu tiên của học phần Chính trị trong kì quân sự. Dù cho rất mệt, nhưng nhiệm vụ của cả đại đội bắt buộc quân số cần phải đủ 100%, nên tôi không thể không tới. Tên bài học đầu tiên tất nhiên là quan điểm của chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh về chiến tranh và quân đội. Nội dung thì đối với tôi, tất nhiên là quá dễ đoán. Nhưng điều khiến tôi hơi bất ngờ, đó là tác phong giảng dạy hơi khác của vị trung tá quân đội này so với những bà giáo, ông giáo Mác-Lênin thông thường. Giọng nói hùng hồn, kể chuyện xen kẽ bài giảng, điều đó khiến cho tất cả mọi người, trong đó có cả tôi, trong khoảng thời gian 2 tiếng đều không thể rời mắt khỏi bảng. Nhưng mà có hùng hồn đến đâu, thì sự tráo trở quanh co, cũng như giáo điều của bản thân nội dung bài giảng cũng chẳng thể nào cứu vớt được. Nghe đến đây, tôi bắt đầu cảm thấy khó chịu trong người, cả người bứt rứt, và bỗng dưng lại cảm thấy lo lắng khi mà người ta bị lừa phỉnh và không hề có hiểu biết gì về chủ nghĩa cộng sản thực sự, mà tôi cũng thấy bi quan trước vấn đề đó, khi người ta đồng nhất nhà cầm quyền, cái tên của nó với Cộng sản, với nội hàm mà nó không mang và ngược lại. Tôi, có lẽ chỉ là đơn thuần may mắn hơn những người khác, khi có cơ hội được tiếp xúc với những thứ khác mà không phải từ cái loa rè, từ cái màn hình ti-vi và từ những dòng chữ giáo khoa... Có lẽ ấy vừa là một điều may mắn, nhưng cũng là một thứ nguyền rủa bất hạnh.
 

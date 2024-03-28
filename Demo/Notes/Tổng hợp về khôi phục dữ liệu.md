@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_chiase
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_chiase 
-# Tổng hợp về khôi phục dữ liệu
-
 ## Nguyên lý khôi phục HDD
 ### Nguyên lý đọc/ghi/xoá của ổ cứng
 - Khi **GHI** (write) 1 file dữ liệu trên ổ cứng, hệ thống sẽ ghi thực tế file đó lên ổ cứng, sau đó quay về bản **FAT** *(tạm hiểu là bản đồ ổ đĩa)* ghi lại thông tin như kiểu file này nằm ở vị trí nào, chiếm bao nhiêu ô (block)

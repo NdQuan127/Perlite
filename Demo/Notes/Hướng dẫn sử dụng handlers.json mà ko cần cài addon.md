@@ -1,11 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]"
+tags:
+  - on/firefox
 ---
-up:: [[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
-tags:: #on/firefox 
-
-# Hướng dẫn sử dụng handlers.json mà ko cần cài addon
-
 ## Chỉnh sửa handlers.json Firefox
 - Từ Firefox gõ `about:support`
 - Open Profile Folder

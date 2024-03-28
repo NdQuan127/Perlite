@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Marxism MOC]]"
+tags:
+  - marxism
 ---
-up:: [[Marxism MOC]]
-tags:: #on/china , #marxism , #on/history 
-
-# Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn
 *bài này được viết bởi 1 marxist nhưng chịu ảnh hưởng Troskyist và là 1 anarchist, có vẻ anti CCP nữa nên cần giữ tư duy phản biện khi đọc*
 ***
 ## Mở đầu

@@ -1,11 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_chiase
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_chiase 
-
-# Cách nhận Youtube Prenium 4 tháng miễn phí
-
 > **Tác giả: Trình Nhung**
 
 Đầu tiên phải kể đến, đây là một chính sách ưu đãi của Google dành cho 1 số dòng thiết bị Samsung hiện hành, và hướng dẫn này được làm trên giả lập máy Samsung Galaxy Z Flip 5/ Samsung Tab S9 Series, sẽ có nhiều dòng máy có nhưng hiện tại mình chỉ test trên con này ((đính kèm danh sách thiết bị nhận được ưu đãi như hình dưới) nếu bạn đang sở hữu dòng máy này thì bao nhận, log app Youtube là có. Còn ai chưa có thì làm theo hướng dẫn sau của mình nhé!

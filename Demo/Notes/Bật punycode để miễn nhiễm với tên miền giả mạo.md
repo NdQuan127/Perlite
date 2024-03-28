@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Firefox MOC]]"
+tags:
+  - on/firefox
 ---
-up:: [[Firefox MOC]]
-tags:: #on/bt_chiase 
-
-# Bật punycode để miễn nhiễm với tên miền giả mạo
 Bảo mật và riêng tư luôn đi liền với bất tiện, nhìn chung nên xác định điều này và Firefox mặc định nó đủ bảo mật và riêng tư rồi, chỉ cái:  
 
 |   |   |

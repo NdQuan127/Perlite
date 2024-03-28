@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Marxism MOC]]"
+tags:
+  - marxism
 ---
-up:: [[Soviet Union History]] [[Marxism MOC]]
-tags:: #on/history #marxism 
-
-# Một bài viết ấn tượng về Liên Xô thời Stalin
 
 (trích dẫn từ forum nước Nga net)
 

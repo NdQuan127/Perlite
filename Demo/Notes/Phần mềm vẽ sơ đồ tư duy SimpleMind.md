@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_keyngon
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_keyngon 
-
-# Phần mềm vẽ sơ đồ tư duy SimpleMind
 Đây là phần mềm thuộc loại mind maping (vẽ sơ đồ tư duy). Thỉnh thoảng mình vẫn nghe cao thủ chém gió kiểu: nếu tư duy rành mạch rồi thì chỉ cần Word/Excel cũng vẽ được sơ đồ tư duy tốt. Cũng đúng, nhưng đừng tin bọn mỏ nhọn đó, câu đó chỉ dùng để lùa bọn gà con đang ngồi trong ghế nhà trường. Còn ra đời rồi, nếu đúng là tư duy tốt, việc đầu tiên phải tư duy được là kiếm một phần mềm đủ mạnh mẽ để triển khai ý tưởng của mình thành vũ khí sắc bén nhất... trong thời gian ngắn nhất. Quan trọng, thời gian là vàng bạc, nên dành nó việc uốn nắn, làm rõ ý tưởng. Thay vì ngồi kỳ cụi chỉnh sửa ô chữ Excel/Word.
 
 Chốt lại, anh em nên găm sẵn trong người một phần mềm vẽ sơ đồ tư duy, giúp anh em triển khai project, bài tập lớn, dự án một cách rõ ràng, chuyên nghiệp hơn.

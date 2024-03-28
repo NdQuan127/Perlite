@@ -1,5 +1,9 @@
 ---
 dg-publish: true
+up:
+  - "[[Marxism MOC]]"
+tags:
+  - marxism
 ---
 Nhiều người VN khi nhắc tới cách mạng TQ đương đại thường cho rằng sở dĩ Mao Trạch Đông thành công hơn người khác là do ăn may, giảo hoạt, giỏi đấu đá… Nhưng trên thực tế những nhà cách mạng tiền bối “học giả” cùng thời với Mao đã phạm phải nhiều sai lầm có tính chiến lược khiến họ không những biến mất trên vũ đài chính trị mà còn cả trong những hồi ức lịch sử của đại chúng. Vương Minh là một trong số đó. Những thất bại mà ông và đồng chí của ông gặp phải cung cấp cho chúng ta nhiều bài học lịch sử giá trị.
 

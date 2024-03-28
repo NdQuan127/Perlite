@@ -1,11 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Firefox MOC]]"
+tags:
+  - on/firefox
 ---
-up:: [[Firefox MOC]]
-tags:: #on/bt_chiase 
-
-# FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế
-
 Hướng dẫn cách cài con vịt pede xòe ra hai cái cánh để bắt link và tải đa luồng như IDM:  
 - Tải tại đây: [https://github.com/filecxx/FileCentipede/releases](https://github.com/filecxx/FileCentipede/releases)
 

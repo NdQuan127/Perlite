@@ -1,11 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Firefox MOC]]"
+tags:
+  - on/firefox
 ---
-up:: [[Firefox MOC]]
-tags:: #on/firefox 
-
-# Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard
-
 ## 1. uBlock của Firefox và uBlock của Chrome
 
 **a) Hiệu năng:**

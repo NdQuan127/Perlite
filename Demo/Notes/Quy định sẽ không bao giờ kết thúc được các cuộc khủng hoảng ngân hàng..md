@@ -1,7 +1,9 @@
-up:: 
-tags:: #on/economic
-
-# Quy định sẽ không bao giờ kết thúc được các cuộc khủng hoảng ngân hàng.
+---
+up:
+  - "[[Marxism MOC]]"
+tags:
+  - marxism
+---
 
 *Costas Lapavitsas cảnh báo rằng các quy định được ngân hàng thiết kế để bảo vệ lợi ích của họ sẽ không bao giờ đủ để ngăn các cuộc khủng hoảng ngân hàng,.*
 

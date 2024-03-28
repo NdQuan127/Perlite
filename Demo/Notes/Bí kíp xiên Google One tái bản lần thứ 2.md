@@ -1,11 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_chiase
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_chiase 
-
-# Bí kíp xiên Google One tái bản lần thứ 2
-
 > Tác giả: [Lục Ngọc](https://lucngoc.com/huong-dan-nang-cap-google-one/)
 
 > **Cơ chế của việc này là:** Tài khoản G mới > Nhận khuyến mãi gói G One 2TB tại Séc (hoặc Iraq) > Đổi hồ sơ tài khoản sang Thổ Nhĩ Kỳ (Thổ) > Quy đổi thời gian sử dụng dài hơn.

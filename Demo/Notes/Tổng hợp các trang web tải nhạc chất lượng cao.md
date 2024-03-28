@@ -1,7 +1,9 @@
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_chiase 
-
-# Tổng hợp các trang web tải nhạc chất lượng cao
+---
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_chiase
+---
 
 - https://eimusics.com/
 - https://nyaa.si/

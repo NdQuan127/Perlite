@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Firefox MOC]]"
+tags:
+  - on/firefox
 ---
-up:: [[Firefox MOC]]
-tags:: #on/firefox 
-
-# Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome
 
 > Chrome gần đây thì thể hiện thế độc quyền thấy rõ, mà mục tiêu chính là họ muốn biến trình duyệt web thành môi trường cho quảng cáo:  
 

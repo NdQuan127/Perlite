@@ -1,7 +1,10 @@
-up:: [[Firefox MOC]]
-tags:: #on/firefox 
+---
+up:
+  - "[[Firefox MOC]]"
+tags:
+  - on/firefox
+---
 
-# DNS là cái chi mô răng rứa
 
 > Bài viết dưới đây giải thích DNS là gì, hoạt động của DNS ra sao và những khái niệm cơ bản khác. Bài viết có tham khảo, sử dụng nguồn từ các bài viết trên internet.
 

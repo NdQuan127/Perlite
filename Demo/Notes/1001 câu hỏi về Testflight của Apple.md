@@ -1,11 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_chiase
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_chiase 
-
-# 1001 câu hỏi về Testflight của Apple
-
 1. **Testflight là gì?** Nó là môi trường test, chạy thử app trước khi tung ra môi trường thật: App Store.
     
 2. **Tại sao nó miễn phí?** Đúng ra mà nói thì tụi DEV (nhà phát triển) phải trả tiền cho người test, hơn nữa phải trả rất nhiều tiền, chứ đừng nói là thu tiền của anh em, vì môi trường test app sẽ nhiều bug, không ổn định, gây phiền hà, mất thời gian cho người dùng. Vì thế, việc miễn phí phần mềm Testflight thực ra là câu chuyện win-win, đôi bên cùng có lợi, người dùng thì được dùng miễn phí, bên DEV thì có người test (quan trọng là không bị rằng buộc gì về pháp lý khi có sự cố xảy ra với người dùng: mất thời gian, mất dữ liệu...)

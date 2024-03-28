@@ -1,11 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Marxism MOC]]"
+tags:
+  - marxism
 ---
-up:: [[Marxism MOC]]
-tags:: #marxism 
-
-# Marx và Engels về sinh thái học: "Với cả xương thịt, máu mủ và đầu óc, chúng ta đều thuộc về tự nhiên"
-
 Nhiều người vẫn lên tiếng chỉ trích chủ nghĩa Marx lãnh đạm đối với các vấn đề về môi trường. Tuy nhiên trên thực tế, Karl Marx và Friedrich Engels thể hiện mối quan tâm vô cùng sâu sắc đối với chúng trên gần như từng dòng mà họ viết. Kể cả trước khi từ ‘sinh thái’ được đặt ra, họ đã liên tục nhấn mạnh sự đồng nhất không thể tách rời của nhân loại và thiên nhiên, bản chất hủy diệt của chủ nghĩa tư bản, và sự cần thiết của chủ nghĩa xã hội vì sự tồn vong của hành tinh.
 
 Sau đây chỉ là những đoạn trích nhỏ từ những ghi chép của họ về chủ đề này:

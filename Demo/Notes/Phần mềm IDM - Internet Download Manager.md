@@ -1,10 +1,11 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_keyngon
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_keyngon 
 
-# Phần mềm IDM - Internet Download Manager
 > File active của con này đang outdate sẽ update sau 😅
 
 > Thằng này chắc cũng chả cần review làm gì （￣︶￣）↗　

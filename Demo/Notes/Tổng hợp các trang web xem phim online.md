@@ -1,11 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_chiase
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_chiase
-
-# Tổng hợp các trang web xem phim online
-
 > Chắc khỏi cần giới thiệu luôn 😀
 
 

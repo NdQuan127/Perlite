@@ -1,11 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_keyngon
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_keyngon
-
-# Phần mềm diệt virus ESET
-
 Nếu máy tính của anh em chỉ dùng duyệt web, giải trí, thì anh em có thể dùng phần mềm anti-virus mặc định Defender của Windows là được rồi. Nhưng nếu máy tính của anh em dính tới công việc nghiêm túc, chứa nhiều thông tin tài chính (coin củng, trứng khoán,...) thì bạn cần một phần mềm anti-virus thực sự, dùng phần mềm nào cũng được, nhưng nên có một thằng mà không phải thằng mặc định Defender của Windows, vì khi virus đã đánh thủng được Windows thì thằng Defender này cũng phế luôn.
 
 Ví dụ như đợt trước NFT_god - 1 người khá nổi tiếng trong nft cũng mất sạch tài khoản chỉ vì ấn nhầm 1 đường link trên google khi đang search 💀

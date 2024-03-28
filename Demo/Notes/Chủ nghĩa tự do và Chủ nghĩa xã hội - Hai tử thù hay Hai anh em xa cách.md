@@ -1,7 +1,10 @@
-up:: [[Marxism MOC]]
-tags:: #marxism, #on/liberalism
+---
+up:
+  - "[[Marxism MOC]]"
+tags:
+  - marxism
+---
 
-# Chủ nghĩa tự do và Chủ nghĩa xã hội - Hai tử thù hay Hai anh em xa cách
 ***
 *Lea Ypi, Giáo sư môn Lý thuyết Chính trị tại Trường Kinh tế London, xem xét mối quan hệ giữa chủ nghĩa tự do và chủ nghĩa xã hội.*
 

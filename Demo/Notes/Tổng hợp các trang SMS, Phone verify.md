@@ -1,11 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_chiase
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_chiase 
-
-# Tổng hợp các trang SMS, Phone verify
-
 > Ví dụ anh em đi xiên, đi đăng ký một tài khoản ở Mỹ, Anh thường gặp vụ này, họ yêu cầu xác nhận số điện thoại mà anh em tại Mỹ, Anh mà không có. Anh em có thể thông qua các trang SMS/Phone verify để nhận nhắn tin xác nhận. 
 
 > **Danh sách đó đây nhé**

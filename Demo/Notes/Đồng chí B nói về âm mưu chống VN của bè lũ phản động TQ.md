@@ -1,7 +1,9 @@
-up:: [[Việt Nam History MOC]]
-tags:: #on/history 
+---
+up: 
+tags:
+  - on/vietnam
+---
 
-# Đồng chí B nói về âm mưu chống VN của bè lũ phản động TQ
 
 ![](https://nghiencuuquocte.org/wp-content/uploads/2016/04/ctvt.jpg)
 

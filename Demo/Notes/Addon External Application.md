@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]"
+tags:
+  - on/firefox
 ---
-up:: [[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
-tags:: #on/firefox 
-
-# Addon External Application
 - Click vào nút addon của External Application để mở ra trang tạo kết nối ứng dụng, sau đó thêm y xì như này:
     - Name: `MPV`
     - Executable: Đường dẫn tới file mpv.exe, ví dụ của mình là `D:\mpv\mpv.exe`

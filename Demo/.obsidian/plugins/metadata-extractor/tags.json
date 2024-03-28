@@ -15,8 +15,8 @@
       "Notes/Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ.md",
       "Notes/Từ điển about config để go pro.md",
       "Notes/Tối ưu cuộn mượt.md",
-      "Notes/Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox.md",
       "Notes/Tắt OCSP để tăng tốc kết nối tới trang web.md",
+      "Notes/Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox.md",
       "Notes/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard.md",
       "Notes/ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn.md",
       "Notes/Hướng dẫn sử dụng handlers.json mà ko cần cài addon.md",
@@ -43,8 +43,18 @@
     ]
   },
   {
+    "tag": "on/books",
+    "tagCount": 4,
+    "relativePaths": [
+      "Notes/Yuval Noal Harari 1 Nhà khoa học dân túy.md",
+      "Notes/Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta.md",
+      "Notes/Các thể loại quan trọng của Sci-Fi.md",
+      "Maps/Kiến thức căn bản về sách.md"
+    ]
+  },
+  {
     "tag": "on/bt_chiase",
-    "tagCount": 38,
+    "tagCount": 37,
     "relativePaths": [
       "Notes/Ép Firefox lưu cache trên RAM mà không cần RAMDisk.md",
       "Notes/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey.md",
@@ -60,7 +70,6 @@
       "Notes/Tổng hợp các trang SMS, Phone verify.md",
       "Notes/Tổng hợp các trang giveaway phần mềm bản quyền.md",
       "Notes/Tổng hợp các trang AI hữu ích.md",
-      "Notes/Tổng hợp các phần mềm từ Microsoft Store.md",
       "Notes/Tổng hợp các group chất trên Telegram.md",
       "Notes/Tối ưu DNS.md",
       "Notes/Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây.md",
@@ -79,21 +88,11 @@
       "Notes/File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0.md",
       "Notes/Cách xiên Google One XXX Years.md",
       "Notes/Cách nhận Youtube Prenium 4 tháng miễn phí.md",
-      "Notes/Các bản mod ngon của Firefox.md",
       "Notes/Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..).md",
+      "Notes/Các bản mod ngon của Firefox.md",
       "Notes/Bật punycode để miễn nhiễm với tên miền giả mạo.md",
       "Notes/Bí kíp xiên Google One tái bản lần thứ 2.md",
       "Notes/1001 câu hỏi về Testflight của Apple.md"
-    ]
-  },
-  {
-    "tag": "on/books",
-    "tagCount": 4,
-    "relativePaths": [
-      "Notes/Yuval Noal Harari 1 Nhà khoa học dân túy.md",
-      "Notes/Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta.md",
-      "Notes/Các thể loại quan trọng của Sci-Fi.md",
-      "Maps/Kiến thức căn bản về sách.md"
     ]
   },
   {
@@ -191,13 +190,6 @@
     "tagCount": 1,
     "relativePaths": [
       "Notes/Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô.md"
-    ]
-  },
-  {
-    "tag": "on/language",
-    "tagCount": 1,
-    "relativePaths": [
-      "Notes/CHIA SẺ KINH NGHIỆM LUYỆN NGHE, TỪ BAND 500+ LÊN 900+.md"
     ]
   },
   {

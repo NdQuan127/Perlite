@@ -1,11 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_chiase
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_chiase
-
-# Tổng hợp các trang web tải phần mềm ngon
-
 > Anh em lưu ý là dù link này ngon đến mấy thì luôn phải check virus trước khi cài ☠️
 
 > Danh sách đó đây nhé:

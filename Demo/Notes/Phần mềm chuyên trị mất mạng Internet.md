@@ -1,10 +1,11 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_keyngon
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_keyngon 
 
-# Phần mềm chuyên trị mất mạng Internet
 > Khuyên anh em nên tải về thủ sẵn trong máy sẽ rất hữu dụng     (～￣▽￣)～
 
 Lang thang Internet thấy phần mềm này rất hay nên phải share ngay cho nóng. Phần mềm này free, chạy dưới dạng portable (có loại cài đặt nhưng mình nghĩ không cần thiết). Phần mềm này rất tiện cho mấy anh em từ gà đến nhập môn, tự nhiên đang dùng mất mạng Internet thì chỉ cần bật lên chạy phát là có mạng Internet ngay (_nguyên nhân do máy anh em thôi nhé, chứ còn do Router/Modem hoặc do thằng Cafe Internet thì chịu_). Điểm mình thích nhất ở phần mềm này là nó thay thế được cả tá lệnh mà ngày xưa mình phải gõ bằng tay như: ipconfig /release, ipconfig /flushdns, ipconfig /renew, netsh int ip reset, netsh winsock reset, nbtstat -R, nbtstat -RR, arp -d, netsh advfirewall reset, netsh winhttp reset proxy... Ngắn gọn, nó thay anh em phát ra hàng chục lệnh reset cấu hình mạng mức hệ thống, một đập ăn luôn.

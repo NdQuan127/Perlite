@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+tags:
+  - on/firefox
+up:
+  - "[[Firefox MOC]]"
 ---
-up:: [[Firefox MOC]]
-tags:: #on/bt_chiase 
-
-# Tối ưu DNS
 Đôi khi mạng chậm cũng có thể do Microsoft trả về CDN ở tận trời Tây, nên sử dụng NextDNS/GoogleDNS (gửi ECS) để Tây nó trả về máy chủ gần Việt Nam, đặc biệt tránh dùng 1.1.1.1 cùi bắp vì nó trả về CDN tận Mỹ cuồng râm, cứ hiểu là 1.1.1.1 chỉ dành cho người Mỹ bản địa.
 
 Đặt DNS Firefox thành NextDNS bằng cách `about:config` (anh em cũng có thể vào settings mục DNS để chỉnh cho nhanh):  

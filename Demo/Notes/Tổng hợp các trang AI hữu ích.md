@@ -1,7 +1,9 @@
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_chiase
-
-# Tổng hợp các trang AI hữu ích
+---
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_chiase
+---
 
 > Bất kể anh em có thích AI hay không thì cũng phải thừa nhận nó là xu hướng thời đại rồi, vì thế, cho dù thích hay không, anh em vẫn phải thủ sẵn một vài con AI trợ giúp công việc hàng ngày.
 

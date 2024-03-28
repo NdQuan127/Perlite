@@ -1,8 +1,12 @@
 ---
 dg-publish: true
+up:
+  - "[[Marxism MOC]]"
+tags:
+  - marxism
+  - on/vietnam
 ---
-up:: [[Marxism MOC]]
-tags:: #on/vietnam #marxism 
+
 
 > 1 bài viết typical của cực tả, hãy chỉ coi nó là 1 tài liệu tham khảo và giữ 1 thái độ lý trí để đọc nó.
 # Những cuộc đình công và đấu đá nội bộ trong Đảng Cộng sản xuất phát chính từ đấu tranh giai cấp đang lên ở Việt Nam

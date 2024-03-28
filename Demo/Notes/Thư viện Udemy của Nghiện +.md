@@ -1,7 +1,10 @@
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_chiase 
+---
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_chiase
+---
 
-# Thư viện Udemy của Nghiện +
 > Tác giả: @thitluoc
 
 **Hướng dẫn sử dụng**

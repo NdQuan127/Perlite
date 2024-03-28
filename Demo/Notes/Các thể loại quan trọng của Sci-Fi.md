@@ -5,10 +5,6 @@ up:
 tags:
   - on/books
 ---
->[!Blocks] Table of Contents
->```table-of-contents
->```
-
 ![https://images.spiderum.com/sp-images/c8f72920d50411ed9ad27dd2af7100e3.jpeg](https://images.spiderum.com/sp-images/c8f72920d50411ed9ad27dd2af7100e3.jpeg)
 
 ## Hard Sci Fi và Soft Sci Fi

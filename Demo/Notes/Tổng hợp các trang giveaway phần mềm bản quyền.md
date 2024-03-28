@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_chiase
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_chiase
-
-# Tổng hợp các trang giveaway phần mềm bản quyền
 
 >  Ưu điểm của những trang này là cho keyngon xịn sò, chính hãng, nên anh em không lo virus. Nhiều khi chịu khó rình mò cũng kiếm được những món rất ngon.
 

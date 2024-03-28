@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Firefox MOC]]"
+tags:
+  - on/firefox
 ---
-up:: [[Firefox MOC]]
-tags:: #on/firefox 
-
-# ECH và cách thức nhà mạng chặn trang web cũng như cách vượt
 ## DPI là gì?
 - Deep Packet Inspection - DPI (tạm dịch: phân tích sâu các gói)  là 1 loại filter mạng. Nói chi tiết hơn thì DPI có thể được sử dụng để phát hiện, định vị, phân loại, định tuyến lại hoặc chặn bất kỳ gói nào có tải trọng dữ liệu hoặc mã cụ thể, vốn không thể thực hiện được bằng cách lọc gói thông thường.
 - Nôm na dễ hiểu thì là nó có thể chặn quyền truy cập vào một số trang web nhất định. Đây cũng là cách mà rất nhiều Internet Service Providers ưa thích sử dụng.

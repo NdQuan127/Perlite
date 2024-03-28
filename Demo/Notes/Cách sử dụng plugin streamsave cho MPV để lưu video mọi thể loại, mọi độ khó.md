@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Firefox MOC]]"
+tags:
+  - on/firefox
 ---
-up:: [[Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
-tags:: #on/firefox 
-# Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó
-
 - **Ưu điểm:**  
 	- Tự động đặt tên file là tên ở title của MPV
 	- Không bao giờ ghi đè vào file cũ, cho phép tạo một lô xích xông các clip ngắn dụng video-1.mp4, video-2.mp4, video-3.mp4.... cho cùng một video

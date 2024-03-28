@@ -2,6 +2,7 @@
 up: 
 tags:
   - "#note/boat🚤"
+  - on/vietnam
 ---
 
 Tác giả: GS TS Vũ Dương Huân (Học viện Ngoại giao)

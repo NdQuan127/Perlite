@@ -32,7 +32,6 @@ tags:
 
 > Danh sách chúng nó đây: 
 
-- [[AdGuard Premium 6 tháng free cho windows (hàng nóng hổi)]]
 - [[Phần mềm diệt virus ESET]]
 - [[Phần mềm chụp màn hình Snagit]]
 - [[Phần mềm IDM - Internet Download Manager]]

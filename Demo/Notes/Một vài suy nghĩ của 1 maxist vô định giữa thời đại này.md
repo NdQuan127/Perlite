@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Marxism MOC]]"
+tags:
+  - marxism
 ---
-up:: [[Marxism MOC]]
-tags:: #marxism 
-
-# Một vài suy nghĩ của 1 maxist vô định giữa thời đại này
 (anarchism, troskyist,.. nữa 😶)
 *** 
 Hôm nay phải đóng học phí. Tôi lại nhớ đến những cuộc nói chuyện với hội bạn đại học của tôi. Tôi chỉ thấy thương cho các ông ấy, và chính tôi, khi phải bán đi giấc mơ của mình cho tư bản, phải chịu kiếp sống liên tục bị ám ảnh bởi bóng ma của những tờ đô-la và những bức chân dung Bác-Hồ đút túi. Giống với tôi, như bao người khác, họ cũng từng có ước mơ. Nhưng giờ đây, chính họ lại cảm thấy lúng túng khi đối diện với câu hỏi - "Ước mơ của ông là gì?". Câu trả lời vốn có thể đã quá rõ ràng, đúng rồi, là tiền chứ sao! Hay như họ vẫn đùa với tôi trong những cuộc trò chuyện trà dư tửu hậu, là làm nô lệ cho tư bản. Nhưng phía sau những đồng tiền đó là gì? Chẳng ai trả lời được. Tôi cũng chẳng trách được. Một người thì gia đình nợ nần, đánh mất tuổi thơ tươi đẹp sau những cơn bão khắc nghiệt của xứ biển. Người còn lại thì cô độc, khép mình, chỉ chăm chăm lo làm sao để có thể gia đình không phải vướng bận vì mình nữa. Người thì lập kỉ lục 35 tín/kì, 3.7 hiện lên như một kì tích huy hoàng, chỉ vì muốn ra trường cho sớm, để nhanh chóng làm ra tiền. Một người thì học cái này cái kia, đọc Crack the Coding Interview, apply chỗ này chỗ khác, để nhanh chóng thực tập để mà có tiền, để tự lo cho mình. Nhưng làm sao để tới được đó? Khi mà nghĩ về tương lai thôi đã thấy họ bủn rủn chân tay, rùng mình trước sự mênh mông vô định của nó? Cũng dễ hiểu thôi, đến cả hiện tại, tôi và họ đều còn chẳng nắm được trong tay thì làm sao có thể nghĩ đến tương lai. Có thể nói, tôi đã học được từ những con người rất đỗi dễ mến này rất nhiều điều, rất nhiều trải nghiệm mà tôi chẳng thể nào quên, và ngược lại, họ cũng nhận từ tôi một thứ - đó chính là khái niệm về "Khủng hoảng hiện sinh". Và thế là họ biết cách gọi tên nó - có lẽ là bước đầu tiên trong việc hiểu được nó, cái bóng ma đang xiết cổ họ bấy nhiêu lâu nay.

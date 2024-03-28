@@ -1,11 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Nationalism MOC|Nationalism MOC]]"
+tags:
+  - "#on/nationalism"
 ---
-up:: [[Nationalism MOC]]
-tags:: #on/nationalism 
-
-# Nguồn gốc của thần thoại chính trị
-
 > Tác giả: Tùng Tùng Soong
 
 ## Mở đầu

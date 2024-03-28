@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Firefox MOC]]"
+tags:
+  - on/firefox
 ---
-up:: [[Firefox MOC]]
-tags:: #on/bt_chiase 
-
-# Search in Sidebar - Search qua sidebar mà ko cần mở tab mới
 Bình thường khi tìm kiếm bằng cách chuột phải sau đó `Search Google for xxx` thì nó mở ra một tab mới, sau khi tìm kiếm/nghiên cứu xong sẽ phải quay lại tab cũ để điền kết quả, nhiều khi quên luôn tab cũ ở đâu.  
   
 [**Search in Sidebar**](https://addons.mozilla.org/en-US/firefox/addon/search-in-sidebar/): Với Search in Sidebar, khi bạn chuột phải rồi `Search Google for xxx` nó sẽ mở ra một cái Sidebar bên trái hoặc phải, cho bạn lướt web luôn trong cái sidebar tha hồ mà vừa tìm và nghiên cứu, đến khi ra kết quả là có thể điền luôn vào tab đang dùng, giúp cải thiện hiệu suất công việc.

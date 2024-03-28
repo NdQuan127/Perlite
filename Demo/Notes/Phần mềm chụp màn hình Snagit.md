@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_keyngon
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_keyngon  
-
-# Phần mềm chụp màn hình Snagit
 
 > Lảm nhảm chút về thằng này
 

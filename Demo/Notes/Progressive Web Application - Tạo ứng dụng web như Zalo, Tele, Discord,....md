@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Firefox MOC]]"
+tags:
+  - on/firefox
 ---
-up:: [[Firefox MOC]]
-tags:: #on/bt_chiase 
-
-# Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...
 Câu nói quen thuộc của người dùng khi sử dụng lợn Zalo, bản PC thì chậm, ngốn tài nguyên, ngốn ổ đĩa, khởi động cùng hệ thống một cách vô lý... Bản web cũng chả kém cạnh gây chậm trình duyệt do lưu trữ một lượng IndexDB lớn. Cơ mà ở Việt Nam mà không dùng Zalo thì khỏi nghĩ tới:  
 
 - Tán gái, gái Việt dùng Zalo, không có khỏi tán gái

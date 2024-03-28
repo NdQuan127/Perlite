@@ -1,11 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_chiase
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_chiase 
-
-# Tổng hợp các trang web tải Wallpaper
-
 > Thay vì mỗi lần mở máy tính ra là mấy cái hình nền chán ngắt đập vào mắt, tại sao anh em không kiếm 1 bức ảnh đẹp để cho tinh thần thoải mái mỗi khi ngồi vào máy nhỉ 😘
 
 > Danh sách đây nhé

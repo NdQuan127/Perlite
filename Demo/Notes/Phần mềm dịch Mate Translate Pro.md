@@ -1,10 +1,11 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_keyngon
 ---
-up:: [[Bí thuật MOC]] 
-tags:: #on/bt_keyngon 
 
-# Phần mềm dịch Mate Translate Pro
 
 Từ điển hỗ trợ rất nhiều cách tra, hỗ trợ Tiếng Việt cực tốt, tra được trên **100 ngôn ngữ**, có nghĩa là bạn có thể đọc bất kỳ tài liệu kỹ thuật nước nào bằng nó:
 

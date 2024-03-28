@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Marxism MOC]]"
+tags:
+  - marxism
 ---
-up:: [[Marxism MOC]]
-tags:: #marxism 
-
-# Những nhà tư bản trung thực sẽ nói gì ? - Louis Althusser
 ## Louis Althusser 
 
 ![[Pasted image 20231016234404.png]]

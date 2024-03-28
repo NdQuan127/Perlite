@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Marxism MOC]]"
+tags:
+  - marxism
 ---
-up:: [[Marxism MOC]]
-tags:: #marxism 
-
-# Một chủ nghĩa Marx xanh hơn
 *Kohei Saito - tác giả của tác phẩm bán chạy bất ngờ "Tư bản trong thế Nhân loại" cho rằng chủ nghĩa cộng sản giảm phát triển là giải pháp cho cuộc khủng hoảng khí hậu.*
 
 -----

@@ -1,11 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[Firefox MOC]]"
+tags:
+  - on/firefox
 ---
-up:: [[Firefox MOC]]
-tags:: #on/bt_chiase 
-
-# Head Editor - Đổi User - Agent Language, nôm na là tuỳ ý thay đổi nội dung trang web
-
 - **Addon cực mạnh giúp phá và sửa trang web, tính năng:**  
 	- Thêm/xóa/sửa header kiểu User-Agent, Referer.. từ đó ép các trang web dùng bản Mobile hay hiển thị theo ý thích, vượt giới hạn trình duyệt kiểu các trang chỉ cho Chrome/Edge vào
 	- Thêm/xóa/sửa NỘI DUNG WEB (nâng cao) giúp chặn những loại quảng cáo, anti-adblock khó nhằn nhất

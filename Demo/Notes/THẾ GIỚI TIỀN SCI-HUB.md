@@ -1,3 +1,7 @@
+---
+up: 
+tags:
+---
 
 >[!Note] Tóm tắt: 
 >Bài này chia sẻ ký ức về thời kỳ gian khó cách nay một hai thập niên khi việc đọc các bài báo khoa học phải trả tiền vẫn còn là rào cản lớn với người làm nghiên cứu, từ đó làm sáng tỏ phần nào cách thức hoạt động của Sci-Hub.

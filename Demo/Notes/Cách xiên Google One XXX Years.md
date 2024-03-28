@@ -1,10 +1,10 @@
 ---
 dg-publish: true
+up:
+  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+tags:
+  - on/bt_chiase
 ---
-up:: [[Bí thuật MOC]]
-tags:: #on/bt_chiase 
-
-# Cách xiên Google One XXX Years
 
 > Nói thẳng với anh em là xiên khó vl nên anh em làm cẩn thận theo từng bước. ![:shame:](https://statics.voz.tech/styles/next/xenforo/smilies/popopo/shame.png?v=01 "shame    :shame:")
 
