@@ -1,4 +1,4 @@
-![X](Utilities/Images/00.png)
+![[Utilities/Images/00.png]]
 
 Vũ trụ là hằng sa các mảnh thiên thể, các hành tinh, hố đen, ngôi sao, ... Tất cả đều liên tục biến đổi, hợp thành rồi lại tách ra, tan biến rồi lại xuất hiện, lặng im rồi bùng nổ, ... Tâm trí của con người cũng giống như vậy, liên tục biến đổi và phát triển. Và nó thật là một tác phẩm tuyệt diệu của đấng sáng tạo.
 
