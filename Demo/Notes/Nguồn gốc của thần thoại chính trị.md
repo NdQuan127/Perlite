@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 up:
-  - "[[../Maps/Nationalism MOC|Nationalism MOC]]"
+  - "[[../Maps/Nationalism MOC]]"
 tags:
   - "#on/nationalism"
 ---

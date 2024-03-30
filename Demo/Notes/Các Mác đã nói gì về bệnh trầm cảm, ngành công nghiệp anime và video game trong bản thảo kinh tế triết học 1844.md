@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 up:
-  - "[[Marxism MOC]]"
+  - "[[../Maps/Marxism MOC]]"
 tags:
   - "#marxism"
 ---
@@ -307,4 +307,4 @@ https://­www.marxist.com/­self-harm-suicide-and­-capitalist-alienati­on.html
  Source: https://www.facebook.com/story.php?story_fbid=3383716291696757&id=873508422717569
 
 ***
-back:: [[Marxism MOC]]
+back:: [[../Maps/Marxism MOC]]

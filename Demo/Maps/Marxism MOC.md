@@ -17,9 +17,7 @@ related:
 >If you tremble with indignation at every injustice then you are a comrade of mine.
   
   
-  ```dataview
-  table
-  
-  from #marxism  
-  sort file.name asc
-  ```
+>[!Blocks]
+>
+
+

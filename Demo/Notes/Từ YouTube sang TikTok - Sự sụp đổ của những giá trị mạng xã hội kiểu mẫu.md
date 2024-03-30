@@ -123,7 +123,7 @@ Việc Ngọc Tân xây dựng kênh TikTok là để đảm bảo anh không đ
 
 "Mình đang hoạt động chính ở trên hai mảng là công nghệ và xe. Cả hai mảng nội dung này đều không thể đạt được hiệu quả 100% trên các nền tảng video ngắn. Trên TikTok, mình không thể truyền tải hết được tất cả những gì mà mình muốn nói".
 
-Đó cũng là những gì mà [Trần Xuân Vinh (Vinh Vật Vờ)](https://www.youtube.com/@vinhxo69), reviewer nổi tiếng trong làng công nghệ chia sẻ. Anh thừa nhận mình chẳng mấy mặn mà và tâm huyết với việc làm nội dung trên TikTok:
+Đó cũng là những gì mà [[Vinh Vật Vờ)](https://www.youtube.com/@vinhxo69|Trần Xuân Vinh (Vinh Vật Vờ)]], reviewer nổi tiếng trong làng công nghệ chia sẻ. Anh thừa nhận mình chẳng mấy mặn mà và tâm huyết với việc làm nội dung trên TikTok:
 
 "Việc hiện diện trên TikTok cũng giống như việc ăn một món ăn. Mình không thích ăn rau, chỉ thích ăn thịt cá. Tuy nhiên, vì biết lợi ích sức khỏe của rau nên dù không thích vẫn phải ăn một chút. Là một nhà sáng tạo nội dung thì nền tảng nào cũng nên có mặt để tiếp cận được càng nhiều tệp người xem càng tốt".
 

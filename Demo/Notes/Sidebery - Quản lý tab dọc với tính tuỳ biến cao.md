@@ -1,20 +1,20 @@
 ---
 dg-publish: true
 up:
-  - "[[Firefox MOC]]"
+  - "[[../Maps/Firefox MOC]]"
 tags:
   - on/bt_chiase
 ---
 [**Sidebery**](https://addons.mozilla.org/en-US/firefox/addon/sidebery/): Addon hỗ trợ chơi tab dọc có tính tùy biến rất cao và bắt mắt.
 ## Tính năng
 - Quản lý tab theo nhóm như Tab Group của Chrome
-![[Pasted image 20230901155731.png]]
+![[../Utilities/Images/Pasted image 20230901155731.png]]
 
 - Tạo bản ghi lịch sử Tab để khôi phục khi cần thiết
-![[Pasted image 20230901155824.png]] 
+![[../Utilities/Images/Pasted image 20230901155824.png]] 
 
 - Nhiều tuỳ biến thay đổi giao diện từ cơ bản đến nâng cao
-![[Pasted image 20230901155940.png]]
+![[../Utilities/Images/Pasted image 20230901155940.png]]
 
 ## Ẩn/hiện thanh tab ngang cho gọn vì Sidebery bao tab dọc (dùng userChrome.css)
 >[!Warning]
@@ -73,7 +73,7 @@ Bật userChrome.css bằng cách vào about: config tìm `toolkit.legacyUserPro
 Vào `about:support` rồi Open Containing Folder, tạo folder `chrome`, tạo file `userChrome.css` bên trong folder vừa tạo.
 
 **Đây là kết quả khi ẩn cả tab ngang và tab dọc (tab dọc anh em có thể ẩn hiện nó bằng phím F1 để cho tiện)**
-![[Pasted image 20230901160906.png]]
+![[../Utilities/Images/Pasted image 20230901160906.png]]
 
 ## Auto Hide Sidebar như Edge
 >[!Note]
@@ -83,7 +83,7 @@ Vào `about:support` rồi Open Containing Folder, tạo folder `chrome`, tạo 
 Đọc thêm bài này để có thể kiếm được vài cái hay ho để tùy biến Firefox: [[Giới thiệu và một số cách sử dụng userChrome.js]]
 
 >[!Warning]
->Muốn xóa cái này cho đỡ ngứa mắt ![[Pasted image 20240228211824.png]] thì vô `userChrome.css` dán đoạn code này vô
+>Muốn xóa cái này cho đỡ ngứa mắt ![[../Utilities/Images/Pasted image 20240228211824.png]] thì vô `userChrome.css` dán đoạn code này vô
 >
 
 ```css

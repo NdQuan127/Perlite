@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Firefox MOC]]"
+  - "[[../Maps/Firefox MOC]]"
 related: 
 created: 2024-02-28
 tags:

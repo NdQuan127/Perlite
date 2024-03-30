@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-up::[[Bí thuật MOC]] 
+up::[[../Maps/Bí thuật MOC]] 
 tags:: #on/bt_keyngon 
 
 # Adobe Photoshop + Remove Tool

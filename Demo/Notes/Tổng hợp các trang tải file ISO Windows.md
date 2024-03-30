@@ -1,14 +1,14 @@
 ---
 dg-publish: true
 up:
-  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+  - "[[../Maps/Bí thuật MOC]]"
 tags:
   - on/bt_chiase
 ---
 
 > Anh em nào muốn cài win dạo có thể ghé vô đây :>
 
-![[Pasted image 20230809002226.png]]
+![[../Utilities/Images/Pasted image 20230809002226.png]]
 
 > Danh sách đó đây nhé
 

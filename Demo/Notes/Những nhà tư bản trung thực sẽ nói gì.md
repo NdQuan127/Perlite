@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 up:
-  - "[[Marxism MOC]]"
+  - "[[../Maps/Marxism MOC]]"
 tags:
   - marxism
 ---
 ## Louis Althusser 
 
-![[Pasted image 20231016234404.png]]
+![[../Utilities/Images/Pasted image 20231016234404.png]]
 - Ngày 16/10, vào năm 1918, Louis Althusser ra đời. Ông là một trong những đại biểu tiêu biểu nhất của chủ nghĩa Marx ở Pháp, sau thế hệ của những Henry Lefebvre, Auguste Cornu. 
 
 - Những đóng góp của ông đối với chủ nghĩa Marx lớn đến mức, *trường phái của ông - sự kết hợp giữa chủ nghĩa Marx-Lenin với lý thuyết cấu trúc luận* - đã trở thành xu hướng học thuật phổ biến nhất của Tây Âu lúc đó, đối chọi với lý thuyết phê phán của phái Frankfurt. 
@@ -57,4 +57,4 @@ Nhưng, nếu ta nhìn kỹ hơn vào cuộc chiến phòng ngừa mà những n
 
 Nếu thế thì cuộc chiến ở đâu? Nó ở chỗ khác: giữa tư bản và công nhân. Giai cấp tư bản sử dụng cạnh tranh để liên tục tìm kiếm lợi nhuận cao hơn, thay vì hài lòng với lợi nhuận hiện tại - nhưng đằng sau sự cạnh tranh đó, thứ Marx gọi là một "ảo ảnh", giai cấp tư sản đã tiến hành một cuộc chiến thực sự lên giai cấp công nhân. Bởi vì, cuối cùng, nếu xét đúng nghĩa của nó, lý thuyết chiến tranh phòng ngừa này cho thấy rằng việc ngăn chặn, nếu được thực hiện tốt, sẽ giúp cuộc chiến của tất cả những nhà tư bản chống lại nhau sẽ không xảy ra; nó cho thấy rằng giai cấp công nhân phải chịu toàn bộ hậu quả của những biện pháp phòng ngừa này, rằng việc ngăn chặn chiến tranh giả tạo giữa các nhà tư bản lại là một cuộc chiến tranh thường trực và vĩnh cửu chống lại giai cấp công nhân. Trong đó, cuộc chiến tranh này không phải mang tính phổ quát, một cuộc chiến tranh của tất cả chống lại tất cả, như Hobbes tuyên bố; đó là cuộc chiến tranh của giai cấp tư bản chống lại giai cấp công nhân. Vì vậy, cuộc chiến tranh mà giai cấp tư bản tiến hành chống lại giai cấp công nhân đơn giản chỉ cho phép các nhà tư bản sống trong hòa bình. Chúng ta đã hiểu nhầm về bản chất thực sự của xung đột. Chúng ta đã nhầm tưởng cạnh tranh là một hình thức chiến tranh, nhưng không phải. Cuộc chiến tranh thực sự ở đây là đấu tranh giai cấp, và chúng ta đã quên nó mất rồi.
 
-![[393278529_298065812990395_8620200488325452270_n.jpg]]
+![[../Utilities/Images/393278529_298065812990395_8620200488325452270_n.jpg]]

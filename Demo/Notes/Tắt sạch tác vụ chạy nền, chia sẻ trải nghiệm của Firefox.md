@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Firefox MOC]]"
+  - "[[../Maps/Firefox MOC]]"
 tags:
   - "#on/firefox"
 dg-publish: true

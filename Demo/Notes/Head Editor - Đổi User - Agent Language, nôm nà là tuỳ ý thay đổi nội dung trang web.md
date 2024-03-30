@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 up:
-  - "[[Firefox MOC]]"
+  - "[[../Maps/Firefox MOC]]"
 tags:
   - on/firefox
 ---
@@ -11,7 +11,7 @@ tags:
 
 ## Cách ép Youtube Mobile chạy trên Firefox
 
-![[Pasted image 20231011202144.png]]
+![[../Utilities/Images/Pasted image 20231011202144.png]]
 > UA: `Mozilla/5.0 (Android 12; Mobile; rv:109.0) Gecko/113.0 Firefox/113.0`
 
 ## Disable Hovering to play of Youtube
@@ -27,7 +27,7 @@ for (const a in val) {
 }
 ```
 
-![[Pasted image 20231011202745.png]]
+![[../Utilities/Images/Pasted image 20231011202745.png]]
 
 ## Cách ép *trang web nào đó* phải lòi link ra cho MPV thịt
 - Hướng dẫn:  

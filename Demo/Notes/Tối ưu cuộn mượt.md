@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 up:
-  - "[[Firefox MOC]]"
+  - "[[../Maps/Firefox MOC]]"
 tags:
   - on/firefox
 ---
@@ -22,7 +22,7 @@ Khoảng thời gian từ khi cuộn mượt cho tới khi kết thúc, thay đ�
 Nghĩa là để tăng độ mượt mà thì tăng `durationMaxMS`, giảm `durationMinMS` còn nếu mượt quá gây cảm giác khó chịu thì giảm và tăng.  
   
 Tắt cuộn theo pixel, nghĩa là sẽ cuộn theo % của màn hình trang web 
-(Nguồn: [736251 - smooth wheel precise scrolling isn't very responsive ](https://bugzilla.mozilla.org/show_bug.cgi?id=736251#c19)):  
+(Nguồn: [[https://bugzilla.mozilla.org/show_bug.cgi?id=736251#c19]]):  
 
 |   |   |
 |---|---|

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Expose Books and Authors MOC]]"
+  - "[[../Maps/Expose Books and Authors MOC]]"
 dg-publish: true
 tags:
   - "#on/books"

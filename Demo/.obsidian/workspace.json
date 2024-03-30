@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Addon External Application.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps/Bí thuật MOC.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Addon External Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Addon External Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +137,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notes/Addon External Application.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,32 +160,32 @@
   },
   "active": "9e3bc554e53cf0cf",
   "lastOpenFiles": [
-    "Notes/Yuval Noal Harari 1 Nhà khoa học dân túy.md",
-    "Notes/Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”.md",
-    "Notes/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey.md",
-    "Notes/Usercript mở video trên youtube bằng cách click vào thumbnail.md",
-    "Notes/uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư.md",
-    "Notes/Từ điển about config để go pro.md",
-    "Notes/Tổng hợp về khôi phục dữ liệu.md",
-    "Notes/Tridactyl - Lướt web bằng bàn phím giống Vimium.md",
-    "Notes/Tổng hợp các trang web xem phim online.md",
-    "Notes/Tổng hợp các trang web tải Wallpaper.md",
-    "Notes/Tổng hợp các trang web tải phần mềm Portable.md",
-    "Notes/Tổng hợp các trang web tải phần mềm ngon.md",
-    "Notes/Tổng hợp các trang web tải nhạc chất lượng cao.md",
-    "Notes/Tổng hợp các trang tải file ISO Windows.md",
+    "Notes/Cách nhận Youtube Prenium 4 tháng miễn phí.md",
+    "Notes/CHỦ NGHĨA MARX ĐI VỀ ĐÂU.md",
+    "Notes/Cách xiên Google One XXX Years.md",
+    "Notes/Các ông lớn Google-Facebook-Cloudflare fingerprint (đóng dấu vân tay) các bạn như thế nào.md",
+    "Notes/Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong.md",
+    "Notes/Adobe Photoshop + Remove Tool.md",
+    "Maps/Bí thuật MOC.md",
+    "Maps/Expose Books and Authors MOC.md",
+    "Maps/Nationalism MOC.md",
+    "README.md",
     "Notes/Tổng hợp các trang SMS, Phone verify.md",
-    "Notes/Tổng hợp các trang giveaway phần mềm bản quyền.md",
-    "Notes/Tổng hợp các trang AI hữu ích.md",
-    "Notes/Tổng hợp các group chất trên Telegram.md",
-    "Notes/Tổng hợp các phần mềm từ Microsoft Store.md",
-    "Notes/Tối ưu DNS.md",
-    "Notes/Tối ưu cuộn mượt.md",
     "Notes/Tôi sẽ tát vô mặt bạn và hét lên rằng Marxism VÔ TỘI.md",
-    "Notes/Thư viện Udemy của Nghiện +.md",
-    "Notes/Tin trà đá.md",
-    "Notes/THẾ GIỚI TIỀN SCI-HUB.md",
     "Notes/Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox.md",
+    "Notes/Tổng hợp các trang giveaway phần mềm bản quyền.md",
+    "Notes/Addon External Application.md",
+    "Pasted image 20230902230709.md",
+    "Notes/Pasted image 20230902230709.md",
+    "Notes/Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó.md",
+    "Notes/Các bản mod ngon của Firefox.md",
+    "Notes/All Tomorrows verse- C.M Kosemen (Memo Ramjet).md",
+    "Notes/Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô.md",
+    "Notes/Các thể loại quan trọng của Sci-Fi.md",
+    "Notes/Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844.md",
+    "Notes/1001 câu hỏi về Testflight của Apple.md",
+    "Notes/Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,....md",
+    "Notes/Tổng hợp các trang AI hữu ích.md",
     "Utilities/Images/X.drawio1.png",
     "Utilities/Images/X.drawio.png",
     "Utilities/Images/X.drawio 1.png",

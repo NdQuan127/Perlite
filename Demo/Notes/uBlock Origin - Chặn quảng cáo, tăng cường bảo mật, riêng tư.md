@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 up:
-  - "[[Firefox MOC]]"
+  - "[[../Maps/Firefox MOC]]"
 tags:
   - on/bt_chiase
 ---
@@ -29,5 +29,5 @@ Cũng như tăng cường sự riêng tư vì các tracker bị chặn luôn, kh
 
 > **Cách thêm filter:**
 
-![[Pasted image 20230901161211.png]]
+![[../Utilities/Images/Pasted image 20230901161211.png]]
 

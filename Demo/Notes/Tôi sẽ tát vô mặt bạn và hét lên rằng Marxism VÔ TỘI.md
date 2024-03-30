@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Marxism MOC]]"
+  - "[[../Maps/Marxism MOC]]"
 related: 
 created: 22-03-2024
 tags:

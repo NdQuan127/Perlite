@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Firefox MOC]]"
+  - "[[../Maps/Firefox MOC]]"
 related: 
 created: 28-02-2024
 tags:
@@ -36,11 +36,11 @@ Có 3 bộ autoconfig để load userChromeJS đáng chú ý là:
 	- Open Profile Folder
 	- Vào thư mục `chrome`
 	- Vào thư mục `JS`
-	- Vào [https://github.com/aminomancer/uc.css.js#extension-options-panel](https://github.com/aminomancer/uc.css.js#extension-options-panel)
+	- Vào [[https://github.com/aminomancer/uc.css.js#extension-options-panel](https://github.com/aminomancer/uc.css.js#extension-options-panel]]
 	- Tải thẳng vào folder `JS` bên trên
 	- Save
 
-Khởi động lại là xong (tốt nhất là dùng `about:support` -> `Clear startup cache...` để Firefox đào thải cache cũ khiến Loader không nạp được), kết quả y như sau: ![[Pasted image 20240228212359.png]]
+Khởi động lại là xong (tốt nhất là dùng `about:support` -> `Clear startup cache...` để Firefox đào thải cache cũ khiến Loader không nạp được), kết quả y như sau: ![[../Utilities/Images/Pasted image 20240228212359.png]]
 
 ## MouseGesture
 Lướt web bằng chuột xịn hịn nhất quả đất, có thể sử dụng được trên cả những trang mà addon có chức năng tương đương khác không dùng được.

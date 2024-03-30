@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 up:
-  - "[[Marxism MOC]]"
+  - "[[../Maps/Marxism MOC]]"
 tags:
   - marxism
 ---

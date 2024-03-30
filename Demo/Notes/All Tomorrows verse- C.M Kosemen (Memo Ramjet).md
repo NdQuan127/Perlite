@@ -21,7 +21,7 @@ Về một vũ trụ tuy không mới nhưng có thể sẽ là Content chính t
 - Có thể bạn không biết: Cái tên All Tomorrows theo tác giả Kosemen cũng mang một ý nghĩa rất lớn và sâu sắc về chính con người chúng ta ngoài đời thật. Ngoài nhiều điểm tương đồng với Mythos như Lore khá dị thì đây cũng là lý do chính khiến tôi với ông Raisa có động lực thực hiện một Series Off Topic tóm lược thế giới của Kosemen trong tương lai. Hiện tại đã viết được 4 bài rồi, còn bao giờ Post thì chưa biết được.
 
 -Pottgen
-![[357124216_580574590927491_1235125262682561423_n.jpg]]
+![[../Utilities/Images/357124216_580574590927491_1235125262682561423_n.jpg]]
 _______
 
 ## Lịch sử chung của vũ trụ All Tomorrows
@@ -79,7 +79,7 @@ ______
 -Raisa
 
 -Pottgez
-![[Pasted image 20231019085245.png]]
+![[../Utilities/Images/Pasted image 20231019085245.png]]
 
 ### Qu, cuộc chiến tử thủ Milky way và sự sụp đổ của loài người.
 > C.M Kosemen.
@@ -113,7 +113,7 @@ _________
 -Raisa
 
 -Pottgen
-![[359100434_587380333580250_8224015302228850849_n.jpg]]
+![[../Utilities/Images/359100434_587380333580250_8224015302228850849_n.jpg]]
 
 ## Câu chuyện về các Post Human trước thời kỳ chuyển giao
 ### ![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Mantelopes - 1 câu chuyện buồn
@@ -129,7 +129,7 @@ _________
 - Khi cơn hấp hối của giống loài này dần qua đi theo các làn sóng tiến hóa có chọn lọc, thì đó cũng là lúc họ dần đánh mất chính phần NGƯỜI bên trong mình. Não bộ vốn là một nơi tiêu tốn rất nhiều năng lượng của cơ thể, nếu không được sử dụng tốt, nó sẽ không phát triển thêm nhằm bù đắp cho những cơ quan khác. Nói một cách dễ hiểu, một cá thể Mantelope đần độn, thoái hóa về mặt trí tuệ thường sẽ lớn nhanh hơn, khỏe mạnh hơn và sinh tồn tốt hơn hơn một Mantelopes thông minh. Và điều này nhìn chung đã khiến cho mọi thứ dần tệ đi cứ mỗi lần một thế hệ mới được sinh ra.
 
 - Chỉ trong vòng chưa đầy 100.000 năm, thế giới u sầu của họ dần chìm vào im lặng vĩnh viễn, khi không còn bất kỳ khúc ca nào được cất lên nữa…
-![[358683433_589883349996615_758157700221974442_n.jpg]]
+![[../Utilities/Images/358683433_589883349996615_758157700221974442_n.jpg]]
 
 ### ![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png) Colonial, câu chuyện của những con người kiên cường nhất
 
@@ -145,7 +145,7 @@ Tuy nhiên, nghịch lý thay, chính những cơ thể đơn giản đó lại 
 
 Khi không còn bị kiểm soát, các Colonial dần lan rộng ra như những "cánh đồng thịt người" trải rộng khắp bề mặt hành tinh. Sau hàng tỷ thế hệ, sau hàng trăm tỷ cuộc đời bị tra tấn vĩnh viễn không ngừng. Những "cao nguyên nhân loại" này giờ đây cuối cùng cũng có thể cảm nhận được những thứ mà họ gọi là tự do, là hy vọng, là ánh sáng nơi cuối đường hầm...
 -Pottgen
-![[361654429_592141416437475_3621315207255741816_n.jpg]]
+![[../Utilities/Images/361654429_592141416437475_3621315207255741816_n.jpg]]
 
 ### ![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png) Ruin Haunter, câu chuyện của những kẻ kế thừa Nhân loại
 
@@ -160,7 +160,7 @@ Khi không còn bị kiểm soát, các Colonial dần lan rộng ra như nhữn
 - Tuy nhiên, có một vấn đáng lưu tâm là họ chỉ đơn thuần sao chép các thành tựu một cách mù quáng mà thậm chí còn không thể hiểu hết được chúng. Và điều này nhìn chung đã gây nên áp lực rất lớn đến các trúc chính trị và xã hội của họ, những thứ vốn đã không đủ vững chắc để có thể thích nghi trước các bước tiến vũ bão của công nghệ...
 
 - Hệ quả tất yếu là 5 cuộc Đại chiến thế giới liên tiếp đã nổ ra, với 2 trong số đó là chiến tranh hạt nhân toàn diện gần như tàn phá toàn bộ hành tinh. Tưởng chừng như mọi chuyện đã kết thúc tại đây thì… thực tế không phải vậy, câu chuyện những kẻ này chỉ vừa mới bắt đầu.
-![[364161063_598595225792094_5218838608225151828_n.jpg]]
+![[../Utilities/Images/364161063_598595225792094_5218838608225151828_n.jpg]]
 
 ### ![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png) Spacer, câu chuyện kỳ lạ về cuộc sống của những thế hệ du mục
 
@@ -177,7 +177,7 @@ Khi không còn bị kiểm soát, các Colonial dần lan rộng ra như nhữn
 - Mặc dù những thí nghiệm như vậy vẫn thường dẫn đến thất bại không đáng có. Nhưng chúng ít nhiều cũng đã thành công trong việc định hình lại hướng đi của nhân loại trong tương lai. Tự phong ấn bản thân trong những "thiên đường" không trọng lực có kích thước bằng cả mặt trăng. Nơi mà họ và cả con cháu họ vẫn tiếp tục cuộc hành trình và xoay sở để tránh khỏi tai mắt của Qu trong suốt hàng chục triệu năm sau đó.
 
 - Ngay cả khi Qu đã rời đi, vì nhận thấy mình giờ đây đã quá khác biệt để có thể quay về với lối sống của tổ tiên. Con cháu của những kẻ du mục này đã quyết định ở lại trong không gian vĩnh viễn, không bao giờ trở lại bất kỳ hành tinh nào nữa.
-![[365417849_601764122141871_1494875517045931749_n.jpg]]
+![[../Utilities/Images/365417849_601764122141871_1494875517045931749_n.jpg]]
 
 ### ![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Insectophagi  
   
@@ -188,7 +188,7 @@ Hầu hết những kẻ này đều đã tuyệt chủng và bị lãng quên b
 Insectophagi chính là một loài như vậy, những sinh vật đã lặng lẽ thích nghi với một chế độ ăn côn trùng và động vật nhỏ trong suốt hàng triệu năm. Với bàn tay giờ đây cũng chỉ để đào bới và một chiếc lưỡi xúc tu được dùng để bắt sâu bọ. Nói chung là… Insectophagi không hề có bất kỳ một đặc điểm đặc biệt cụ thể nào ngoại trừ việc họ cực kỳ MAY MẮN, trước những sự kiện ngẫu nhiên đủ sức thay đổi số phận của hầu hết các chủng loài "anh em" khác của họ trong khắp thiên hà.  
   
 Không đùa đâu, những "kẻ nhu mì" này thực sự sẽ là những kẻ sống sót đến cuối cùng và cũng là người sẽ kế thừa di sản của Nhân loại. Nhưng… chưa phải lúc này, bởi vào thời điểm hiện tại, Insectophagi vốn cũng chỉ đang quan tâm đến vị trí của các đàn côn trùng và sự khởi đầu của một mùa giao phối mới…
-![[366283526_605465831771700_4667427825705837393_n.jpg]]
+![[../Utilities/Images/366283526_605465831771700_4667427825705837393_n.jpg]]
 
 ### ![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Lopsider  
   
@@ -201,7 +201,7 @@ Thật sự mà nói thì những thứ này trông giống như những con ng�
 Trên cái đầu bẹp rúm của họ thông thường sẽ có 2 con mắt lồi chỉa về 2 phía khác nhau, một hướng lên trên và một hướng về phía trước, tiếp giáp với một khuôn hàm mở ra theo chiều dọc. Trong khi đó, 3 trong số 4 chi của họ hiện tại cũng đã biến đổi để trở thành các cơ quan được dùng để bò, với cánh tay thuôn dài mảnh khảnh còn lại thì lại được dùng như một chi cảm biến phụ (tương tự râu của các loài côn trùng).  
   
 Mặc dù trông rất quái dị, nhưng những "con người" này vẫn luôn cố gắng để sinh tồn và phát triển trong cái thế giới đáng nguyền rủa của họ, trước khi có thể thành công tiến hóa thành hàng chục loài khác nhau và bắt đầu len lỏi đến mọi ngóc ngách của hành tinh, củng cố thêm cho cơ hội lấy lại tri giác của loài người
-![[366352618_605465821771701_3304604708202036443_n.jpg]]
+![[../Utilities/Images/366352618_605465821771701_3304604708202036443_n.jpg]]
 
 ### ![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Swimmer.  
   
@@ -212,7 +212,7 @@ Những nhóm động vật dạng cá này ngày nay nhìn chung vẫn mang r�
 Trong hàng thiên niên kỷ, những sinh vật này vẫn tung tăng bơi lội ở các đại dương và những hệ sinh thái còi cọc của họ, săn đuổi vô số các loài cá và động vật giáp xác đa dạng có nguồn gốc từ các nguồn thực phẩm đến từ Trái đất năm xưa. Tuy nhiên, quá trình phát triển tri giác của loài này liên tục bị khựng lại bởi họ phải dành quá nhiều thời gian để thích nghi trước những con mồi mới, những kẻ mà giờ đây đã tiến hóa thêm các biện pháp đối phó phòng thủ như áo giáp, gai nhọn hoặc chất kịch độc.  
   
 Mặc dù tương lai vẫn còn rộng mở đón chào họ, nhưng quả thực còn lâu giống loài này mới được nếm trải phước lành đó.
-![[366355519_605465895105027_6557984552702320654_n 1.jpg]]
+![[../Utilities/Images/366355519_605465895105027_6557984552702320654_n 1.jpg]]
 
 ### ![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Worm  
   
@@ -221,7 +221,7 @@ Bên dưới ánh sáng khủng khiếp của một ngôi sao từng bị tác �
 Với hình dáng trông như những con giun phát triển quá mức và nhợt nhạt, chỉ dài hơn cánh tay của người trưởng thành một chút. Ít ai mà ngờ được rằng những sinh vật này lại là những hậu duệ cuối cùng còn sót lại của con người trên trên hành tinh đó, bị bóp méo đến mức không thể nhận ra sau hàng loạt các thí nghiệm di truyền của Qu trong quá khứ.  
   
 Những bàn tay và bàn chân nhỏ bé của chúng giờ đây chỉ có thể dùng để đào bới, trong khi mọi cơ quan khác đều đã được đơn giản hóa sao cho phù hợp với cuộc sống bên dưới lòng đất, với mắt nhỏ như kim châm, hoàn toàn thiếu răng, thính giác và nửa còn lại của hệ thần kinh. Cũng vì lẽ này mà trong suốt cuộc đời của mình, chúng chỉ biết đào xới không mục đích, ăn thịt lẫn nhau và sinh sản không ngừng nghỉ, như một cách để bảo tồn những phần nhân tính còn sót lại trong gen của mình.
-![[366357818_605465955105021_7113696718619178128_n.jpg]]
+![[../Utilities/Images/366357818_605465955105021_7113696718619178128_n.jpg]]
 
 ### ![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png) Lizard Herder  
   
@@ -234,7 +234,7 @@ Trong suốt nhiều nghìn năm sau đó, dựa theo những bản năng còn s
 Tuy nhiên, sự cân bằng hỗ sinh này lại không thể duy trì được lâu và nhanh chóng bị phá vỡ khi khí hậu của hành tinh này ngày càng ấm lên, mang lại cho các loài bò sát một lợi thế rất lớn khi chúng đã có thể tự do phát triển và tiến hóa ra vô số loài mới mà không gặp bất kỳ một trở ngại nào.  
   
 Đối mặt với sự thay đổi nhanh đến chóng mặt từ phía những "đồng hương". Con cháu của các Star People hùng mạnh giờ đây cũng chỉ biết lặng lẽ ngắm nhìn thế giới đang thay đổi của họ với một đôi mắt vô hồn, ngày càng lún sâu vào vũng lầy thú tính mà không bao giờ có thể thoát ra được nữa
-![[366322387_605466021771681_8953548479841396250_n.jpg]]
+![[../Utilities/Images/366322387_605466021771681_8953548479841396250_n.jpg]]
 
 ### ![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Predator  
   
@@ -243,7 +243,7 @@ Những kẻ săn mồi đã tiến hóa rất phổ biến trong thế giới h
 Ngoài bàn tay tua tủa những móng vuốt sắc như dao cạo có thể dễ dàng xé xác nạn nhân trong chớp mắt. Thì chúng còn có một bộ hàm luôn há hốc, đầy răng chễm chệ trên một cái đầu không cân đối, cùng một đôi tai lớn và vô cùng nhạy bén. Tất cả những thứ này đều được sinh ra chỉ với một mục đích biến chúng thành những kẻ săn mồi thống trị hành tinh trong suốt nhiều thiên kỷ sau khi Qu rời đi  
   
 Predator luôn có thói quen chạy nhảy khắp các thảo nguyên, rình rập trong các khu rừng và băng qua từng ngọn núi chỉ để truy đuổi những "con mồi" của chúng, một loài Hậu nhân khác kém phát triển hơn với đôi chân giống chim.
-![[366323516_605466071771676_5657130146544630534_n.jpg]]
+![[../Utilities/Images/366323516_605466071771676_5657130146544630534_n.jpg]]
 
 ### ![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Hedonist  
   
@@ -258,7 +258,7 @@ Mặc dù điều này nhìn chung đã có thể giải quyết được vấn 
 May mắn thay, mô hình xã hội thu nhỏ của những sinh vật này vẫn đủ ổn định và không bị ảnh hưởng quá nhiều bởi các thảm họa môi trường trên thế giới của chúng, ngay cả khi không còn được Qu che chở  
   
 Nhưng... những vấn đề nêu trên có thật sự quan trọng không? Tại sao lại phải suy nghĩ đắn đo khi chúng ta đang có một khoảng thời gian vui vẻ đến như vậy chứ?
-![[366595504_605466115105005_6166080439530796912_n.jpg]]
+![[../Utilities/Images/366595504_605466115105005_6166080439530796912_n.jpg]]
 
 ### ![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Finger Fisher  
   
@@ -269,7 +269,7 @@ Trên sinh quyển trống rỗng ban đầu của hành tinh, quá trình tiế
 Trong vòng chưa đầy vài triệu năm, Finger Fishers đã có thể tự khẳng định mình là một loài Hậu nhân cực kỳ nổi bật và triển vọng để phát triển tiếp. Bởi hiếm có một bãi biển nào, một hòn đảo nào hay một cửa sông nào mà không có bóng dáng xanh xao và cao lêu nghêu của họ.  
   
 Tuy nhiên, dù cho có sung mãn đến thế nào đi chăng nữa, thì các Finger Fishers nhìn chung vẫn chẳng khác gì động vật. Và "nhân loại" có vẻ vẫn sẽ là một cụm từ quá xa xỉ đối với giống loài này hiện tại
-![[366283769_605466198438330_1388666620404827900_n.jpg]]
+![[../Utilities/Images/366283769_605466198438330_1388666620404827900_n.jpg]]
 
 ### ![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Parasite  
   
@@ -278,7 +278,7 @@ Trên thực tế, đã từng có có vô số những giống loài Hậu nhâ
 Tuy nhiên, hầu hết những chủng ký sinh này hiện tại đều đã tuyệt chủng vì các vật chủ dần phát triển các biện pháp đối phó như dìm chết, đốt cháy hoặc ăn thịt. Chỉ có một, hoặc hai loài gì đó đã có thể tiếp tục xoay sở với lối sống ký sinh mà không khiến vật chủ của chúng trở nên khó chịu hay gặp nguy hiểm, điều đã đảm bảo cho sự tồn tại lâu dài của chính chúng trong tương lai.  
   
 Xét theo nhiều khía cạnh, các mối quan hệ đơn phương hoàn toàn rất hiếm khi tồn tại trong bất kỳ hệ sinh thái nào, kể cả tự nhiên hay nhân tạo. Và trong những chu kỳ luân chuyển kéo dài hàng ngàn năm, mối quan hệ ác tính vốn có của 2 giống loài anh em cũng dần dần nhường chỗ cho một thứ gì đó có lợi hơn cho cả đôi bên… sự tương hỗ.
-![[366369507_605466248438325_7985723239501553522_n.jpg]]
+![[../Utilities/Images/366369507_605466248438325_7985723239501553522_n.jpg]]
 
 ### ![🔴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc7/1.5/16/1f534.png)Flyer  
   
@@ -289,7 +289,7 @@ Thật vậy, đã từng có một chủng loài hậu nhân biết bay đượ
 Không cần phải nói, giống loài này chắc chắn sẽ lấy được lại tri giác, không sớm thì muộn. Nhưng trước tiên, họ cần phải thống trị bầu trời trước đã, bởi thế giới của họ vẫn còn quá nguyên sơ và có quá nhiều ngóc ngách vẫn chưa được khám phá.  
   
 Điều chúng ta cần làm hiện tại chỉ là chờ đợi mà thôi…
-![[366313280_605466398438310_3005445303617761476_n.jpg]]
+![[../Utilities/Images/366313280_605466398438310_3005445303617761476_n.jpg]]
 
 ### ![🔵](https://static.xx.fbcdn.net/images/emoji.php/v9/t48/1.5/16/1f535.png)Strider  
   
@@ -302,7 +302,7 @@ Thông thường, người ta cũng có thể nhìn thấy CHÚNG, những bóng
 Mặc dù hùng vĩ, nhưng những bóng ma Giacometti này lại mỏng manh đến mức mà ngay cả trong thế giới dễ chịu về lực hấp dẫn này, chỉ một cú ngã bình thường thôi là cũng đủ để khiến chúng gãy xương. Và thậm chí là chỉ cần một cơn gió mạnh thôi cũng đã có thể quật ngã chúng như quật ngã những cột buồm. Lý do mà những thứ này lại có thể sống sót sau 40 triệu năm hoàn toàn là nhờ vào sự yên bình trong "khu vườn địa đàng" của chúng, thứ mà dường như đang một có sự biến chuyển lớn.  
   
 Khoảng 2 triệu năm sau khi Qu rời đi. Một thế hệ những sinh vật thống trị mới đã bắt đầu tiến hóa từ các loài gia cầm hoang dã trên mặt trăng này. Giống như những phiên bản suy yếu của tổ tiên khủng long của chúng, những kẻ săn mồi này đã quét qua từng khu rừng như những đám cháy rừng, dập tắt bất kỳ loài nào mà chúng gặp, những kẻ quá yếu ớt để có thể trốn thoát hoặc chống cự lại. Và Strider cũng không phải ngoại lệ, họ là kẻ tuyệt chủng đầu tiên
-![[366307626_605466471771636_3104507521655926352_n.jpg]]
+![[../Utilities/Images/366307626_605466471771636_3104507521655926352_n.jpg]]
 
 ### ![🔵](https://static.xx.fbcdn.net/images/emoji.php/v9/t48/1.5/16/1f535.png)Temptor  
   
@@ -315,7 +315,7 @@ Kết hợp các tín hiệu giọng nói và Phermonal, những cá thể cái 
 Đó rõ ràng là một dấu hiệu chắc chắn rằng những sinh vật này có thể sẽ tạo ra một xã hội mẫu hệ nguyên thủy mới trong một vài thế kỷ nữa, nếu chúng có thể lấy lại tri giác hoặc… không bị số phận an bài…  
   
 Khi một sao chổi đi ngang vô tình va chạm với thế giới của Temptor, nó đã quét sạch gần như toàn bộ sự sống trên hành tinh này. Một trong những cơ hội tái xuất hiếm hoi của Nhân loại đã bị cuốn đi một cách vô cùng tàn nhẫn.
-![[366282785_605466461771637_8319395741373829467_n.jpg]]
+![[../Utilities/Images/366282785_605466461771637_8319395741373829467_n.jpg]]
 
 ### ![🔵](https://static.xx.fbcdn.net/images/emoji.php/v9/t48/1.5/16/1f535.png)Titan  
   
@@ -324,7 +324,7 @@ Trên những thảo nguyên bạt ngàn vô tận của một tiền đồn thu
 Với những "chiếc vòi" khéo léo phát triển từ phần môi dưới của mình thay cho những cánh tay đã biến mất. Các Titan giờ đây đã chạm khắc ra những bức phù điêu vô cùng tinh tế, dựng nên những ngôi nhà khổng lồ có mái vòm và thậm chí là bắt đầu các hình thức canh tác nông nghiệp mới. Khi cuộc sống dần ổn định, họ lại tiếp tục sáng tạo ra ngôn ngữ và vẫn miệt mài xây dựng nên một nền văn hóa cho riêng mình. Thông qua những câu chuyện thần thoại và truyền thuyết về những thời kỳ đã qua, thứ mà luôn được các bậc trưởng lão kể bằng một chất giọng oang oang vang vọng khắp các vùng đồng bằng rộng lớn.  
   
 Dễ dàng nhận thấy rằng trong vòng vài trăm nghìn năm nữa, Nhân loại có thể sẽ lại bắt đầu với những sinh vật nguyên thủy vĩ đại này. Tuy nhiên, đáng buồn thay, một kỷ nguyên băng hà thảm khốc đã bất ngờ ập đến thế giới quê hương của các Titan, khiến những gã khổng lồ hiền lành này hoàn toàn bị tuyệt diệt…
-![[366366293_605466648438285_6786149264768583432_n.jpg]]
+![[../Utilities/Images/366366293_605466648438285_6786149264768583432_n.jpg]]
 
 ### ![🔵](https://static.xx.fbcdn.net/images/emoji.php/v9/t48/1.5/16/1f535.png)Bone Crusher  
   
@@ -335,7 +335,7 @@ Thật sự để mà nói thì… những thứ này giống như đã chui ra 
 Sau khi Qu rời đi, để tránh rơi vào số phận bị tuyệt chủng như hầu hết các đồng loại của mình, một số loài mạnh mẽ nhất trong nhánh đã kịp thích nghi và tiếp tục tiến hóa trong suốt nhiều triệu năm sau đó, nhằm lấp đầy các hốc sinh thái còn trống trong "khu vườn địa đàng" của chúng. Nơi mà mỗi loài giờ đây đều có cho mình một dạng "mỏ" chuyên biệt cho việc sinh tồn. Từ sàng lọc đầm lầy bằng những chiếc mỏ "cò quăm" cho đến bẻ xương động vật đã chết bằng những chiếc mỏ cứng cáp hơn như ở Bone Crusher...  
   
 Bất chấp những thiếu sót cơ bản của mình, những sinh vật ăn xác thối này thực tế lại một trong những chủng loài Hậu nhân đầu tiên trong thiên hà lấy lại được tri giác ở mức độ nguyên thủy nhất. Tuy nhiên, cuối cùng, sự phụ thuộc của chúng vào một nguồn thức ăn không phải lúc nào cũng sẵn có đã dẫn đến việc dân số của chúng gần như không thể gia tăng trong một khoảng thời gian dài. Và những nền văn minh trung cổ mới nổi này gần như đã sụp đổ chỉ sau một vài thiên niên kỷ phát triển
-![[366718610_605466638438286_6184120456723351050_n.jpg]]
+![[../Utilities/Images/366718610_605466638438286_6184120456723351050_n.jpg]]
 
 ### ![🔵](https://static.xx.fbcdn.net/images/emoji.php/v9/t48/1.5/16/1f535.png)Hand Flappers  
   
@@ -344,7 +344,7 @@ Không giống như Flyer, một số chủng Hậu nhân biết bay khác trong
 Đôi cánh của họ, thứ từng được dùng để chao lượn trong những khu vườn kỳ dị của Qu nay đã bị thu nhỏ đến mức khó có thể nhận ra, tương xứng với đôi chân vốn yếu ớt cũng gặp phải tình trạng tương tự. Thoạt nhìn những thay đổi này trông có vẻ khá vô hại, nhưng thực tế chúng lại là một lỗ hổng rất lớn đã ngăn cản họ có thể phát triển nền văn minh.  
   
 Thông thường, đôi cánh phụ này sẽ rất hữu ích trong các điệu nhảy báo hiệu nguy hiểm và giao phối. Nhưng chúng lại hoàn toàn vô dụng khi không thể sử dụng để cầm nắm, xây dựng nơi trú ẩn hoặc thậm chí là tạo ra các các công cụ bằng đá cơ bản nhất. Tất cả những gì mà các Hand Flapper có thể làm với những cánh vô dụng của mình giờ đây là… thể hiện khả năng tình dục với nhau, nhấp nháy và nhảy nhót cho đến khi giống loài của họ hoàn toàn rơi vào quên lãng
-![[366348253_605466731771610_8732684137723454351_n.jpg]]
+![[../Utilities/Images/366348253_605466731771610_8732684137723454351_n.jpg]]
 
 ### ![🔵](https://static.xx.fbcdn.net/images/emoji.php/v9/t48/1.5/16/1f535.png)Blind Folk  
   
@@ -355,7 +355,7 @@ Thật sự để mà nói thì những nơi trú ẩn này hiện tại đã tr
 Các Blind Folk, hậu duệ của con người giờ đây vốn cũng là một phần của thế giới này, nơi mà họ thường tìm kiếm thức ăn bên dưới đáy hang bằng cách sử dụng những ngón tay dài, đôi tai lớn và râu ria để định hướng trong bóng tối vĩnh viễn, thay cho đôi mắt giờ đây đã hoàn toàn tiêu biến trên khuôn mặt của mình.  
   
 Nhìn chung, sự thích nghi của Blind Folk với thế giới này mạnh mẽ đến mức nó… dường như đã xóa nhòa đi mọi đặc điểm cơ bản nhất về khả năng nhận thức thế giới của họ, ngăn cản họ lấy lại trí thông minh để có thể bò ra khỏi hầm mộ của chính mình. Trước khi sự co thắt của các mảng lục địa lần lượt bóp nát những "khu vườn địa đàng" này một cách tàn nhẫn, nơi mà ánh sáng có lẽ không bao giờ chạm tay đến được.
-![[366269683_605466915104925_175172069225441267_n.jpg]]
+![[../Utilities/Images/366269683_605466915104925_175172069225441267_n.jpg]]
 
 ### Lời kết
 "Nếu chúng ta xem tất cả là một phần của lịch sử loài người, thì thời kỳ hậu kỷ nguyên cai trị của Qu sẽ được ví như một khoảng thời gian tăm tối nhất trong tất cả. Tuy nhiên, giống như hầu hết những "thời kỳ tăm tối" khác từng diễn ra trong lịch sử chúng ta, chúng cũng sẽ kết thúc vào một lúc nào đó."
@@ -389,7 +389,7 @@ Nguồn gốc từ những Predator dường như cũng đã mang lại cho K.il
 Mọi sự hỗn loạn này sau đó đã nhanh chóng bị dẹp bỏ với sự xuất hiện của các cuộc cách mạng công nghiệp mới, thời điểm mà một số vùng lãnh thổ cuối cùng cũng đã lên kế hoạch xây dựng các mạng lưới nhà máy theo kiểu công nghiệp. Theo sau là các cơ cấu nhà nước có tổ chức, chủ nghĩa thế tục và sự nhảy vọt không hồi kết của công nghệ.
 
 Chắc chắn rồi, phát triển theo hướng này sẽ phân cực thế giới thành nhiều phe phái khác nhau. Trong khi nhiều bên lên án những lối sống cũ kỹ, thú vật thì thì bên còn lại đón nhận chúng với một sự cuồng nhiệt đến mù quáng. Sự gay gắt của phe tiến bộ và sự cứng đầu của phe bảo thủ đã khiến cho con đường tiến tới thống nhất của K.iller Folk dần trở nên xa vời hơn bao giờ hết. Nhưng, may mắn thay, họ vẫn có thể vượt qua được, ngay cả sau khi vận mệnh của giống loài này gần như đã bị đe dọa bởi một cuộc Đại chiến toàn cầu mới.
-![[372049208_615891314062485_6381041814132303693_n.jpg]]
+![[../Utilities/Images/372049208_615891314062485_6381041814132303693_n.jpg]]
 
 ### Bug Facer, những kẻ bài ngoại đáng thương của vòng xoay thời thế .
 > Hậu duệ của Insectophagi
@@ -403,7 +403,7 @@ Tuy nhiên, khi đó đã có một sự kiện không may xảy đến khiến 
 Mặc dù đã bị đánh bại không lâu sau đó, nhưng quân xâm lược dường như đã thành công cấy ghép các hệ động thực vật ngoại lai của chúng trên thế giới này và làm suy yếu sinh quyển vốn đã không đủ ổn định của họ. Quan trọng hơn, chính sự xuất hiện của chúng cũng đã tiêm nhiễm cho Bug Facers một tâm lý bài ngoại vô cùng cực đoan. Đến mức mà giống loài này gần như tự khóa mình bên trong hệ sao của họ và không bao giờ đáp lại bất kỳ một lời kêu gọi hòa bình nào đến từ thế giới bên ngoài, Trớ trêu thay, nỗi sợ hãi và đề phòng này của Bug Facer là hoàn toàn chính đáng và có căn cứ rõ ràng…
 
 Cái tương lai tăm tối mà họ từng lo sợ rồi lại sẽ đến, chắc chắn rồi…
-![[376717124_621434903508126_5436003087587824496_n.jpg]]
+![[../Utilities/Images/376717124_621434903508126_5436003087587824496_n.jpg]]
 
 ### Module Person
 > Hậu duệ của Colonial
@@ -417,7 +417,7 @@ Hầu hết các nhánh Colonial ban đầu này đã có thể tự phát tri�
 Những cuộc "chạy đua vũ trang" sinh học này cuối cùng cũng đã kết thúc với phần thắng hoàn toàn thuộc về bên chủ động, những kẻ mà giờ đây đã có khả năng đồng hóa và đồng bộ tất cả các "mô đun" riêng lẻ khác nhau, kể cả đồng minh lẫn kẻ thù trước kia của họ, góp phần đưa tri giác trở lại thông qua trao đổi ký ức và giúp nó lan rộng ra khắp hành tinh. Module Person cũng chính thức ra đời từ đây.
 
 Mặc dù bản thân người Module hiện tại đã có thể vươn lên là một nền văn minh công nghiệp với các siêu đô thị trải dài khắp hành tinh. Nhưng bản năng và ý chí sinh tồn của họ vẫn không hề thay đổi trong suốt chừng đấy thời gian, không hề lung lay hay suy chuyển cả về tinh thần và văn hóa. Chính cái tình cảnh khốn khổ khốn nạn mà Qu đã tạo ra nhằm trừng phạt họ đã phần nào tạo cơ hội cho những kẻ này thực hiện được một điều mà ngay cả tổ tiên họ cũng không thể làm được. Rằng họ đã thực sự sống trong một thế giới hòa bình, bình đẳng và bác ái đến không tưởng, nơi mọi người đều hạnh phúc khi được trở thành một phần của một khối đoàn kết, thống nhất và vĩ đại.
-![[380528355_626455749672708_2748185031054214293_n.jpg]]
+![[../Utilities/Images/380528355_626455749672708_2748185031054214293_n.jpg]]
 
 ### Asymmetric people  
 > Hậu duệ của Lopsiders  
@@ -431,7 +431,7 @@ Suy cho cùng, sau tất cả thì Lopsider vẫn là con người theo đúng n
 Quy mô phát triển xã hội của các thế hệ Asymptotic ở thế giới mới sau đó nhìn chung cũng mang nhiều nét tương đồng với sự phát triển xã hội của những thế hệ Hỏa tinh năm xưa trước thời đại khai phá. Bắt đầu với một thời kỳ hoàng kim kéo dài hàng thiên niên kỉ cho đến khi căng thẳng nội bộ giữa 2 chủng loài xuất hiện và cuối cùng là chiến tranh liên hành tinh. Tuy nhiên, không giống như những gì mà tổ tiên Hỏa tinh của họ từng trải qua, người Asymmetric sau khi chiến thắng đã thẳng tay d.iệt c.hủng toàn bộ chủng tộc mẹ và vẫn tiếp tục thống trị hệ sao của mình trong suốt nhiều nghìn năm sau đó.  
   
 Cho đến khi những kẻ này lần đầu tiên tìm thấy các tàn tích công nghệ của Qu và Star Person rải rác ở khắp mọi nơi, mở ra một cánh cửa hoàn toàn mới trong hiểu biết của chính họ về không gian sâu thẳm ngoài kia...
-![[385877190_633285795656370_424967777074930684_n.jpg]]
+![[../Utilities/Images/385877190_633285795656370_424967777074930684_n.jpg]]
 
 ### Saurosapiens  
 > Hậu duệ vật nuôi của những kẻ chăn thả thằn lằn  
@@ -445,7 +445,7 @@ Trong vô số các nghiên cứu khảo cổ của mình, người Sauros đã 
 Tương tự như những gì mà Killer Folk và Bug Facer đã từng trải qua trong suốt chặng đường phát triển chông gai của mình. Áp lực cực lớn về những vấn đề trên đã gần như đã bóp méo các nền văn hóa và chính trị non trẻ của Saurosapiens trong suốt vài thế kỷ sau đó. Với một số phe phái đã hoàn toàn phớt lờ đi mọi chuyện và vẫn đắm chìm trong niềm tin tôn giáo giả tạo của họ. Trong khi những kẻ lại thì lại thừa nhận các mối đe dọa tiềm tàng bên ngoài vũ trụ hoặc là vẫn hoang tưởng bản thân với chủ nghĩa bảo thủ thực dụng. Cho đến khi, tất cả đều được khai sáng và thay đổi suy nghĩ sau sự xuất hiện của các giống loài "anh em" khác trong khắp Thiên hà, những người luôn sẵn lòng dang tay giúp đỡ họ đối mặt với khó khăn phía trước.  
   
 Cho đến cuối cùng, cuộc tranh chấp kéo dài hàng thế kỷ đã được giải quyết theo hướng có lợi cho tất cả các bên cấp tiến khi họ đã quyết định mở rộng phạm vi tri thức, ảnh hưởng và hoạt động của mình ra thế giới ngoài kia. Saurosapiens dần trở nên giống "con người" như bất kỳ nền văn minh hậu nhân nào khác còn tồn tại.
-![[385743704_633285842323032_6101680952580471715_n.jpg]]
+![[../Utilities/Images/385743704_633285842323032_6101680952580471715_n.jpg]]
 
 ### Snake people  
 > Hậu duệ của Worm  
@@ -459,7 +459,7 @@ Thoạt nhìn, những kẻ này trông chẳng hề giống gì với những t
 Hầu hết các thành phố hiện đại của Snake People đều là những đường ống dài rối rắm, phân nhánh và rẽ ra vô số hướng, trước khi chúng có thể kết thúc ở vô số các công trình khổng lồ dạng tháp được xây dựng ở khắp mọi nơi. Và mặc dù kiến ​​trúc lối thắt nút này thường thường sẽ khác nhau ở mỗi vùng, nhưng nhìn chung thì những khu định cư này thì lại giống nhau như đúc và trải rộng đến hàng km, chật chội đến mức con người ngày nay gần như không thể di chuyển bên trong chúng. Có một chi tiết cực kỳ đánh chú ý trong toàn bộ cảnh quan là các quảng trường và các khu vực mở bên dưới thường sẽ bị để trống hoàn toàn vì chúng có thể gây cản trở tầm nhìn xung quanh của họ, đặc trưng cho nền tảng tiến hóa với lối sống thảo nguyên đã khiến họ trở thành những kẻ sợ khoảng cách gần.  
   
 Mặc dù có một lối sống tương đối "xa lạ" và "kỳ cục" so với chúng ta, nhưng sau tất cả, họ vẫn là họ. Trên khắp thế giới của họ, các thành phố huyết mạch đều rộn ràng người. Mỗi người đều có niềm vui, có nỗi buồn và công việc riêng của họ. Họ sống cuộc sống như một con người bình thường và như bất kỳ giống loài thông minh nào khác.
-![[385507296_633285898989693_3558794045161005638_n.jpg]]
+![[../Utilities/Images/385507296_633285898989693_3558794045161005638_n.jpg]]
 
 ### Tool breeders  
 > Hậu duệ của swimmer  
@@ -471,7 +471,7 @@ Lửa, nền tảng thiết yếu của một nền văn minh công nghiệp g�
 Hầu hết những sinh vật được Tool Breeders thuần hóa đều đã được họ điều chỉnh và chọn lọc vô cùng kỹ càng nhằm dựng nên một bản đồ chi tiết về việc sử dụng chúng trong nhiều lĩnh vực khác nhau. Như chăn nuôi, y tế, xây dựng, thực phẩm và thậm chí là cả khám phá vũ trụ đều sử dụng công nghệ sinh học di truyền tiên tiến làm chủ đạo. Đến mức mà chỉ cần một thao tác đơn giản thôi như nuôi cấy mô và tế bào gốc là đã có thể giải quyết mọi vấn đề hiện tại.  
   
 Sau khi chinh phục hoàn toàn được thứ công nghệ vĩ đại đã từng thay đổi số mệnh của chính họ và cả tổ tiên họ năm xưa. Các Tool Breeders đã bắt đầu lan tỏa ra khắp thế giới và mọi vùng đất chưa được khai phá của hành tinh, vẫn tiếp tục khám phá và phát triển không ngừng. Để tìm kiếm các bằng chứng chứng minh nguồn cội của bản thân và nuôi dưỡng ước mơ quay trở về với vũ trụ.
-![[385733931_633285935656356_1196503741566453661_n.jpg]]
+![[../Utilities/Images/385733931_633285935656356_1196503741566453661_n.jpg]]
 
 ### Pterosapiens  
 > Hậu duệ của Flyer  
@@ -487,7 +487,7 @@ Mặc dù cuộc sống hiện tại của họ đã đủ ổn định và đ�
 Một Pterosapien trưởng thành khi 2 tuổi, trung niên ở tuổi 16 và thường chết ở tuổi 20 nếu xét theo tiêu chuẩn con người bình thường. Vòng luẩn quẩn này luôn diễn ra liên tục, luôn khiến họ trân trọng từng khoảnh khắc diễn ra trong suốt cuộc đời của mình và suy ngẫm rất nhiều về nó với một cường độ vô cùng mãnh liệt. Đến mức mà một kệ sách giấy của các nhà hiền triết Pterosapien thôi chắc chắn cũng đủ để khiến bất kỳ thư viện nào của con người từng tồn tại phải ghen tị. Hơn nữa, ở chính các thành phố lớn của họ, cuộc sống thường nhật vẫn thường bùng lên với một tốc độ phi thường, vội vã trong thoáng qua như một cái chớp mắt ngắn ngủi của thời gian.  
   
 Họ thật sự là những thiên thần với *trái tim yếu ớt*.
-![[383984004_633285998989683_5888846638064612484_n.jpg]]
+![[../Utilities/Images/383984004_633285998989683_5888846638064612484_n.jpg]]
 
 ### Symbiotes  
 > Hậu duệ của Parasite  
@@ -503,7 +503,7 @@ Trong những khu rừng hẻo lánh của một lục địa xa xôi đã từn
 Ban đầu, mối quan hệ này giống như một con ngựa và một người cưỡi ngựa. Nhưng chỉ sau vài trăm nghìn năm chung sống, Symbiote gần như đã có thể điều khiển vật chủ của chúng như những con rối sống thông qua sự kết hợp giữa các tín hiệu xúc giác và khứu giác. Khi một vài thiên niên kỷ nữa trôi qua, những sinh vật này đã tiếp tục phát triển lên một trật tự không khác gì trật tự của thế giới chúng ta hiện tại. Với sự xuất hiện của các quốc gia, các nền chính trị lớn nhỏ và thậm chí là cả xung đột sắc tộc, mặc cho bản chất của chúng thì lại nhẹ nhàng hơn rất nhiều.  
   
 Trong thời đại này, mặc dù công nghệ gần như đã đáp ứng hầu hết các chức năng cơ bản của vật chủ, nhưng nhìn chung, việc "chăn nuôi" những con rối sống này vẫn phát triển rất mạnh vì nó không quá phức tạp. Một Symbiote bình thường sẽ bắt đầu ngày mới trên một vật chủ chuyên dụng và sẽ chuyển sang một vật chủ khác thoải mái hơn khi anh ta trở về nhà sau giờ làm việc. Và có lẽ, trên chiếc tivi khứu giác của chính mình, anh ta sẽ ngửi thấy tin tức về các cuộc khai quật di tích hàng triệu năm tuổi của Qu, về những khám phá kỳ diệu được trục vớt từ các xác tàu hóa thạch của Star people, hoặc chỉ đơn giản là tin tức các đài thiên văn vô tuyến khổng lồ được xây dựng ở khắp mọi nơi, với mục đích tìm kiếm sự sống ngoài hành tinh.
-![[383969999_633286008989682_7056125777545144126_n.jpg]]
+![[../Utilities/Images/383969999_633286008989682_7056125777545144126_n.jpg]]
 
 ### Sail People  
 > Hậu duệ của Finger Fisher  
@@ -519,7 +519,7 @@ Tuy nhiên, ngay cả khi đã có thể lấy lại tri giác hoàn toàn, Sail
 Mọi chuyện dường như chỉ dừng lại khi một bộ tộc chiến binh nào đó cuối cùng cũng đã phát triển chiến tranh lên quy mô công nghiệp và xây dựng xã hội nhà nước của riêng mình. Những khái niệm về hòa bình cùng với lý tưởng mới thật sự nảy sinh từ đây và giúp người Sailor tìm ra tiếng nói chung trên con đường Thống Nhất của họ…  
   
 Máu của nhiều thế hệ đã nhuộm đỏ đại dương quá lâu rồi.
-![[385744431_633286155656334_1365094273189773465_n.jpg]]
+![[../Utilities/Images/385744431_633286155656334_1365094273189773465_n.jpg]]
 
 ### Satyriacs  
 > Hậu duệ của Hedonist  
@@ -533,7 +533,7 @@ Những sinh vật này nhìn chung vẫn có bề ngoài trông rất giống v
 Nền văn minh Satyriac mới này đã nhanh chóng khẳng định vị thế của họ trên *toàn cầu*, mặc cho lãnh thổ trên mặt đất của họ vốn cũng không lớn hơn gì nếu so nước Úc ngày nay.  
   
 Trong một khoảng thời gian dài sau đó, đã từng có 3 và sau đó là 2 đế quốc lớn trên đất liền cạnh tranh lẫn nhau liên tục trước khi tan rã thành vô số quốc gia nhỏ hơn và cuối cùng tái thống nhất thành một trật tự thế giới mới. Kể từ thời điểm này, thế giới của người Satyriac lại một lần nữa trở thành một Valhalla thật sự, nơi niềm vui tồn tại cùng với các lễ hội, các buổi hòa nhạc và các cuộc truy hoan theo nghi thức diễn ra hàng ngày, hàng tuần.
-![[385733321_633286458989637_4563090776588542973_n.jpg]]
+![[../Utilities/Images/385733321_633286458989637_4563090776588542973_n.jpg]]
 
 
 ### Asteromorphs - Những vị thần, họ thật sự có tồn tại
@@ -550,7 +550,7 @@ Tuy nhiên, ở một số khía cạnh con người, chẳng hạn như những
 Kỳ lạ thay, trái ngược với uy quyền thống trị tuyệt đối của mình trong không gian. Các Asteromorphs khi đó dường như lại không quá quan tâm hay có bất kỳ một động thái nào trước sự phát triển của các giống loài hậu nhân khác vừa mới xuất hiện, thậm chí là cả những cỗ máy tàn bạo vốn từng mang hình hài con người. Họ vẫn ở đó, vẫn định cư ở khắp mọi nơi và vẫn lặng lẽ quan sát tiến trình phát triển của những người anh em của mình.
 
 Lần đầu tiên trong lịch sử, *những vị thần* đã thực sự xuất hiện. Tuy nhiên, họ lại im lặng và thờ ơ, lẳng lặng tồn tại như một bóng ma mờ mịt bí ẩn trong chính bóng tối sâu thẳm của không gian và phần còn lại của loài người. 
-![[386465224_638020968516186_5408913259141743330_n.jpg]]
+![[../Utilities/Images/386465224_638020968516186_5408913259141743330_n.jpg]]
 
 ## Liên minh Đế chế Ngân hà và Gravital, những thế hệ tội đồ của nhân loại
 > C.M Kosemen
@@ -596,4 +596,4 @@ Ngay cả với Qu, những kẻ vốn dĩ mù quáng với đức tin của mì
 Trớ trêu thay, sự tàn nhẫn mà chúng mang đến lại không xuất phát từ bất kỳ một hình thái cảm xúc tiêu cực thực sự nào. Mà chúng... các Gravital từ lâu đã quen với cơ thể máy móc, đơn giản là không muốn thừa nhận "sự sống" từ những người anh em của mình. Và khi những ý nghĩ vặn vẹo này ngày càng trộn lẫn với những giả định sai lầm của chúng với tư cách là "kẻ kế thừa duy nhất" của Star Person. Diệt chủng chắc chắn sẽ là kết quả tất yếu cuối cùng mà chúng sẽ chọn, như một kỹ sư đang lên kế hoạch phá dỡ một tòa nhà bỏ hoang.
 
 Dưới sự thống trị của Máy móc, Ngân hà đang dần bước vào một thời kỳ tăm tối mới. Máu đã thật sự nhuộm đỏ quê nhà chúng thêm một lần nữa, hằng trăm tỷ thế hệ đã ngã xuống và bị lãng quên… chẳng vì điều gì cả.
-![[393726401_643789791272637_5954850046241061253_n.jpg]]
+![[../Utilities/Images/393726401_643789791272637_5954850046241061253_n.jpg]]

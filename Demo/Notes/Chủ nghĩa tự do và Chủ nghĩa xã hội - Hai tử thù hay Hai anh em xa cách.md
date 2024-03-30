@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Marxism MOC]]"
+  - "[[../Maps/Marxism MOC]]"
 tags:
   - marxism
 ---

@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 up:
-  - "[[Firefox MOC]]"
+  - "[[../Maps/Firefox MOC]]"
 tags:
   - on/bt_chiase
 ---
@@ -28,7 +28,7 @@ tags:
 > Nếu dùng mpv bản ăn liền trên thì bỏ qua phần này
 - [[MPV]]  
 - [[File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0]]
-- [[Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..)]]
+- [[chuyển chất lượng video, playlist, subtitle..)](Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..|Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..)]].md)
 - [[Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó]]
 
 ## Cài đặt trên Firefox

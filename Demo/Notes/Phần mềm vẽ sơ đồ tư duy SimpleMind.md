@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 up:
-  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+  - "[[../Maps/Bí thuật MOC]]"
 tags:
   - on/bt_keyngon
 ---
@@ -11,6 +11,6 @@ Chốt lại, anh em nên găm sẵn trong người một phần mềm vẽ sơ 
 
 SimpleMind mình dùng trên Mac là chính, rất xuất sắc, sync được với iPad/iPhone qua iCloud, nên gần như việc phác thảo mọi thứ, mọi nơi rất dễ dàng.
 
-Bên Win mình cũng ấp ủ ý định kiếm một thằng cho anh em để làm phần mềm cơ bản trong hệ thống keyngon, vấn đề là không kiếm được keyngon cho đến khi cao thủ [Lê Quyền]( https://www.facebook.com/groups/685853110047775/user/100004510631524/?__cft__ [0]=AZVCGjRPs25hzC0WN8mtDnqsc-zj3d-1dTi6ItWZwjRQZQEm9QbZqhgB-XnQ7q2C_fiQNRb9pNr3gSmXIY3j7uh9lZKOSNXZDWl_egmTfNw0uKdqNgD5JO_52tGriMYI6c6OSQXrQvFkuHNkk7r3koAt&__tn__=-UK-R) gửi tặng.
+Bên Win mình cũng ấp ủ ý định kiếm một thằng cho anh em để làm phần mềm cơ bản trong hệ thống keyngon, vấn đề là không kiếm được keyngon cho đến khi cao thủ [[ https://www.facebook.com/groups/685853110047775/user/100004510631524/?__cft__ [0]=AZVCGjRPs25hzC0WN8mtDnqsc-zj3d-1dTi6ItWZwjRQZQEm9QbZqhgB-XnQ7q2C_fiQNRb9pNr3gSmXIY3j7uh9lZKOSNXZDWl_egmTfNw0uKdqNgD5JO_52tGriMYI6c6OSQXrQvFkuHNkk7r3koAt&__tn__=-UK-R|Lê Quyền]] gửi tặng.
 
 Link tại [**đây**](https://l.facebook.com/l.php?u=https%3A%2F%2Fjustpaste.it%2F24k3m%3Ffbclid%3DIwAR2HqpR9GMqtOJoQqxRkEnko30k4O7ATwPTaTfgHwt9CUH9pqXKREggDTOk&h=AT2wPoMo_4cj8c5E3udoNFOwYRFoAEmbkezFeN9BdmW4keIm57xi9wDunQWa48Lyd3zhxd-migrVTgfOn8QACq1VxlZZq6LLeaS8LWQyV89Mnj1fZLjE-OVQdH8jz24mf8jU&__tn__=-UK-R&c[0]=AT0Ihgx-KedV0F2JO5j27MhF-LzCe0PHYlUgtkA2dPkcjRyEEaIjszIHvLHh3ARAEoDup-34cf1dngfYFBWqQxPRAz6faW8QTI1fUrqNAaWoAN556Ych3z8SRyGhfdBfeDjpDIX8905YB5_iSS3Q0Z_UzZaGS6zaf5A9k38) nhé.

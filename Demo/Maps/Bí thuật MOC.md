@@ -9,17 +9,16 @@ tags:
 
 ## Tổng hợp link ngon
 
-- [[Tổng hợp các phần mềm từ Microsoft Store]]
-- [[Tổng hợp các trang web tải phần mềm ngon]]
-- [[Tổng hợp các group chất trên Telegram]]
-- [[Tổng hợp các trang giveaway phần mềm bản quyền]]
-- [[Tổng hợp các trang web tải Wallpaper]]
-- [[Tổng hợp các trang web xem phim online]]
-- [[Tổng hợp các trang web tải phần mềm Portable]]
-- [[Tổng hợp các trang tải file ISO Windows]]
-- [[Thư viện Udemy của Nghiện +]]
-- [[Tổng hợp các trang web tải nhạc chất lượng cao]]
-- [[Tổng hợp các trang SMS, Phone verify]]
+- [[../Notes/Tổng hợp các trang web tải phần mềm ngon]]
+- [[../Notes/Tổng hợp các group chất trên Telegram]]
+- [[../Notes/Tổng hợp các trang giveaway phần mềm bản quyền]]
+- [[../Notes/Tổng hợp các trang web tải Wallpaper]]
+- [[../Notes/Tổng hợp các trang web xem phim online]]
+- [[../Notes/Tổng hợp các trang web tải phần mềm Portable]]
+- [[../Notes/Tổng hợp các trang tải file ISO Windows]]
+- [[../Notes/Thư viện Udemy của Nghiện +]]
+- [[../Notes/Tổng hợp các trang web tải nhạc chất lượng cao]]
+- [[../Notes/Tổng hợp các trang SMS, Phone verify]]
 - 
 
 ## Tổng hợp key ngon
@@ -32,23 +31,23 @@ tags:
 
 > Danh sách chúng nó đây: 
 
-- [[Phần mềm diệt virus ESET]]
-- [[Phần mềm chụp màn hình Snagit]]
-- [[Phần mềm IDM - Internet Download Manager]]
-- [[Phần mềm dịch Mate Translate Pro]]
-- [[Phần mềm chuyên trị mất mạng Internet]]
-- [[Adobe Photoshop + Remove Tool]]
-- [[Tổng hợp về khôi phục dữ liệu]]
-- [[Phần mềm dọn dẹp Reg Organizer]]
-- [[Phần mềm vẽ sơ đồ tư duy SimpleMind]]
+- [[../Notes/Phần mềm diệt virus ESET]]
+- [[../Notes/Phần mềm chụp màn hình Snagit]]
+- [[../Notes/Phần mềm IDM - Internet Download Manager]]
+- [[../Notes/Phần mềm dịch Mate Translate Pro]]
+- [[../Notes/Phần mềm chuyên trị mất mạng Internet]]
+- [[../Notes/Adobe Photoshop + Remove Tool]]
+- [[../Notes/Tổng hợp về khôi phục dữ liệu]]
+- [[../Notes/Phần mềm dọn dẹp Reg Organizer]]
+- [[../Notes/Phần mềm vẽ sơ đồ tư duy SimpleMind]]
 
 ## Tổng hợp bí thuật cho xiên thủ
 
 > Danh sách chúng nó đây:
 
-- [[Cách nhận Youtube Prenium 4 tháng miễn phí]]
-- [[Cách xiên Google One XXX Years]]
-- [[Bí kíp xiên Google One tái bản lần thứ 2]]
+- [[../Notes/Cách nhận Youtube Prenium 4 tháng miễn phí]]
+- [[../Notes/Cách xiên Google One XXX Years]]
+- [[../Notes/Bí kíp xiên Google One tái bản lần thứ 2]]
 
 ## Tổng hợp các Starred Github Repositories hay ho
 

@@ -1,5 +1,5 @@
 ---
-up: "[[Marxism MOC]]"
+up: "[[../Maps/Marxism MOC]]"
 tags:
   - "#marxism"
   - "#note/develop🍃"

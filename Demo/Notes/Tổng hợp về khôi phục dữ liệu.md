@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 up:
-  - "[[../Maps/Bí thuật MOC|Bí thuật MOC]]"
+  - "[[../Maps/Bí thuật MOC]]"
 tags:
   - on/bt_chiase
 ---

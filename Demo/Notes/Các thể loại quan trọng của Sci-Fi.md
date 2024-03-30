@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 up:
-  - "[[Kiến thức căn bản về sách]]"
+  - "[[../Maps/Kiến thức căn bản về sách]]"
 tags:
   - on/books
 ---

@@ -1,42 +1,49 @@
 [
   {
-    "tag": "on/history",
-    "tagCount": 3,
-    "relativePaths": [
-      "Notes/Đồng chí B nói về âm mưu chống VN của bè lũ phản động TQ.md",
-      "Notes/Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn.md",
-      "Notes/Một bài viết ấn tượng về Liên Xô thời Stalin.md"
-    ]
-  },
-  {
     "tag": "on/firefox",
-    "tagCount": 17,
+    "tagCount": 25,
     "relativePaths": [
       "Notes/Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ.md",
       "Notes/Từ điển about config để go pro.md",
-      "Notes/Tối ưu cuộn mượt.md",
       "Notes/Tắt OCSP để tăng tốc kết nối tới trang web.md",
       "Notes/Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox.md",
+      "Notes/Tối ưu DNS.md",
+      "Notes/Tối ưu cuộn mượt.md",
       "Notes/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard.md",
+      "Notes/Sử tính và thiêng tính.md",
+      "Notes/Search by Image - Tìm kiếm ảnh, dịch trong ảnh.md",
+      "Notes/Search in Sidebar - Search qua sidebar mà ko cần mở tab mới.md",
+      "Notes/Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,....md",
       "Notes/ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn.md",
-      "Notes/Hướng dẫn sử dụng handlers.json mà ko cần cài addon.md",
       "Notes/Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome.md",
+      "Notes/Hướng dẫn sử dụng handlers.json mà ko cần cài addon.md",
       "Notes/Giới thiệu và một số cách sử dụng userChrome.js.md",
-      "Notes/ECH và cách thức nhà mạng chặn trang web cũng như cách vượt.md",
+      "Notes/Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web.md",
+      "Notes/FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế.md",
       "Notes/DNS là cái chi mô răng rứa.md",
+      "Notes/ECH và cách thức nhà mạng chặn trang web cũng như cách vượt.md",
       "Notes/Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó.md",
       "Notes/Các ông lớn Google-Facebook-Cloudflare fingerprint (đóng dấu vân tay) các bạn như thế nào.md",
+      "Notes/Bật punycode để miễn nhiễm với tên miền giả mạo.md",
       "Notes/Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong.md",
       "Notes/Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU.md",
       "Notes/Addon External Application.md"
     ]
   },
   {
+    "tag": "on/vietnam",
+    "tagCount": 3,
+    "relativePaths": [
+      "Notes/Đồng chí B nói về âm mưu chống VN của bè lũ phản động TQ.md",
+      "Notes/Đôi điều về Trường phái ngoại giao Hồ Chí Minh.md",
+      "Notes/Những cuộc đình công và đấu đá nội bộ trong Đảng Cộng sản xuất phát chính từ đấu tranh giai cấp đang lên ở Việt Nam.md"
+    ]
+  },
+  {
     "tag": "note/boat🚤",
-    "tagCount": 5,
+    "tagCount": 4,
     "relativePaths": [
       "Notes/Đôi điều về Trường phái ngoại giao Hồ Chí Minh.md",
-      "Notes/Tin trà đá.md",
       "Notes/Phật Giáo – Bạo Lực – Chiến Tranh – Răng nanh và Móng vuốt của Đức Phật..md",
       "Notes/Cuộc đối thoại triết học kinh điển giữa Einstein và Tagore.md",
       "Notes/All Tomorrows verse- C.M Kosemen (Memo Ramjet).md"
@@ -54,45 +61,58 @@
   },
   {
     "tag": "on/bt_chiase",
-    "tagCount": 37,
+    "tagCount": 29,
     "relativePaths": [
       "Notes/Ép Firefox lưu cache trên RAM mà không cần RAMDisk.md",
-      "Notes/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey.md",
       "Notes/Usercript mở video trên youtube bằng cách click vào thumbnail.md",
+      "Notes/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey.md",
       "Notes/uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư.md",
+      "Notes/Tổng hợp các trang web tải Wallpaper.md",
       "Notes/Tổng hợp về khôi phục dữ liệu.md",
       "Notes/Tổng hợp các trang web xem phim online.md",
-      "Notes/Tổng hợp các trang web tải Wallpaper.md",
       "Notes/Tổng hợp các trang web tải phần mềm Portable.md",
       "Notes/Tổng hợp các trang web tải phần mềm ngon.md",
-      "Notes/Tổng hợp các trang web tải nhạc chất lượng cao.md",
       "Notes/Tổng hợp các trang tải file ISO Windows.md",
+      "Notes/Tổng hợp các trang web tải nhạc chất lượng cao.md",
       "Notes/Tổng hợp các trang SMS, Phone verify.md",
       "Notes/Tổng hợp các trang giveaway phần mềm bản quyền.md",
       "Notes/Tổng hợp các trang AI hữu ích.md",
       "Notes/Tổng hợp các group chất trên Telegram.md",
-      "Notes/Tối ưu DNS.md",
       "Notes/Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây.md",
-      "Notes/Tridactyl - Lướt web bằng bàn phím giống Vimium.md",
       "Notes/Thư viện Udemy của Nghiện +.md",
       "Notes/Sidebery - Quản lý tab dọc với tính tuỳ biến cao.md",
-      "Notes/Search in Sidebar - Search qua sidebar mà ko cần mở tab mới.md",
-      "Notes/Search by Image - Tìm kiếm ảnh, dịch trong ảnh.md",
-      "Notes/Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,....md",
       "Notes/nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU.md",
       "Notes/Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM.md",
       "Notes/MPV.md",
       "Notes/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp.md",
-      "Notes/Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web.md",
-      "Notes/FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế.md",
       "Notes/File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0.md",
       "Notes/Cách xiên Google One XXX Years.md",
       "Notes/Cách nhận Youtube Prenium 4 tháng miễn phí.md",
-      "Notes/Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..).md",
       "Notes/Các bản mod ngon của Firefox.md",
-      "Notes/Bật punycode để miễn nhiễm với tên miền giả mạo.md",
+      "Notes/Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..).md",
       "Notes/Bí kíp xiên Google One tái bản lần thứ 2.md",
       "Notes/1001 câu hỏi về Testflight của Apple.md"
+    ]
+  },
+  {
+    "tag": "marxism",
+    "tagCount": 15,
+    "relativePaths": [
+      "Notes/Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”.md",
+      "Notes/Tôi sẽ tát vô mặt bạn và hét lên rằng Marxism VÔ TỘI.md",
+      "Notes/Quy định sẽ không bao giờ kết thúc được các cuộc khủng hoảng ngân hàng..md",
+      "Notes/Những nhà tư bản trung thực sẽ nói gì.md",
+      "Notes/Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn.md",
+      "Notes/Những cuộc đình công và đấu đá nội bộ trong Đảng Cộng sản xuất phát chính từ đấu tranh giai cấp đang lên ở Việt Nam.md",
+      "Notes/Một vài suy nghĩ của 1 maxist vô định giữa thời đại này.md",
+      "Notes/Một chủ nghĩa Marx xanh hơn.md",
+      "Notes/Một bài viết ấn tượng về Liên Xô thời Stalin.md",
+      "Notes/Marx và Engels về sinh thái học.md",
+      "Notes/Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844.md",
+      "Notes/Chủ nghĩa Marx đô thị.md",
+      "Notes/CHỦ NGHĨA MARX ĐI VỀ ĐÂU.md",
+      "Notes/Chủ nghĩa tự do và Chủ nghĩa xã hội - Hai tử thù hay Hai anh em xa cách.md",
+      "Notes/Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô.md"
     ]
   },
   {
@@ -103,65 +123,17 @@
     ]
   },
   {
-    "tag": "marxism",
-    "tagCount": 14,
-    "relativePaths": [
-      "Notes/Tôi sẽ tát vô mặt bạn và hét lên rằng Marxism VÔ TỘI.md",
-      "Notes/Sử tính và thiêng tính.md",
-      "Notes/Những nhà tư bản trung thực sẽ nói gì.md",
-      "Notes/Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn.md",
-      "Notes/Những cuộc đình công và đấu đá nội bộ trong Đảng Cộng sản xuất phát chính từ đấu tranh giai cấp đang lên ở Việt Nam.md",
-      "Notes/Một vài suy nghĩ của 1 maxist vô định giữa thời đại này.md",
-      "Notes/Một chủ nghĩa Marx xanh hơn.md",
-      "Notes/Một bài viết ấn tượng về Liên Xô thời Stalin.md",
-      "Notes/Marx và Engels về sinh thái học.md",
-      "Notes/Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844.md",
-      "Notes/Chủ nghĩa tự do và Chủ nghĩa xã hội - Hai tử thù hay Hai anh em xa cách.md",
-      "Notes/Chủ nghĩa Marx đô thị.md",
-      "Notes/CHỦ NGHĨA MARX ĐI VỀ ĐÂU.md",
-      "Notes/Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô.md"
-    ]
-  },
-  {
-    "tag": "on/hust",
-    "tagCount": 1,
-    "relativePaths": [
-      "Notes/System Architecture.md"
-    ]
-  },
-  {
-    "tag": "on/economic",
-    "tagCount": 1,
-    "relativePaths": [
-      "Notes/Quy định sẽ không bao giờ kết thúc được các cuộc khủng hoảng ngân hàng..md"
-    ]
-  },
-  {
     "tag": "on/bt_keyngon",
     "tagCount": 8,
     "relativePaths": [
-      "Notes/Phần mềm vẽ sơ đồ tư duy SimpleMind.md",
       "Notes/Phần mềm IDM - Internet Download Manager.md",
-      "Notes/Phần mềm dọn dẹp Reg Organizer.md",
+      "Notes/Phần mềm vẽ sơ đồ tư duy SimpleMind.md",
       "Notes/Phần mềm dịch Mate Translate Pro.md",
-      "Notes/Phần mềm diệt virus ESET.md",
       "Notes/Phần mềm chụp màn hình Snagit.md",
+      "Notes/Phần mềm diệt virus ESET.md",
+      "Notes/Phần mềm dọn dẹp Reg Organizer.md",
       "Notes/Phần mềm chuyên trị mất mạng Internet.md",
       "Notes/Adobe Photoshop + Remove Tool.md"
-    ]
-  },
-  {
-    "tag": "on/china",
-    "tagCount": 1,
-    "relativePaths": [
-      "Notes/Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn.md"
-    ]
-  },
-  {
-    "tag": "on/vietnam",
-    "tagCount": 1,
-    "relativePaths": [
-      "Notes/Những cuộc đình công và đấu đá nội bộ trong Đảng Cộng sản xuất phát chính từ đấu tranh giai cấp đang lên ở Việt Nam.md"
     ]
   },
   {
@@ -172,24 +144,10 @@
     ]
   },
   {
-    "tag": "on/liberalism",
-    "tagCount": 1,
-    "relativePaths": [
-      "Notes/Chủ nghĩa tự do và Chủ nghĩa xã hội - Hai tử thù hay Hai anh em xa cách.md"
-    ]
-  },
-  {
     "tag": "note/develop🍃",
     "tagCount": 1,
     "relativePaths": [
       "Notes/Chủ nghĩa Marx đô thị.md"
-    ]
-  },
-  {
-    "tag": "on/soviet",
-    "tagCount": 1,
-    "relativePaths": [
-      "Notes/Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô.md"
     ]
   },
   {
